@@ -22,7 +22,19 @@ module.exports = {
         "url": require.resolve("url"),
         "util": require.resolve("util"),
         "vm": require.resolve("vm-browserify"),
-        "zlib": require.resolve("browserify-zlib")
+        "zlib": require.resolve("browserify-zlib"),
+        // Node-only modules pulled in by transitive deps (openai/langchain
+        // server paths) that have no browser equivalent — stub to empty.
+        "child_process": false,
+        "fs/promises": false,
+        "async_hooks": false,
+        "net": false,
+        "tls": false,
+        "dns": false,
+        "perf_hooks": false,
+        "worker_threads": false,
+        "stream/promises": false,
+        "stream/web": false
       };
 
       // Add plugins for polyfills
@@ -32,7 +44,20 @@ module.exports = {
           Buffer: ['buffer', 'Buffer'],
           process: 'process/browser',
         }),
+        // Rewrite `node:xxx` imports to bare `xxx` so the fallbacks above
+        // (browser polyfill or `false`) apply. Handles any node: scheme.
+        new webpack.NormalModuleReplacementPlugin(/^node:/, (resource) => {
+          resource.request = resource.request.replace(/^node:/, '');
+        }),
       ];
+
+      // Allow extensionless imports inside ESM packages (e.g. axios'
+      // `require('process/browser')`) — webpack 5 otherwise rejects them as
+      // "not fully specified".
+      webpackConfig.module.rules.push({
+        test: /\.m?js$/,
+        resolve: { fullySpecified: false },
+      });
 
       // Handle node: imports
       webpackConfig.resolve.alias = {
