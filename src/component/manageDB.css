@@ -1,0 +1,408 @@
+/* Existing styles... */
+
+/* Container */
+.manage-db-container {
+    padding: 20px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header Card */
+.manage-db-header-card {
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    background: white;
+}
+
+.manage-db-header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.manage-db-header-text {
+    flex: 1;
+}
+
+.manage-db-header-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin: 0;
+}
+
+.manage-db-header-subtitle {
+    font-size: 1rem;
+    color: #7f8c8d;
+    margin: 5px 0 0 0;
+}
+
+.manage-db-add-button {
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+/* Configuration Card */
+.manage-db-config-card {
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    background: white;
+}
+
+.manage-db-section-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #34495e;
+    margin-bottom: 15px;
+}
+
+.manage-db-config-row {
+    display: flex;
+    gap: 15px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+.manage-db-config-input {
+    flex: 1;
+    min-width: 250px;
+}
+
+.manage-db-config-label {
+    display: block;
+    font-weight: 500;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.manage-db-input {
+    width: 100%;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.manage-db-refresh-button {
+    padding: 8px 16px;
+    border-radius: 6px;
+}
+
+/* Table Card */
+.manage-db-table-card {
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    background: white;
+}
+
+.manage-db-datatable .p-datatable-tbody > tr:hover {
+    background-color: #f8f9fa;
+    transition: background-color 0.2s ease;
+}
+
+.manage-db-action-buttons {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+}
+
+.manage-db-status-badge {
+    padding: 4px 8px;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.manage-db-status-badge.active {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.manage-db-status-badge.inactive {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+/* Loading */
+.manage-db-loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    color: #6c757d;
+}
+
+.manage-db-loading p {
+    margin-top: 10px;
+}
+
+/* Dialog */
+.manage-db-dialog {
+    border-radius: 12px;
+}
+
+.manage-db-dialog-header {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.manage-db-dialog-content {
+    padding: 20px 0;
+}
+
+.manage-db-dialog-label {
+    display: block;
+    font-weight: 500;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.manage-db-dialog-input {
+    width: 100%;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.manage-db-dialog-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .manage-db-header-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .manage-db-config-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .manage-db-add-button {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .manage-db-dialog {
+        width: 90vw;
+    }
+}
+
+/* Animations */
+.manage-db-header-card, .manage-db-config-card, .manage-db-table-card {
+    animation: fadeInUp 0.5s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Container - Tighter overall spacing */
+.manage-db-container {
+    padding: 15px;
+    background: #f8f9fa;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header - Compact and inline */
+.manage-db-header {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.manage-db-header-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.manage-db-header-subtitle {
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    margin: 5px 0 0 0;
+    flex: 1;
+}
+
+.manage-db-add-button {
+    font-weight: 600;
+    padding: 8px 16px;
+    border-radius: 6px;
+}
+
+/* Configuration - Inline layout */
+.manage-db-config {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+.manage-db-section-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #34495e;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.manage-db-config-row {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.manage-db-input {
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.manage-db-refresh-button {
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+
+/* Table - Reduced height and padding */
+.manage-db-table {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.manage-db-datatable .p-datatable-tbody > tr:hover {
+    background-color: #f1f3f4;
+    transition: background-color 0.2s ease;
+}
+
+.manage-db-action-buttons {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+
+.manage-db-status-badge {
+    padding: 3px 6px;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.manage-db-status-badge.active {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.manage-db-status-badge.inactive {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+/* Loading - Compact */
+.manage-db-loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    color: #6c757d;
+}
+
+.manage-db-loading p {
+    margin-top: 8px;
+}
+
+/* Dialog - Tighter */
+.manage-db-dialog {
+    border-radius: 8px;
+}
+
+.manage-db-dialog-header {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #2c3e50;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.manage-db-dialog-content {
+    padding: 15px 0;
+}
+
+.manage-db-dialog-label {
+    display: block;
+    font-weight: 500;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.manage-db-dialog-input {
+    width: 100%;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+.manage-db-dialog-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    padding-top: 15px;
+}
+
+/* Responsive - Even tighter on mobile */
+@media (max-width: 768px) {
+    .manage-db-container {
+        padding: 10px;
+    }
+
+    .manage-db-header {
+        padding: 10px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .manage-db-config-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .manage-db-add-button {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .manage-db-dialog {
+        width: 90vw;
+    }
+}

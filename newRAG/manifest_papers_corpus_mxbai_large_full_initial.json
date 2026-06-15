@@ -1,0 +1,5066 @@
+{
+  "started": "2026-05-24T16:09:29.605001+00:00",
+  "results": [
+    {
+      "paper_id": "1",
+      "filename": "001 - 2509.22965v2.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "Blockchain-Based Secure Online Voting Platform",
+      "error": ""
+    },
+    {
+      "paper_id": "2",
+      "filename": "002 - Enhancing_Democratic_Processes_A_Survey_of_DRE_Int.pdf",
+      "status": "ok",
+      "chunks": 283,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "3",
+      "filename": "003 - 2501.05626v4.pdf",
+      "status": "ok",
+      "chunks": 134,
+      "failed_chunks": 0,
+      "title": "Kite: How to Delegate Voting Power Privately",
+      "error": ""
+    },
+    {
+      "paper_id": "4",
+      "filename": "004 - 297442fc-9401-4ab5-aa39-1ab2a1c6b279_f1000res160087.pdf",
+      "status": "ok",
+      "chunks": 227,
+      "failed_chunks": 0,
+      "title": "Blockchain-enhanced electoral integrity: a robust",
+      "error": ""
+    },
+    {
+      "paper_id": "5",
+      "filename": "005 - Blockchain_Based_Cryptographic_Algorithm_for_Data_.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "EAI Endorsed Transactions",
+      "error": ""
+    },
+    {
+      "paper_id": "6",
+      "filename": "006 - 1-s2.0-S2772918425000037-main.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "Cyber Security and Applications 3 (2025) 100086",
+      "error": ""
+    },
+    {
+      "paper_id": "9",
+      "filename": "009 - MBCSD-IoT_A_Multi-Level_Blockchain-Assisted_SDN-Based_IoT_Architecture_for_Secured_E-Voting_System.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "MBCSD-IoT: A Multi-Level Blockchain-Assisted",
+      "error": ""
+    },
+    {
+      "paper_id": "10",
+      "filename": "010 - 2025109210.pdf",
+      "status": "ok",
+      "chunks": 52,
+      "failed_chunks": 0,
+      "title": "Securing Blockchain-based E-Voting through",
+      "error": ""
+    },
+    {
+      "paper_id": "11",
+      "filename": "011 - SecureandScalableBlockchainVoting.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "International Journal of Research Publication and Reviews, Vol 6, Issue 8, pp 1172-1185 August, 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "12",
+      "filename": "012 - 1746873897wpdm_ELECTORAL-VOTING-SYSTEM-USING-BLOCKCHAIN.pdf",
+      "status": "ok",
+      "chunks": 64,
+      "failed_chunks": 0,
+      "title": "Electoral Voting System Using Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "13",
+      "filename": "013 - itmconf_icsice2025_02004.pdf",
+      "status": "ok",
+      "chunks": 117,
+      "failed_chunks": 0,
+      "title": "Blockchain-Based Voting Systems Enhancing Transparency and Security in",
+      "error": ""
+    },
+    {
+      "paper_id": "14",
+      "filename": "014 - 05_melange_9.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "Journal of Information Systems Engineering and Management",
+      "error": ""
+    },
+    {
+      "paper_id": "15",
+      "filename": "015 - Human Behavior and Emerging Technologies - 2025 - Rolda\u0303o Pereira - Empowering Democracy  Does Blockchain Unlock the.pdf",
+      "status": "ok",
+      "chunks": 186,
+      "failed_chunks": 0,
+      "title": "Human Behavior and Emerging Technologies",
+      "error": ""
+    },
+    {
+      "paper_id": "17",
+      "filename": "017 - 2502.16127v1.pdf",
+      "status": "ok",
+      "chunks": 42,
+      "failed_chunks": 0,
+      "title": "A New Era of Elections: Leveraging Blockchain for Fair and",
+      "error": ""
+    },
+    {
+      "paper_id": "18",
+      "filename": "018 - 2025-1146.pdf",
+      "status": "ok",
+      "chunks": 172,
+      "failed_chunks": 0,
+      "title": "QV-net: Decentralized Self-Tallying Quadratic Voting with",
+      "error": ""
+    },
+    {
+      "paper_id": "21",
+      "filename": "021 - VoteMate_A_Decentralized_Application_for_Scalable_.pdf",
+      "status": "ok",
+      "chunks": 21,
+      "failed_chunks": 0,
+      "title": "1v79751.5052:viXra",
+      "error": ""
+    },
+    {
+      "paper_id": "24",
+      "filename": "024 - 17174-Article Text-74990-1-10-20260320.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Fadli Nurfajar, Asep Erlan Maulana",
+      "error": ""
+    },
+    {
+      "paper_id": "25",
+      "filename": "025 - Paper23909.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "30",
+      "filename": "030 - A_Privacy-Preserving_E-Voting_System_using_Federat.pdf",
+      "status": "ok",
+      "chunks": 87,
+      "failed_chunks": 0,
+      "title": "Diyala Journal of Engineering Sciences Vol (18) No 3, 2025: 178-194",
+      "error": ""
+    },
+    {
+      "paper_id": "31",
+      "filename": "031 - 39_Development+of+Student+Government+E-Voting+Application.pdf",
+      "status": "ok",
+      "chunks": 86,
+      "failed_chunks": 0,
+      "title": "ISSN Print: 2984-8288, ISSN Online: 2984-8385",
+      "error": ""
+    },
+    {
+      "paper_id": "36",
+      "filename": "036 - doc.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "13 III March 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "38",
+      "filename": "038 - e8a69b2103317e44cac2b6706db380fc.pdf",
+      "status": "ok",
+      "chunks": 82,
+      "failed_chunks": 0,
+      "title": "A Proposed Blockchain-Based Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "41",
+      "filename": "041 - komaram-p-r-bonagiri-l-dr-muntha-r-biradar-v-duggineni-n-bhookya-p_pbodD.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "Fingerprint-Authenticated Blockchain E-Voting:",
+      "error": ""
+    },
+    {
+      "paper_id": "44",
+      "filename": "044 - BdKCSE2025_Blockchain Framework for E-Voting in Bulgaria_TN IR_31.10.2025 (1).pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "BdKCSE\u20192025",
+      "error": ""
+    },
+    {
+      "paper_id": "45",
+      "filename": "045 - 398-401-IJBAS_36033.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "International Journal of Basic and Applied Sciences, 14 (6) (2025) 398-401",
+      "error": ""
+    },
+    {
+      "paper_id": "46",
+      "filename": "046 - index,+2177-Article+Text-10078-1-2-20250326.pdf",
+      "status": "ok",
+      "chunks": 25,
+      "failed_chunks": 0,
+      "title": "Terbit online pada laman web jurnal : https://e-journal.unper.ac.id/index.php/informatics",
+      "error": ""
+    },
+    {
+      "paper_id": "49",
+      "filename": "049 - document.pdf",
+      "status": "ok",
+      "chunks": 97,
+      "failed_chunks": 0,
+      "title": "Mustansiriyah Journal of Pure and Applied Sciences, Print ISSN: 2957-9910. Online ISSN: 2957-9929, Vol. 3, No. 2, 2025, Pages 135-152",
+      "error": ""
+    },
+    {
+      "paper_id": "53",
+      "filename": "053 - 12+(DONE)-1358.pdf",
+      "status": "ok",
+      "chunks": 58,
+      "failed_chunks": 0,
+      "title": "Jimmy, et al.: Implementation of Blockchain Technology in E-Voting Using 433",
+      "error": ""
+    },
+    {
+      "paper_id": "55",
+      "filename": "055 - Hybrid+E-Voting+System.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research and Modern Technology (IJSRMT) ijsrmt.com",
+      "error": ""
+    },
+    {
+      "paper_id": "56",
+      "filename": "056 - Electwithme_A_Secure-Balloting_Coercion-Resistant_.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "Vol. 11 No. 13s,2025",
+      "error": ""
+    },
+    {
+      "paper_id": "60",
+      "filename": "060 - doc.pdf",
+      "status": "ok",
+      "chunks": 20,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "61",
+      "filename": "061 - 6512.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "E-Voting System Using Machine Learning,",
+      "error": ""
+    },
+    {
+      "paper_id": "66",
+      "filename": "066 - 15536-Article Text-25946-1-10-20251105.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "DOI : https://doi.org/10.33395/jmp.v14i2.15536 p-ISSN : 2089-9424",
+      "error": ""
+    },
+    {
+      "paper_id": "68",
+      "filename": "068 - 343-Article Text-661-1-10-20251030.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "Optimalisasi Sistem Pemilu Melalui Implementasi E-Voting Berbasis",
+      "error": ""
+    },
+    {
+      "paper_id": "71",
+      "filename": "071 - 9046-Article Text-19009-1-10-20250714.pdf",
+      "status": "ok",
+      "chunks": 27,
+      "failed_chunks": 0,
+      "title": "p\u2013ISSN: 2723 \u2013 6609 e-ISSN: 2745-5254",
+      "error": ""
+    },
+    {
+      "paper_id": "72",
+      "filename": "072 - eai.28-4-2025.2358030.pdf",
+      "status": "ok",
+      "chunks": 87,
+      "failed_chunks": 0,
+      "title": "Leveraging Blockchain for the Design and Realization",
+      "error": ""
+    },
+    {
+      "paper_id": "73",
+      "filename": "073 - Safeguarding_E-Voting_with_Blockchain_A_Transparent_and_Reliable_Solution.pdf",
+      "status": "ok",
+      "chunks": 42,
+      "failed_chunks": 0,
+      "title": "Safeguarding E-Voting with Blockchain: A",
+      "error": ""
+    },
+    {
+      "paper_id": "82",
+      "filename": "082 - 2511.16034v1.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "A Quantum-Secure and Blockchain-Integrated",
+      "error": ""
+    },
+    {
+      "paper_id": "83",
+      "filename": "083 - 1739336471wpdm_Survey-On-Secure-E-Voting-Platform.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "Survey on Secure E-Voting Platform",
+      "error": ""
+    },
+    {
+      "paper_id": "84",
+      "filename": "084 - eai.28-4-2025.2357759.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "A Federated AI and DAG-Based Framework for",
+      "error": ""
+    },
+    {
+      "paper_id": "85",
+      "filename": "085 - 2512.13213v1.pdf",
+      "status": "ok",
+      "chunks": 798,
+      "failed_chunks": 0,
+      "title": "Towards Secure Decentralized Applications and",
+      "error": ""
+    },
+    {
+      "paper_id": "86",
+      "filename": "086 - N1.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "Archives available at journals.mriindia.com",
+      "error": ""
+    },
+    {
+      "paper_id": "87",
+      "filename": "087 - Shevchenko_S_Zhdanov\u0430_Y_Skladannyi_P_Ishchuk_M_CETS_4_28_2025.pdf",
+      "status": "ok",
+      "chunks": 60,
+      "failed_chunks": 0,
+      "title": "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e \u0421\u0432\u0456\u0442\u043b\u0430\u043d\u0430 \u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043d\u0430",
+      "error": ""
+    },
+    {
+      "paper_id": "88",
+      "filename": "088 - document.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "URL: www.ijirss.com",
+      "error": ""
+    },
+    {
+      "paper_id": "94",
+      "filename": "094 - jios-1886.pdf",
+      "status": "ok",
+      "chunks": 35,
+      "failed_chunks": 0,
+      "title": "Journal of Information & Optimization Sciences",
+      "error": ""
+    },
+    {
+      "paper_id": "95",
+      "filename": "095 - doc.pdf",
+      "status": "ok",
+      "chunks": 26,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "96",
+      "filename": "096 - 20251025122800_MFD-2025-1-059.1.pdf",
+      "status": "ok",
+      "chunks": 84,
+      "failed_chunks": 0,
+      "title": "Designing a Post-Quantum Blockchain Voting Protocol with Zero-Knowledge Proofs for",
+      "error": ""
+    },
+    {
+      "paper_id": "98",
+      "filename": "098 - Future-Generation_Framework_for_a_Blockchain-Power.pdf",
+      "status": "ok",
+      "chunks": 119,
+      "failed_chunks": 0,
+      "title": "e-ISSN: 2468-4376",
+      "error": ""
+    },
+    {
+      "paper_id": "99",
+      "filename": "099 - published-manuscript.pdf",
+      "status": "ok",
+      "chunks": 79,
+      "failed_chunks": 0,
+      "title": "Vol. 5||Issue 6||pp 70-89||August||2025",
+      "error": ""
+    },
+    {
+      "paper_id": "100",
+      "filename": "100 - 139106.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "Blockchain\u2011Based Secure Voting System: A Transparent and",
+      "error": ""
+    },
+    {
+      "paper_id": "101",
+      "filename": "101 - 600-605.pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "ISSN 2278-2540 | DOI: 10.51583/IJLTEMAS | Volume XIV, Issue IV, April 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "103",
+      "filename": "103 - 51839.pdf",
+      "status": "ok",
+      "chunks": 418,
+      "failed_chunks": 0,
+      "title": "Revolutionizing Democracy: How Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "105",
+      "filename": "105 - doc.pdf",
+      "status": "ok",
+      "chunks": 23,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "106",
+      "filename": "106 - ejoseph,+13+-+25+EVALUATION+OF+ELECTRONIC+BASED.pdf",
+      "status": "ok",
+      "chunks": 90,
+      "failed_chunks": 0,
+      "title": "FUDMA Journal of Sciences (FJS)",
+      "error": ""
+    },
+    {
+      "paper_id": "107",
+      "filename": "107 - Blockchain_in_Electronic_Voting_Systems_Trust_and_.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "Vol. 2, Issue 4, Oct \u2013 Dec 2025 || PP. 69-77 https://doi.org/10.63345/sjaibt.v2.i4.108",
+      "error": ""
+    },
+    {
+      "paper_id": "112",
+      "filename": "112 - MODEL_OF_ELECTRONIC_VOTING_USING_HYPERLEDGER_AND_N.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "\u041f\u0440\u043e\u043a\u043e\u043f\u043e\u0432\u0438\u0447-\u0422\u043a\u0430\u0447\u0435\u043d\u043a\u043e \u0414\u043c\u0438\u0442\u0440\u043e \u0406\u0433\u043e\u0440\u043e\u0432\u0438\u0447",
+      "error": ""
+    },
+    {
+      "paper_id": "117",
+      "filename": "117 - Online-Voting-System-Using-Blockchain-A-Secure-and-Transparent-Approach-1.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "Online Voting System Using Blockchain: A Secure and Transparent Approach",
+      "error": ""
+    },
+    {
+      "paper_id": "118",
+      "filename": "118 - IJISRT25MAY945.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Remote Voting System for Migrant People",
+      "error": ""
+    },
+    {
+      "paper_id": "121",
+      "filename": "121 - doc.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "13 I January 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "122",
+      "filename": "122 - 9bc5cbdb5e472ae2acd63dc5b0432fa17a03.pdf",
+      "status": "ok",
+      "chunks": 87,
+      "failed_chunks": 0,
+      "title": "SelectVote Byzantine Fault Tolerance for Evidence Custody:",
+      "error": ""
+    },
+    {
+      "paper_id": "123",
+      "filename": "123 - published-manuscript.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "Vol. 5||Issue 12||pp 30-43||November||2025",
+      "error": ""
+    },
+    {
+      "paper_id": "124",
+      "filename": "124 - BP-Vot_Blockchain-Based_e-Voting_Using_Smart_Contracts_Differential_Privacy_and_Self-Sovereign_Identities.pdf",
+      "status": "ok",
+      "chunks": 132,
+      "failed_chunks": 0,
+      "title": "Received13February2025,accepted2March2025,dateofpublication5March2025,dateofcurrentversion20March2025.",
+      "error": ""
+    },
+    {
+      "paper_id": "126",
+      "filename": "126 - 1113.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "Journal of Scientific Reports 2025, 10(1), 24-36",
+      "error": ""
+    },
+    {
+      "paper_id": "128",
+      "filename": "128 - Fully_Transparent_Privacy-preserving_yet_Verifiabl.pdf",
+      "status": "ok",
+      "chunks": 114,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Transactions on Privacy. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "129",
+      "filename": "129 - doc.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "13 IV April 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "131",
+      "filename": "131 - 15.+Gerry.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "e-ISSN : 2597-9922",
+      "error": ""
+    },
+    {
+      "paper_id": "133",
+      "filename": "133 - 4.+Wahyudi+(135-147).pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "Jurnal Riset Sains dan Teknologi e-ISSN: 2549-9750",
+      "error": ""
+    },
+    {
+      "paper_id": "135",
+      "filename": "135 - AuraVote_A_Secure_Decentralized_Voting_System_with.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "International Journal of Advanced Research and Interdisciplinary Scientific Endeavours, Vol. 3(3), 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "138",
+      "filename": "138 - vse-136-155.pdf",
+      "status": "ok",
+      "chunks": 105,
+      "failed_chunks": 0,
+      "title": "Vol. 7, No. 2, 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "139",
+      "filename": "139 - Ario+Prayogo-Implementation+of+Decentralized+Systems+in+Electronic+Election+Applications.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "Implementation of Decentralized Systems in Electronic Election Applications",
+      "error": ""
+    },
+    {
+      "paper_id": "140",
+      "filename": "140 -  IJSRSET25122297.pdf",
+      "status": "ok",
+      "chunks": 31,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Science, Engineering and Technology",
+      "error": ""
+    },
+    {
+      "paper_id": "141",
+      "filename": "141 - 21617-42047-1-PB.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "International Journal of Reconfigurable and Embedded Systems (IJRES)",
+      "error": ""
+    },
+    {
+      "paper_id": "144",
+      "filename": "144 - 10_527_JICVOL15NO1JAN2025.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "International Journal of Innovative Computing 15(1) 87-94",
+      "error": ""
+    },
+    {
+      "paper_id": "148",
+      "filename": "148 - Novel_Blockchain-based_Protocols_for_Electronic_Vo.pdf",
+      "status": "ok",
+      "chunks": 141,
+      "failed_chunks": 0,
+      "title": "1v85230.7052:viXra",
+      "error": ""
+    },
+    {
+      "paper_id": "149",
+      "filename": "149 - JISEM_8_Chinmay_5_4674.pdf",
+      "status": "ok",
+      "chunks": 80,
+      "failed_chunks": 0,
+      "title": "e-ISSN: 2468-4376",
+      "error": ""
+    },
+    {
+      "paper_id": "154",
+      "filename": "154 - Blockchain-Based_Approach_to_Ensuring_Transparency.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "\u0411\u0456\u043e\u043d\u0456\u043a\u0430 \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443. 2025. \u2116 2 (103). \u0421. 55\u201361 \u0445\u043d\u0443\u0440\u0435",
+      "error": ""
+    },
+    {
+      "paper_id": "156",
+      "filename": "156 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "13 V May 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "157",
+      "filename": "157 - 21545-42173-1-PB.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "International Journal of Reconfigurable and Embedded Systems (IJRES)",
+      "error": ""
+    },
+    {
+      "paper_id": "158",
+      "filename": "158 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "13 IX September 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "159",
+      "filename": "159 - 39402-85670-1-PB.pdf",
+      "status": "ok",
+      "chunks": 58,
+      "failed_chunks": 0,
+      "title": "Indonesian Journal of Electrical Engineering and Computer Science",
+      "error": ""
+    },
+    {
+      "paper_id": "160",
+      "filename": "160 - 297442fc-9401-4ab5-aa39-1ab2a1c6b279_f1000res160087.pdf",
+      "status": "ok",
+      "chunks": 227,
+      "failed_chunks": 0,
+      "title": "Blockchain-enhanced electoral integrity: a robust",
+      "error": ""
+    },
+    {
+      "paper_id": "161",
+      "filename": "161 - ENHANCED_INFORMATION_SECURITY_FOR_VOTING_SYSTEM_IN.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "Akimova, Laura Aldasheva, Zamira Mukhtarova",
+      "error": ""
+    },
+    {
+      "paper_id": "162",
+      "filename": "162 - Privacy_Preserving_E-Voting_System_Using_Homomorph.pdf",
+      "status": "ok",
+      "chunks": 29,
+      "failed_chunks": 0,
+      "title": "Privacy Preserving E-Voting System Using Homomorphic Encryption",
+      "error": ""
+    },
+    {
+      "paper_id": "163",
+      "filename": "163 - Scientific_Spring_2025-338-339.pdf",
+      "status": "ok",
+      "chunks": 8,
+      "failed_chunks": 0,
+      "title": "Kovtun Y.O., Ph.D student, specialty 281 Public Administration and Management",
+      "error": ""
+    },
+    {
+      "paper_id": "164",
+      "filename": "164 - 050_860+(701-714).pdf",
+      "status": "ok",
+      "chunks": 60,
+      "failed_chunks": 0,
+      "title": "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e \u0421\u0432\u0456\u0442\u043b\u0430\u043d\u0430 \u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u043d\u0430",
+      "error": ""
+    },
+    {
+      "paper_id": "165",
+      "filename": "165 - telecom-06-00078.pdf",
+      "status": "ok",
+      "chunks": 95,
+      "failed_chunks": 0,
+      "title": "RFID-Enabled Electronic Voting Framework for Secure",
+      "error": ""
+    },
+    {
+      "paper_id": "166",
+      "filename": "166 - 2510.07874v2.pdf",
+      "status": "ok",
+      "chunks": 114,
+      "failed_chunks": 0,
+      "title": "A Quantum Walk-Enabled Blockchain with",
+      "error": ""
+    },
+    {
+      "paper_id": "167",
+      "filename": "167 - 2507.09453v1.pdf",
+      "status": "ok",
+      "chunks": 138,
+      "failed_chunks": 0,
+      "title": "SmartphoneDemocracy: Privacy-Preserving",
+      "error": ""
+    },
+    {
+      "paper_id": "168",
+      "filename": "168 - 2510.21117v2.pdf",
+      "status": "ok",
+      "chunks": 71,
+      "failed_chunks": 0,
+      "title": "DAO-AI: Evaluating Collective Decision-Making through Agentic AI in",
+      "error": ""
+    },
+    {
+      "paper_id": "169",
+      "filename": "169 - s10586-024-04709-8.pdf",
+      "status": "ok",
+      "chunks": 281,
+      "failed_chunks": 0,
+      "title": "ClusterComputing(2025)28:132",
+      "error": ""
+    },
+    {
+      "paper_id": "170",
+      "filename": "170 - Mathematical Problems in Engineering - 2024 - El Kafhali - Blockchain\u2010Based Electronic Voting System  Significance and.pdf",
+      "status": "ok",
+      "chunks": 110,
+      "failed_chunks": 0,
+      "title": "Mathematical Problems in Engineering",
+      "error": ""
+    },
+    {
+      "paper_id": "171",
+      "filename": "171 - futureinternet-16-00388-v2.pdf",
+      "status": "ok",
+      "chunks": 139,
+      "failed_chunks": 0,
+      "title": "future internet",
+      "error": ""
+    },
+    {
+      "paper_id": "172",
+      "filename": "172 - s10586-023-04261-x.pdf",
+      "status": "ok",
+      "chunks": 122,
+      "failed_chunks": 0,
+      "title": "ClusterComputing(2024)27:4015\u20134034",
+      "error": ""
+    },
+    {
+      "paper_id": "173",
+      "filename": "173 - Expert Systems - 2024 - Peelam - DemocracyGuard  Blockchain\u2010based secure voting framework for digital democracy.pdf",
+      "status": "ok",
+      "chunks": 142,
+      "failed_chunks": 0,
+      "title": "Received:22March2024 Revised:25June2024 Accepted:26July2024",
+      "error": ""
+    },
+    {
+      "paper_id": "174",
+      "filename": "174 - 1-s2.0-S1110866524000100-main.pdf",
+      "status": "ok",
+      "chunks": 52,
+      "failed_chunks": 0,
+      "title": "EgyptianInformaticsJournal25(2024)100447",
+      "error": ""
+    },
+    {
+      "paper_id": "175",
+      "filename": "175 - s42979-024-03286-2.pdf",
+      "status": "ok",
+      "chunks": 60,
+      "failed_chunks": 0,
+      "title": "SN Computer Science (2024) 5:921",
+      "error": ""
+    },
+    {
+      "paper_id": "177",
+      "filename": "177 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 20,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "178",
+      "filename": "178 - Blockchain-Based_E-Voting_Mechanisms_A_Survey_and_.pdf",
+      "status": "ok",
+      "chunks": 91,
+      "failed_chunks": 0,
+      "title": "Blockchain-Based E-Voting Mechanisms: A Survey and",
+      "error": ""
+    },
+    {
+      "paper_id": "179",
+      "filename": "179 - s42400-024-00226-8.pdf",
+      "status": "ok",
+      "chunks": 94,
+      "failed_chunks": 0,
+      "title": "Wang et al. Cybersecurity (2024) 7:62 Cybersecurity",
+      "error": ""
+    },
+    {
+      "paper_id": "180",
+      "filename": "180 - 2024.I2.002.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "Zero-knowledge Identity Authentication for E-voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "182",
+      "filename": "182 - 36320-74693-1-PB.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "Indonesian Journal of Electrical Engineering and Computer Science",
+      "error": ""
+    },
+    {
+      "paper_id": "184",
+      "filename": "184 - blockchains-02-00017.pdf",
+      "status": "ok",
+      "chunks": 213,
+      "failed_chunks": 0,
+      "title": "Hybrid-Blockchain-Based Electronic Voting Machine",
+      "error": ""
+    },
+    {
+      "paper_id": "185",
+      "filename": "185 - Intelligent_Gesture-Enhanced_Blockchain_Voting_A_New_Era_of_Secure_and_Accessible_E-Voting.pdf",
+      "status": "ok",
+      "chunks": 92,
+      "failed_chunks": 0,
+      "title": "Received2September2024,accepted17September2024,dateofpublication26September2024,",
+      "error": ""
+    },
+    {
+      "paper_id": "186",
+      "filename": "186 - v1_covered_7ac25760-cb64-4789-bc30-6d93ad7cf856.pdf",
+      "status": "ok",
+      "chunks": 80,
+      "failed_chunks": 0,
+      "title": "EtherVote: A Secure Smart Contract-based e-Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "187",
+      "filename": "187 - 25758-67779-1-PB.pdf",
+      "status": "ok",
+      "chunks": 60,
+      "failed_chunks": 0,
+      "title": "TELKOMNIKA Telecommunication Computing Electronics and Control",
+      "error": ""
+    },
+    {
+      "paper_id": "188",
+      "filename": "188 - A_methodology_for_vulnerability_assessment_and_thr.pdf",
+      "status": "ok",
+      "chunks": 123,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "189",
+      "filename": "189 - The_impact_of_blockchain_and_artificial_intelligen.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "International Journal of Electrical and Computer Engineering (IJECE)",
+      "error": ""
+    },
+    {
+      "paper_id": "190",
+      "filename": "190 - v1_covered_b1027662-85bb-4a9a-be9d-3947aa99d32f.pdf",
+      "status": "ok",
+      "chunks": 156,
+      "failed_chunks": 0,
+      "title": "Improving the End to End Protection in E-voting",
+      "error": ""
+    },
+    {
+      "paper_id": "191",
+      "filename": "191 - 111-127.pdf",
+      "status": "ok",
+      "chunks": 181,
+      "failed_chunks": 0,
+      "title": "https://e-journal.uum.edu.my/index.php/jcia",
+      "error": ""
+    },
+    {
+      "paper_id": "192",
+      "filename": "192 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 39,
+      "failed_chunks": 0,
+      "title": "12 XI November 2024",
+      "error": ""
+    },
+    {
+      "paper_id": "193",
+      "filename": "193 - 34774-72122-1-PB.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "Indonesian Journal of Electrical Engineering and Computer Science",
+      "error": ""
+    },
+    {
+      "paper_id": "194",
+      "filename": "194 - document.pdf",
+      "status": "ok",
+      "chunks": 98,
+      "failed_chunks": 0,
+      "title": "International Journal of Electrical and Computer Engineering (IJECE)",
+      "error": ""
+    },
+    {
+      "paper_id": "195",
+      "filename": "195 - Advancing_E-Voting_Security_Biometrics-Enhanced_Bl.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "1",
+      "error": ""
+    },
+    {
+      "paper_id": "198",
+      "filename": "198 - Verifiable_Random_Function_Schemes_Based_on_SM2_Di.pdf",
+      "status": "ok",
+      "chunks": 88,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Open Journal of the Computer Society. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "9b00224e",
+      "filename": "200.- Send_Message_to_the_Future_Blockchain-Based_Time_Machines_for_Decentralized_Reveal_of_Locked_Information.pdf",
+      "status": "ok",
+      "chunks": 135,
+      "failed_chunks": 0,
+      "title": "Send Message to the Future? Blockchain-Based",
+      "error": ""
+    },
+    {
+      "paper_id": "201",
+      "filename": "201 - 2406.19730v1.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "SaiyamSakhuja S.Balakrishnan",
+      "error": ""
+    },
+    {
+      "paper_id": "202",
+      "filename": "202 - 202405_ZKPsSmartContracts.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "Enhancing Security and Scalability in Electronic Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "203",
+      "filename": "203 - Blockchain-Powered_E-Voting_A_Novel_Approach_to_Se.pdf",
+      "status": "ok",
+      "chunks": 63,
+      "failed_chunks": 0,
+      "title": "Blockchain-Powered E-Voting: A Novel",
+      "error": ""
+    },
+    {
+      "paper_id": "204",
+      "filename": "204 - 161.pdf",
+      "status": "ok",
+      "chunks": 52,
+      "failed_chunks": 0,
+      "title": "2024 International Conference on Advances in Computing, Communication,",
+      "error": ""
+    },
+    {
+      "paper_id": "205",
+      "filename": "205 - s13677-024-00723-8.pdf",
+      "status": "ok",
+      "chunks": 79,
+      "failed_chunks": 0,
+      "title": "Wang et al. Journal of Cloud Computing (2024) 13:160 Journal of Cloud Computing:",
+      "error": ""
+    },
+    {
+      "paper_id": "206",
+      "filename": "206 - DM_2024_SinID_341.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "Data and Metadata. 2024; 3:.341",
+      "error": ""
+    },
+    {
+      "paper_id": "207",
+      "filename": "207 - electronics-13-01853-v2.pdf",
+      "status": "ok",
+      "chunks": 166,
+      "failed_chunks": 0,
+      "title": "electronics",
+      "error": ""
+    },
+    {
+      "paper_id": "208",
+      "filename": "208 - Blockchain_Based_Solution_for_Secured_Transmission_of_Examination_Paper.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "Blockchain Based Solution for Secured",
+      "error": ""
+    },
+    {
+      "paper_id": "209",
+      "filename": "209 - 9973e6d1433390ff832814f049941c608815.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "Immutable and Transparent Electronic Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "211",
+      "filename": "211 - 2.4_ABM_JUL.pdf",
+      "status": "ok",
+      "chunks": 43,
+      "failed_chunks": 0,
+      "title": "2024 2nd World Conference on Communication & Computing (WCONF)",
+      "error": ""
+    },
+    {
+      "paper_id": "212",
+      "filename": "212 - DownloadFull-TextResearchPaperPDFPp209-220.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "Vol-05|Issue-06|June|Year-2025 InternationalJournalofAcademicandIndustrialResearchInnovations(IJAIRI)ISSN:3049-2343(Online)",
+      "error": ""
+    },
+    {
+      "paper_id": "213",
+      "filename": "213 - 2407.00534v1.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "Blockchain based Decentralized Petition System",
+      "error": ""
+    },
+    {
+      "paper_id": "214",
+      "filename": "214 - Anonymous_voting_using_distributed_ledger-assisted.pdf",
+      "status": "ok",
+      "chunks": 126,
+      "failed_chunks": 0,
+      "title": "Schiedermeier et al. Applied Network Science (2024) 9:51 Applied Network Science",
+      "error": ""
+    },
+    {
+      "paper_id": "215",
+      "filename": "215 - FortifiedMulti-platformE-votingSolution1.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "Fortified Multi-platform E-voting Solution",
+      "error": ""
+    },
+    {
+      "paper_id": "217",
+      "filename": "217 - Paper15999.pdf",
+      "status": "ok",
+      "chunks": 21,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "218",
+      "filename": "218 - [Galley]+159-168_1305.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "JOIN (Jurnal Online Informatika)",
+      "error": ""
+    },
+    {
+      "paper_id": "219",
+      "filename": "219 - IJSRA-2024-0707.pdf",
+      "status": "ok",
+      "chunks": 25,
+      "failed_chunks": 0,
+      "title": "Blockchain-based e-voting systems: Enhancing security, transparency and trust",
+      "error": ""
+    },
+    {
+      "paper_id": "220",
+      "filename": "220 - Systematic_Review_to_Propose_a_Blockchain-based_Di.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "Systematic Review to Propose a Blockchain-Based Digital Forensic",
+      "error": ""
+    },
+    {
+      "paper_id": "222",
+      "filename": "222 - a365105-016(2024).pdf",
+      "status": "ok",
+      "chunks": 58,
+      "failed_chunks": 0,
+      "title": "Development of an Electronic Voting System using Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "224",
+      "filename": "224 - EOS_Blockchain-Based_Electronic_Voting_System.pdf",
+      "status": "ok",
+      "chunks": 19,
+      "failed_chunks": 0,
+      "title": "EOS Blockchain-Based Electronic Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "226",
+      "filename": "226 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 18,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "228",
+      "filename": "228 - 32871.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "A Blockchain Technology Based Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "236",
+      "filename": "236 - 3723178.3723275.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "A Comprehensive Analysis of Blockchain-Based Voting Systems:",
+      "error": ""
+    },
+    {
+      "paper_id": "237",
+      "filename": "237 - .pdf",
+      "status": "ok",
+      "chunks": 150,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "238",
+      "filename": "238 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 26,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "239",
+      "filename": "239 - Paper18787.pdf",
+      "status": "ok",
+      "chunks": 24,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "240",
+      "filename": "240 - Blockchain_Democracy_Evaluating_a_Secure.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "( Peer-Reviewed, Open Access, Fully Refereed International Journal )",
+      "error": ""
+    },
+    {
+      "paper_id": "241",
+      "filename": "241 - 27572.pdf",
+      "status": "ok",
+      "chunks": 21,
+      "failed_chunks": 0,
+      "title": "E-Voting in India: A Secure, Transparent, and",
+      "error": ""
+    },
+    {
+      "paper_id": "243",
+      "filename": "243 - 9-Blockchain-Voting-System-An-NFT-Based-Approach.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "ISSN (Online): 2347-5552, Volume-12, Issue-5 September 2024",
+      "error": ""
+    },
+    {
+      "paper_id": "245",
+      "filename": "245 - cryptography-08-00042-v2.pdf",
+      "status": "ok",
+      "chunks": 92,
+      "failed_chunks": 0,
+      "title": "cryptography",
+      "error": ""
+    },
+    {
+      "paper_id": "246",
+      "filename": "246 - ETASR_8440.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "Engineering, Technology & Applied Science Research Vol. 14, No. 6, 2024, 19009-19015 19009",
+      "error": ""
+    },
+    {
+      "paper_id": "247",
+      "filename": "247 - 171_The.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "248",
+      "filename": "248 - Paper17955.pdf",
+      "status": "ok",
+      "chunks": 31,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "249",
+      "filename": "249 - Secure_Routing_E-voting_Protocol_based_on_Wireless.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "Open Access | Rapid and quality publishing Research Article | Volume 12, Issue 4 | Pages 1381-1390 | e-ISSN: 2347-470X",
+      "error": ""
+    },
+    {
+      "paper_id": "250",
+      "filename": "250 - itmconf_amict2023_01011.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "Secure-Tech Triad Enhancing Electronic Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "251",
+      "filename": "251 - Paper22867.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "254",
+      "filename": "254 - Blockchain-Based_E-Voting_System_A_Decentralized_A.pdf",
+      "status": "ok",
+      "chunks": 93,
+      "failed_chunks": 0,
+      "title": "International Journal of Frontier Technology and Engineering (IJFTE)",
+      "error": ""
+    },
+    {
+      "paper_id": "256",
+      "filename": "256 - The_Use_of_Blockchain_to_Prevent_Vote_Manipulation.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "Volume 3, No. 12 December 2024 - (2768-2776)",
+      "error": ""
+    },
+    {
+      "paper_id": "257",
+      "filename": "257 - JETIR2404504.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "Ayush Abhigyan Soham Ghosh Mrs. R. Brindha",
+      "error": ""
+    },
+    {
+      "paper_id": "265",
+      "filename": "265 - 3341105.3373884.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "Design and Implementation of Cast-as-Intended Verifiability",
+      "error": ""
+    },
+    {
+      "paper_id": "266",
+      "filename": "266 - Voting-System-Using-Blockchain-Technology.pdf",
+      "status": "ok",
+      "chunks": 24,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Engineering and Management (IJSREM)",
+      "error": ""
+    },
+    {
+      "paper_id": "267",
+      "filename": "267 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "12 III March 2024",
+      "error": ""
+    },
+    {
+      "paper_id": "268",
+      "filename": "268 - document.pdf",
+      "status": "ok",
+      "chunks": 112,
+      "failed_chunks": 0,
+      "title": "Success Factors for Conceptual Digital",
+      "error": ""
+    },
+    {
+      "paper_id": "269",
+      "filename": "269 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "12 II February 2024",
+      "error": ""
+    },
+    {
+      "paper_id": "273",
+      "filename": "273 - Implementasi_Sistem_E-Voting_Berbasis_Blockchain_M.pdf",
+      "status": "ok",
+      "chunks": 80,
+      "failed_chunks": 0,
+      "title": "Magasky Rivano1, Julfahmi Syahputra2, Muhammad Qolbi Jefri3",
+      "error": ""
+    },
+    {
+      "paper_id": "275",
+      "filename": "275 - CP2.pdf",
+      "status": "ok",
+      "chunks": 42,
+      "failed_chunks": 0,
+      "title": "Secure E-voting: Leveraging Blockchain technology",
+      "error": ""
+    },
+    {
+      "paper_id": "277",
+      "filename": "277 - 1727066671wpdm_Blockchain-Technology.pdf",
+      "status": "ok",
+      "chunks": 18,
+      "failed_chunks": 0,
+      "title": "Mrs.Shallu Dogra",
+      "error": ""
+    },
+    {
+      "paper_id": "281",
+      "filename": "281 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "283",
+      "filename": "283 - 5488_xmp.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "Indexed in Clarivate Analytics WoS, and ScienceOPEN",
+      "error": ""
+    },
+    {
+      "paper_id": "284",
+      "filename": "284 - B11050713.pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "IOSR Journal of Mobile Computing & Application (IOSR-JMCA)",
+      "error": ""
+    },
+    {
+      "paper_id": "286",
+      "filename": "286 - Neural-Based_Secured_Decentralized_E-Voting_Framew.pdf",
+      "status": "ok",
+      "chunks": 125,
+      "failed_chunks": 0,
+      "title": "Annals of Emerging Technologies in Computing (AETiC)",
+      "error": ""
+    },
+    {
+      "paper_id": "289",
+      "filename": "289 - Integrating-Blockchain-Technology-for-Privacy-Preserving-and-Tamper-Proof-Electronic-Voting.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "Integrating Blockchain Technology for Privacy-Preserving and Tamper-",
+      "error": ""
+    },
+    {
+      "paper_id": "290",
+      "filename": "290 - Optimizing_Electoral_Integrity_Real-Time_Control_o.pdf",
+      "status": "ok",
+      "chunks": 72,
+      "failed_chunks": 0,
+      "title": "Current Journal of Applied Science and Technology",
+      "error": ""
+    },
+    {
+      "paper_id": "292",
+      "filename": "292 - 223-234.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "vestnik.alt.edu.kz",
+      "error": ""
+    },
+    {
+      "paper_id": "295",
+      "filename": "295 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 35,
+      "failed_chunks": 0,
+      "title": "12 V May 2024",
+      "error": ""
+    },
+    {
+      "paper_id": "297",
+      "filename": "297 - issue+6+pap+4+-corrected-final.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "International Journal of Engineering",
+      "error": ""
+    },
+    {
+      "paper_id": "298",
+      "filename": "298 - 3719384.3719452.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "Cross-Chain Blockchain Voting System with NFT-Based",
+      "error": ""
+    },
+    {
+      "paper_id": "300",
+      "filename": "300 - 2403.05275v1.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "vSPACE: Voting in a Scalable, Privacy-Aware",
+      "error": ""
+    },
+    {
+      "paper_id": "301",
+      "filename": "301 - b_vote_block_chain_based_voting_system.pdf",
+      "status": "ok",
+      "chunks": 35,
+      "failed_chunks": 0,
+      "title": "International Journal of Innovative Research in Engineering",
+      "error": ""
+    },
+    {
+      "paper_id": "302",
+      "filename": "302 - Establishing_Trust_in_Online_Voting_Blockchain_Solutions_for_Secure_Elections_with_Immutability_and_Efficiency.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "Establishing Trust in Online Voting: Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "305",
+      "filename": "305 - 204-448-1-SM.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "48 \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0438 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b / Information and Intelligent Systems",
+      "error": ""
+    },
+    {
+      "paper_id": "307",
+      "filename": "307 - fin_ijprems1758097130.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "AND SCIENCE (IJPREMS) Impact",
+      "error": ""
+    },
+    {
+      "paper_id": "312",
+      "filename": "312 - 339-349.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "vestnik.alt.edu.kz",
+      "error": ""
+    },
+    {
+      "paper_id": "316",
+      "filename": "316 - 8991-Article Text-37434-1-10-20241217.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "Jurnal Comasie",
+      "error": ""
+    },
+    {
+      "paper_id": "317",
+      "filename": "317 - content.pdf",
+      "status": "ok",
+      "chunks": 246,
+      "failed_chunks": 0,
+      "title": "Master Degree Program in",
+      "error": ""
+    },
+    {
+      "paper_id": "318",
+      "filename": "318 - Jimoh_Ismaila.pdf",
+      "status": "ok",
+      "chunks": 156,
+      "failed_chunks": 0,
+      "title": "THESIS \u2013 BACHELOR'S DEGREE\nTECHNOLOGY, COMMUNICATION AND TRANSPORT\nASSESSING THE ROLE OF BLOCKCHAIN-BASED\nVOTING SYSTEMS",
+      "error": ""
+    },
+    {
+      "paper_id": "320",
+      "filename": "320 - manjuraristo,+45.+Helen+Dian+Fridayani,+Li-Chun+Chiang,+Fadia+Azzahra+833+-+855.pdf",
+      "status": "ok",
+      "chunks": 95,
+      "failed_chunks": 0,
+      "title": "Social and Political Science Faculty, Universitas Muhammadiyah Ponorogo. 833",
+      "error": ""
+    },
+    {
+      "paper_id": "321",
+      "filename": "321 - CD 14692.pdf",
+      "status": "ok",
+      "chunks": 147,
+      "failed_chunks": 0,
+      "title": "emerson.ceracapa@epn.edu.ec",
+      "error": ""
+    },
+    {
+      "paper_id": "322",
+      "filename": "322 - CD 14569.pdf",
+      "status": "ok",
+      "chunks": 162,
+      "failed_chunks": 0,
+      "title": "andres.armendariz@epn.edu.ec",
+      "error": ""
+    },
+    {
+      "paper_id": "323",
+      "filename": "323 - 1.Armendariz.Andres.TIC.401.pdf",
+      "status": "ok",
+      "chunks": 4,
+      "failed_chunks": 0,
+      "title": "FACULTAD DE INGENIERIA EN SISTEMAS\nDISE\u00d1O Y PROTOTIPO DE UN SISTEMA DE AUDITORIA Y CONTROL\nELECTORAL PARA LOS PROCESO DE",
+      "error": ""
+    },
+    {
+      "paper_id": "324",
+      "filename": "324 - Blockchain_y_Web_30_Creacion_de_una_Plataforma_Elec_Pena_Lopez_Carlos_Andres.pdf",
+      "status": "ok",
+      "chunks": 357,
+      "failed_chunks": 0,
+      "title": "Polit\u00e9cnica",
+      "error": ""
+    },
+    {
+      "paper_id": "325",
+      "filename": "325 - Biometric_Voting_Integrated_with_Islamic_Political.pdf",
+      "status": "ok",
+      "chunks": 138,
+      "failed_chunks": 0,
+      "title": "Volume 21No 1, Page69-96",
+      "error": ""
+    },
+    {
+      "paper_id": "326",
+      "filename": "326 - 1-s2.0-S0148296323001224-main.pdf",
+      "status": "ok",
+      "chunks": 96,
+      "failed_chunks": 0,
+      "title": "JournalofBusinessResearch160(2023)113764",
+      "error": ""
+    },
+    {
+      "paper_id": "327",
+      "filename": "327 - electronics-13-00017.pdf",
+      "status": "ok",
+      "chunks": 216,
+      "failed_chunks": 0,
+      "title": "electronics",
+      "error": ""
+    },
+    {
+      "paper_id": "328",
+      "filename": "328 - E-voting_Meets_Blockchain_A_Survey.pdf",
+      "status": "ok",
+      "chunks": 143,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "329",
+      "filename": "329 - 3576915.3616683.pdf",
+      "status": "ok",
+      "chunks": 145,
+      "failed_chunks": 0,
+      "title": "Verifiable Mix-Nets and Distributed Decryption for Voting from",
+      "error": ""
+    },
+    {
+      "paper_id": "330",
+      "filename": "330 - applsci-13-01096-v2.pdf",
+      "status": "ok",
+      "chunks": 96,
+      "failed_chunks": 0,
+      "title": "Privacy-Preserving E-Voting System Supporting Score Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "331",
+      "filename": "331 - A_remote_and_cost-optimized_voting_system_using_bl.pdf",
+      "status": "ok",
+      "chunks": 103,
+      "failed_chunks": 0,
+      "title": "IETBlockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "332",
+      "filename": "332 - Blockchain-based_Secure_Voting_Mechanism_Underlyin.pdf",
+      "status": "ok",
+      "chunks": 108,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "334",
+      "filename": "334 - PVPBC_Privacy_and_Verifiability_Preserving_E-Votin.pdf",
+      "status": "ok",
+      "chunks": 137,
+      "failed_chunks": 0,
+      "title": "future internet",
+      "error": ""
+    },
+    {
+      "paper_id": "335",
+      "filename": "335 - Conceptual_Architecture_of_a_Blockchain_Solution_f.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "Received29December2022,accepted20February2023,dateofpublication22February2023,dateofcurrentversion27February2023.",
+      "error": ""
+    },
+    {
+      "paper_id": "336",
+      "filename": "336 - d739655a502bed69810ed5f9debd8653c321.pdf",
+      "status": "ok",
+      "chunks": 75,
+      "failed_chunks": 0,
+      "title": "Engineering and Technology Journal 41 (04) (2023) 562- 577",
+      "error": ""
+    },
+    {
+      "paper_id": "339",
+      "filename": "339 - 3598302.pdf",
+      "status": "ok",
+      "chunks": 131,
+      "failed_chunks": 0,
+      "title": "ElectAnon: A Blockchain-based, Anonymous, Robust, and Scalable",
+      "error": ""
+    },
+    {
+      "paper_id": "340",
+      "filename": "340 - A_Secure_Decentralized_E-Voting_ROHIT_paper.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "A Secure Decentralized E-Voting with Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "341",
+      "filename": "341 - 3555776.3578603.pdf",
+      "status": "ok",
+      "chunks": 80,
+      "failed_chunks": 0,
+      "title": "SBvote: Scalable Self-Tallying Blockchain-Based Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "342",
+      "filename": "342 - ECC-EXONUM-eVOTING_A_Novel_Signature-Based_e-Votin.pdf",
+      "status": "ok",
+      "chunks": 131,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Open Journal of the Communications Society. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "343",
+      "filename": "343 - cryptography-07-00027.pdf",
+      "status": "ok",
+      "chunks": 100,
+      "failed_chunks": 0,
+      "title": "cryptography",
+      "error": ""
+    },
+    {
+      "paper_id": "344",
+      "filename": "344 - asi-06-00070.pdf",
+      "status": "ok",
+      "chunks": 99,
+      "failed_chunks": 0,
+      "title": "Secure Voting Website Using Ethereum and Smart Contracts",
+      "error": ""
+    },
+    {
+      "paper_id": "345",
+      "filename": "345 - 3576915.3623171.pdf",
+      "status": "ok",
+      "chunks": 136,
+      "failed_chunks": 0,
+      "title": "How Hard is Takeover in DPoS Blockchains?",
+      "error": ""
+    },
+    {
+      "paper_id": "346",
+      "filename": "346 - electronics-12-01968.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "electronics",
+      "error": ""
+    },
+    {
+      "paper_id": "347",
+      "filename": "347 - Secure+and+Transparent+Elections_+Exploring+Decentralized+Electronic+Voting+on+P2P+Blockchain.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "Secure and Transparent Elections: Exploring",
+      "error": ""
+    },
+    {
+      "paper_id": "349",
+      "filename": "349 - e3sconf_icmpc2023_01046.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "Decentralized and Automated Online Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "350",
+      "filename": "350 - Security Attacks on E-Voting System Using Blockchain.pdf",
+      "status": "ok",
+      "chunks": 72,
+      "failed_chunks": 0,
+      "title": "IIrraaqqii JJoouurrnnaall ffoorr CCoommppuutteerr SScciieennccee aanndd MMaatthheemmaattiiccss",
+      "error": ""
+    },
+    {
+      "paper_id": "352",
+      "filename": "352 - applsci-13-07905-v2.pdf",
+      "status": "ok",
+      "chunks": 96,
+      "failed_chunks": 0,
+      "title": "Online Voting Scheme Using IBM Cloud-Based Hyperledger",
+      "error": ""
+    },
+    {
+      "paper_id": "355",
+      "filename": "355 - 2307.08412v1.pdf",
+      "status": "ok",
+      "chunks": 43,
+      "failed_chunks": 0,
+      "title": "A Privacy-Preserving Blockchain-based E-voting",
+      "error": ""
+    },
+    {
+      "paper_id": "356",
+      "filename": "356 - 3605423.3605435.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "Review on blockchain-based e-voting systems",
+      "error": ""
+    },
+    {
+      "paper_id": "357",
+      "filename": "357 - 3555776.3577750.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "Design and Implementation of a Blockchain-based e-Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "361",
+      "filename": "361 - 11739988952.pdf",
+      "status": "ok",
+      "chunks": 64,
+      "failed_chunks": 0,
+      "title": "Blockchain-Based E-Voting System with Face Recognition",
+      "error": ""
+    },
+    {
+      "paper_id": "362",
+      "filename": "362 - walhi,+9.+setiawan+219-231.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "Terakreditasi SINTA 3 n219",
+      "error": ""
+    },
+    {
+      "paper_id": "366",
+      "filename": "366 - TEMSCON_116.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "2023 IEEE Technology Engineering Management Conference - Asia",
+      "error": ""
+    },
+    {
+      "paper_id": "368",
+      "filename": "368 - An-On-Site-Electronic-Voting-System-Using-Blockchain-and-Biometrics.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "808 The International Arab Journal of Information Technology, Vol. 20, No. 5, September 2023",
+      "error": ""
+    },
+    {
+      "paper_id": "370",
+      "filename": "370 - document.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "International Journal of Electrical and Computer Engineering (IJECE)",
+      "error": ""
+    },
+    {
+      "paper_id": "374",
+      "filename": "374 - 2023-ICC.pdf",
+      "status": "ok",
+      "chunks": 60,
+      "failed_chunks": 0,
+      "title": "DBE-voting: A Privacy-preserving and Auditable",
+      "error": ""
+    },
+    {
+      "paper_id": "375",
+      "filename": "375 - 2307.10726v1.pdf",
+      "status": "ok",
+      "chunks": 21,
+      "failed_chunks": 0,
+      "title": "1v62701.7032:viXra",
+      "error": ""
+    },
+    {
+      "paper_id": "376",
+      "filename": "376 - 2303.06306v1.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "Jagbeer Singh, Utkarsh Rastogi, Yash Goel, Brijesh Gupta, Utkarsh",
+      "error": ""
+    },
+    {
+      "paper_id": "380",
+      "filename": "380 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 31,
+      "failed_chunks": 0,
+      "title": "11 VI June 2023",
+      "error": ""
+    },
+    {
+      "paper_id": "385",
+      "filename": "385 - An-On-Site-Electronic-Voting-System-Using-Blockchain-and-Biometrics.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "808 The International Arab Journal of Information Technology, Vol. 20, No. 5, September 2023",
+      "error": ""
+    },
+    {
+      "paper_id": "386",
+      "filename": "386 - admin,+4.pdf",
+      "status": "ok",
+      "chunks": 86,
+      "failed_chunks": 0,
+      "title": "Available online at www.HighTechJournal.org",
+      "error": ""
+    },
+    {
+      "paper_id": "387",
+      "filename": "387 - Blockchain_and_SDN-IoT_based_secured_voting_system.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "Blockchain and SDN-IoT based secured voting",
+      "error": ""
+    },
+    {
+      "paper_id": "389",
+      "filename": "389 - Paper8547.pdf",
+      "status": "ok",
+      "chunks": 20,
+      "failed_chunks": 0,
+      "title": "Volume 3, Issue 2, February 2023",
+      "error": ""
+    },
+    {
+      "paper_id": "392",
+      "filename": "392 - Cloud_Based_Voting_System_Using_Blockchain_Technology.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "Cloud Based Voting System Using Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "393",
+      "filename": "393 - 3564746.3587107.pdf",
+      "status": "ok",
+      "chunks": 39,
+      "failed_chunks": 0,
+      "title": "AllanB.PedinIV NazliSiasi",
+      "error": ""
+    },
+    {
+      "paper_id": "396",
+      "filename": "396 - Survey-on-Decentralized-Democracy-Blockchain-Voting-System.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "Survey on Decentralized Democracy: Blockchain Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "403",
+      "filename": "403 - IRJIET704041.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "Volume 7, Issue 4, pp 268-274, April-2023",
+      "error": ""
+    },
+    {
+      "paper_id": "404",
+      "filename": "404 - Paper13850.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "405",
+      "filename": "405 - 3585059.3611439.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "Evaluating the Public Perception of a Blockchain-Based Election",
+      "error": ""
+    },
+    {
+      "paper_id": "408",
+      "filename": "408 - IJSEA12051029.pdf",
+      "status": "ok",
+      "chunks": 60,
+      "failed_chunks": 0,
+      "title": "Volume 12-Issue 05, 105 - 113, 2023, ISSN:- 2319 - 7560",
+      "error": ""
+    },
+    {
+      "paper_id": "411",
+      "filename": "411 - 10946.pdf",
+      "status": "ok",
+      "chunks": 31,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Science and Technology",
+      "error": ""
+    },
+    {
+      "paper_id": "412",
+      "filename": "412 - SR23125232540.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "Electronic Voting System based on Blockchain for",
+      "error": ""
+    },
+    {
+      "paper_id": "413",
+      "filename": "413 - ZZZXX-Muyambo-EWS-502.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "Digital Forensic Readiness Model for Internet Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "415",
+      "filename": "415 - document.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "Indonesian Journal of Computer Science",
+      "error": ""
+    },
+    {
+      "paper_id": "416",
+      "filename": "416 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "417",
+      "filename": "417 - document.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "Computer Science and Information Technologies",
+      "error": ""
+    },
+    {
+      "paper_id": "421",
+      "filename": "421 - Modern_Electoral_System_in_Malaysia_using_E-Voting.pdf",
+      "status": "ok",
+      "chunks": 50,
+      "failed_chunks": 0,
+      "title": "A modern electoral system in Malaysia using E-Voting with the implementation of",
+      "error": ""
+    },
+    {
+      "paper_id": "422",
+      "filename": "422 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 21,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "424",
+      "filename": "424 - Paper9486.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "425",
+      "filename": "425 - IEEE_MASS.pdf",
+      "status": "ok",
+      "chunks": 72,
+      "failed_chunks": 0,
+      "title": "d-BAEV: Distributed Blockchain-Based Anonymous Electronic Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "426",
+      "filename": "426 - deepfinal.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "E-Voting System Improvised by Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "429",
+      "filename": "429 - 3.-2106-13-19.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "www.ijeresm.com eISSN \u2013 2583-4894",
+      "error": ""
+    },
+    {
+      "paper_id": "430",
+      "filename": "430 - document.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "International Journal of",
+      "error": ""
+    },
+    {
+      "paper_id": "431",
+      "filename": "431 - TICATE2022-770-777.pdf",
+      "status": "ok",
+      "chunks": 19,
+      "failed_chunks": 0,
+      "title": "Volume 1, Issue 2,2023.ISSN:2987-2499",
+      "error": ""
+    },
+    {
+      "paper_id": "432",
+      "filename": "432 - journal_tiis_17-10_1463016566.pdf",
+      "status": "ok",
+      "chunks": 88,
+      "failed_chunks": 0,
+      "title": "KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS VOL. 17, NO. 10, Oct. 2023 2862",
+      "error": ""
+    },
+    {
+      "paper_id": "435",
+      "filename": "435 - CSEIT2390633.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Computer Science, Engineering and",
+      "error": ""
+    },
+    {
+      "paper_id": "436",
+      "filename": "436 - CSEIT2390416.pdf",
+      "status": "ok",
+      "chunks": 30,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Computer Science, Engineering and",
+      "error": ""
+    },
+    {
+      "paper_id": "437",
+      "filename": "437 - EASY-EVote.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "EASY E-VOTE: An Ethereum-based Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "440",
+      "filename": "440 - fbloc-06-1105119.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "TYPETechnologyandCode",
+      "error": ""
+    },
+    {
+      "paper_id": "445",
+      "filename": "445 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "11 III March 2023",
+      "error": ""
+    },
+    {
+      "paper_id": "447",
+      "filename": "447 - 8305.pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "Advancements in Blockchain Based",
+      "error": ""
+    },
+    {
+      "paper_id": "448",
+      "filename": "448 - Paper13183.pdf",
+      "status": "ok",
+      "chunks": 21,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "450",
+      "filename": "450 - Paper9555.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "454",
+      "filename": "454 - csit130211.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "Lina Lumburovska, Vesna Dimitrova, Aleksandra Popovska-Mitrovikj",
+      "error": ""
+    },
+    {
+      "paper_id": "455",
+      "filename": "455 - AQUA_A_BLOCKCHAIN_BASED_MULTI-WINNER_E-VOTING_SYST.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "www.techniumscience.com",
+      "error": ""
+    },
+    {
+      "paper_id": "456",
+      "filename": "456 - CSEIT2390615.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Computer Science, Engineering and",
+      "error": ""
+    },
+    {
+      "paper_id": "457",
+      "filename": "457 - Paper13682.pdf",
+      "status": "ok",
+      "chunks": 26,
+      "failed_chunks": 0,
+      "title": "International Open-Access, Double-Blind, Peer-Reviewed, Refereed, Multidisciplinary Online Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "458",
+      "filename": "458 - DPS+2023-2-1+Isibor.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "Using Blockchain Technology to Curb",
+      "error": ""
+    },
+    {
+      "paper_id": "461",
+      "filename": "461 - f6037969105649a095713489e81d9db0.marked_iiefpUv.pdf",
+      "status": "ok",
+      "chunks": 23,
+      "failed_chunks": 0,
+      "title": "The impact of security and privacy threat modeling on",
+      "error": ""
+    },
+    {
+      "paper_id": "464",
+      "filename": "464 - KJSE_7(1)_99-104.pdf",
+      "status": "skipped_no_text",
+      "chunks": 0
+    },
+    {
+      "paper_id": "467",
+      "filename": "467 - 11042-Article Text-13937-1-10-20240829.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "Article Received: 25 September 2023 Revised: 12 November 2023 Accepted: 30 November 2023",
+      "error": ""
+    },
+    {
+      "paper_id": "469",
+      "filename": "469 - 1111.pdf",
+      "status": "ok",
+      "chunks": 85,
+      "failed_chunks": 0,
+      "title": "International Journal of Economics, Commerce and Management",
+      "error": ""
+    },
+    {
+      "paper_id": "470",
+      "filename": "470 - Framework-For-Electronic-Voting-System-Using-Blockchain-Technology.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific & Engineering Research Volume 12, Issue 6, June-2021 113",
+      "error": ""
+    },
+    {
+      "paper_id": "471",
+      "filename": "471 - Toward Privacy-Preserving Electronic Voting with Ballot-Spoiling.pdf",
+      "status": "ok",
+      "chunks": 120,
+      "failed_chunks": 0,
+      "title": "Yoonsu Ra",
+      "error": ""
+    },
+    {
+      "paper_id": "473",
+      "filename": "473 - CSE 23-120 DK MA.pdf",
+      "status": "ok",
+      "chunks": 200,
+      "failed_chunks": 0,
+      "title": "Democratization of Voting with Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "475",
+      "filename": "475 - 17174-Article Text-74990-1-10-20260320.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Fadli Nurfajar, Asep Erlan Maulana",
+      "error": ""
+    },
+    {
+      "paper_id": "476",
+      "filename": "476 - 2023-694.pdf",
+      "status": "ok",
+      "chunks": 213,
+      "failed_chunks": 0,
+      "title": "VeriVoting: A decentralized, verifiable and privacy-preserving",
+      "error": ""
+    },
+    {
+      "paper_id": "477",
+      "filename": "477 - BLOCKCHAIN-BASED+ELECTRONIC+VOTING+SYSTEMS.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "\u0412\u0430\u043b\u0435\u0440\u0456\u0439 \u042f\u043b\u0430\u043d\u0435\u0446\u044c\u043a\u0438\u0439",
+      "error": ""
+    },
+    {
+      "paper_id": "478",
+      "filename": "478 - Larriba - Distributed Cryptographic Protocols.pdf",
+      "status": "ok",
+      "chunks": 646,
+      "failed_chunks": 0,
+      "title": "Distributed Cryptographic",
+      "error": ""
+    },
+    {
+      "paper_id": "479",
+      "filename": "479 - EnhancingtheRobustnessofaThree-LayerSecurityElectronicVoting.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "ABUAD Journal of Engineering Research and Development (AJERD)",
+      "error": ""
+    },
+    {
+      "paper_id": "480",
+      "filename": "480 - Dialnet-MejoramientoDeLaSeguridadEnLasEleccionesDeLaUniver-10631227.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Mejoramiento de la seguridad en las elecciones de la",
+      "error": ""
+    },
+    {
+      "paper_id": "481",
+      "filename": "481 - 2742-Article Text-7416-1-10-20230119.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "Yurii Khlaponin*",
+      "error": ""
+    },
+    {
+      "paper_id": "482",
+      "filename": "482 - short5.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "Study of Cyber Security Approaches in Organizing Digital Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "483",
+      "filename": "483 - 2310.12723v1.pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "Tight Short-Lived Signatures\u22c6",
+      "error": ""
+    },
+    {
+      "paper_id": "484",
+      "filename": "484 - Survey E Voting Applications .pdf",
+      "status": "ok",
+      "chunks": 128,
+      "failed_chunks": 0,
+      "title": "Analysis of Blockchain Solutions for E-Voting: A Systematic",
+      "error": ""
+    },
+    {
+      "paper_id": "485",
+      "filename": "485 - A_Framework_to_Make_Voting_System_Transparent_Usin.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "ReceivedApril7,2022,acceptedMay30,2022,dateofpublicationJune3,2022,dateofcurrentversionJune10,2022.",
+      "error": ""
+    },
+    {
+      "paper_id": "486",
+      "filename": "486 - 1-s2.0-S1319157822002221-main.pdf",
+      "status": "ok",
+      "chunks": 106,
+      "failed_chunks": 0,
+      "title": "JournalofKingSaudUniversity\u2013ComputerandInformationSciences34(2022)6855\u20136871",
+      "error": ""
+    },
+    {
+      "paper_id": "488",
+      "filename": "488 - sensors-22-07585-v2.pdf",
+      "status": "ok",
+      "chunks": 270,
+      "failed_chunks": 0,
+      "title": "A Systematic Literature Review and Meta-Analysis on Scalable",
+      "error": ""
+    },
+    {
+      "paper_id": "489",
+      "filename": "489 - Evoting_IEEE.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "Nagesh H R Guru Prasad M S Shivaraj B G",
+      "error": ""
+    },
+    {
+      "paper_id": "490",
+      "filename": "490 - sustainability-14-02917.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "sustainability",
+      "error": ""
+    },
+    {
+      "paper_id": "491",
+      "filename": "491 - Scientific Programming - 2022 - Anwar ul Hassan - A Liquid Democracy Enabled Blockchain\u2010Based Electronic Voting System.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "Scientific Programming",
+      "error": ""
+    },
+    {
+      "paper_id": "493",
+      "filename": "493 - futureinternet-14-00269.pdf",
+      "status": "ok",
+      "chunks": 100,
+      "failed_chunks": 0,
+      "title": "future internet",
+      "error": ""
+    },
+    {
+      "paper_id": "494",
+      "filename": "494 - applsci-12-05477.pdf",
+      "status": "ok",
+      "chunks": 102,
+      "failed_chunks": 0,
+      "title": "Assuring Anonymity and Privacy in Electronic Voting with",
+      "error": ""
+    },
+    {
+      "paper_id": "495",
+      "filename": "495 - electronics-11-03308.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "electronics",
+      "error": ""
+    },
+    {
+      "paper_id": "496",
+      "filename": "496 - electronics-11-01895-v2.pdf",
+      "status": "ok",
+      "chunks": 95,
+      "failed_chunks": 0,
+      "title": "electronics",
+      "error": ""
+    },
+    {
+      "paper_id": "500",
+      "filename": "500 - electronics-11-03359.pdf",
+      "status": "ok",
+      "chunks": 95,
+      "failed_chunks": 0,
+      "title": "electronics",
+      "error": ""
+    },
+    {
+      "paper_id": "506",
+      "filename": "506 - LotfiEzzeddini.pdf",
+      "status": "ok",
+      "chunks": 42,
+      "failed_chunks": 0,
+      "title": "Blockchain for the electronic voting system : case",
+      "error": ""
+    },
+    {
+      "paper_id": "508",
+      "filename": "508 - 2022-A_Secure_Framework_for_E-Voting_Using_Blockchain.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "A Secure Framework for E-Voting Using",
+      "error": ""
+    },
+    {
+      "paper_id": "509",
+      "filename": "509 - 2203.03363v1.pdf",
+      "status": "ok",
+      "chunks": 64,
+      "failed_chunks": 0,
+      "title": "Dispute-free Scalable Open Vote Network using",
+      "error": ""
+    },
+    {
+      "paper_id": "512",
+      "filename": "512 - 4800-Article+Text-54147-59943-10-20220329.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "DOI: 10.24996/ijs.2022.63.3.38",
+      "error": ""
+    },
+    {
+      "paper_id": "513",
+      "filename": "513 - 210_A+Framework+for+Blockchain+Based+E-Voting+System+for+Iraq.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "A Framework for Blockchain Based",
+      "error": ""
+    },
+    {
+      "paper_id": "517",
+      "filename": "517 - DECENTRALIZED_VOTING_SYSTEM_USING_BLOCKC.pdf",
+      "status": "ok",
+      "chunks": 31,
+      "failed_chunks": 0,
+      "title": "Shrutika Gawali1, Deepika Khadgade2, Shrutika Kolhe3, Nikita Vyavhare4, Prof. Madhuri B.",
+      "error": ""
+    },
+    {
+      "paper_id": "519",
+      "filename": "519 - 4241-Article Text-8912-10346-10-20220908.pdf",
+      "status": "ok",
+      "chunks": 49,
+      "failed_chunks": 0,
+      "title": "https://doi.org/10.31449/inf.v46i6.4241 Informatica 46 (2022) 87\u201394 87",
+      "error": ""
+    },
+    {
+      "paper_id": "521",
+      "filename": "521 - 8417.pdf",
+      "status": "ok",
+      "chunks": 60,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Science, Engineering and Technology",
+      "error": ""
+    },
+    {
+      "paper_id": "524",
+      "filename": "524 - provotumn.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "ProvotuM : Decentralized, Mix-Net-based,",
+      "error": ""
+    },
+    {
+      "paper_id": "525",
+      "filename": "525 - EJECE_427+(2).pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "Secured Electronic Voting System Using RSA Key",
+      "error": ""
+    },
+    {
+      "paper_id": "526",
+      "filename": "526 - 79_Valid+Blockchain-Based+E-Voting+Using+Elliptic+Curve+and+Homomorphic+Encryption.pdf",
+      "status": "ok",
+      "chunks": 63,
+      "failed_chunks": 0,
+      "title": "Valid Blockchain-Based E-Voting Using Elliptic Curve",
+      "error": ""
+    },
+    {
+      "paper_id": "528",
+      "filename": "528 - 2206.03182v1.pdf",
+      "status": "ok",
+      "chunks": 97,
+      "failed_chunks": 0,
+      "title": "SANDEEPMISHRA,JaypeeInstituteofInformationTechnology,India",
+      "error": ""
+    },
+    {
+      "paper_id": "529",
+      "filename": "529 - TSP_CMC_23846.pdf",
+      "status": "ok",
+      "chunks": 96,
+      "failed_chunks": 0,
+      "title": "Computers,Materials&Continua TechScience Press",
+      "error": ""
+    },
+    {
+      "paper_id": "533",
+      "filename": "533 - 36.04_10.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "Revue d'Intelligence Artificielle",
+      "error": ""
+    },
+    {
+      "paper_id": "537",
+      "filename": "537 - 27.05_06.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "Ing\u00e9nierie des Syst\u00e8mes d\u2019Information",
+      "error": ""
+    },
+    {
+      "paper_id": "539",
+      "filename": "539 - TNSM_BC-Voting-Considered-Harmful.pdf",
+      "status": "ok",
+      "chunks": 149,
+      "failed_chunks": 0,
+      "title": "Blockchain-based Voting Considered Harmful?",
+      "error": ""
+    },
+    {
+      "paper_id": "541",
+      "filename": "541 - fbloc-05-927013.pdf",
+      "status": "ok",
+      "chunks": 82,
+      "failed_chunks": 0,
+      "title": "published:16June2022",
+      "error": ""
+    },
+    {
+      "paper_id": "543",
+      "filename": "543 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "10 V May 2022",
+      "error": ""
+    },
+    {
+      "paper_id": "544",
+      "filename": "544 - Security and Communication Networks - 2022 - Hu - A Practical Anonymous Voting Scheme Based on Blockchain for Internet of.pdf",
+      "status": "ok",
+      "chunks": 100,
+      "failed_chunks": 0,
+      "title": "Security and Communication Networks",
+      "error": ""
+    },
+    {
+      "paper_id": "548",
+      "filename": "548 - itmconf_icacc2022_03005.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "College Election System using Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "549",
+      "filename": "549 - Decentralized_Voting_System_Based_on_Regions_Using.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "Decentralized Voting System Based on Regions",
+      "error": ""
+    },
+    {
+      "paper_id": "550",
+      "filename": "550 - An_Efficient_Open_Vote_Network_for_Multiple_Candidates.pdf",
+      "status": "ok",
+      "chunks": 95,
+      "failed_chunks": 0,
+      "title": "Received8November2022,accepted21November2022,dateofpublication24November2022,",
+      "error": ""
+    },
+    {
+      "paper_id": "551",
+      "filename": "551 - 2208.01277v1.pdf",
+      "status": "ok",
+      "chunks": 52,
+      "failed_chunks": 0,
+      "title": "This is a pre-print of the following chapter: Sanil S. Gandhi, Arvind W. Kiwelekar, Laxman D. Netak, Hansraj S.",
+      "error": ""
+    },
+    {
+      "paper_id": "552",
+      "filename": "552 - Mobile Information Systems - 2022 - Sherine - Development of an Efficient and Secured E\u2010Voting Mobile Application Using.pdf",
+      "status": "ok",
+      "chunks": 63,
+      "failed_chunks": 0,
+      "title": "Mobile Information Systems",
+      "error": ""
+    },
+    {
+      "paper_id": "554",
+      "filename": "554 - E-voting_System_using_Public_Blockchain.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "2022 IEEE 2nd Mysore Sub Section International Conference (MysuruCon)",
+      "error": ""
+    },
+    {
+      "paper_id": "556",
+      "filename": "556 - publication_paper.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "The usage of this PDF file must comply with the IEICE Provisions",
+      "error": ""
+    },
+    {
+      "paper_id": "559",
+      "filename": "559 - cryptography-06-00058-v2.pdf",
+      "status": "ok",
+      "chunks": 143,
+      "failed_chunks": 0,
+      "title": "cryptography",
+      "error": ""
+    },
+    {
+      "paper_id": "563",
+      "filename": "563 - PUPVOTE_Blockchain-BasedVotingSystemUsingNEARProtocol.docx.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "PUPVOTE: Blockchain-Based Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "564",
+      "filename": "564 - 3372938.3372969.pdf",
+      "status": "ok",
+      "chunks": 35,
+      "failed_chunks": 0,
+      "title": "Proof of Concept Blockchain-based Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "566",
+      "filename": "566 - 626-Al-Zoubi-Article-v10n4pp24-401.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "Preserving Transparency and Integrity of Elections",
+      "error": ""
+    },
+    {
+      "paper_id": "567",
+      "filename": "567 - An_Enhanced_Multi-Level_Authentication_Electronic_.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "p-ISSN 2655-8564, e-ISSN 2685-9432",
+      "error": ""
+    },
+    {
+      "paper_id": "568",
+      "filename": "568 - document.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "How to Cite:",
+      "error": ""
+    },
+    {
+      "paper_id": "575",
+      "filename": "575 - secure-voting-system-using-blockchain-vua1iwb026.pdf",
+      "status": "ok",
+      "chunks": 24,
+      "failed_chunks": 0,
+      "title": "Published by : International Journal of Engineering Research & Technology (IJERT)",
+      "error": ""
+    },
+    {
+      "paper_id": "576",
+      "filename": "576 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "578",
+      "filename": "578 - 3542954.3542974.pdf",
+      "status": "ok",
+      "chunks": 31,
+      "failed_chunks": 0,
+      "title": "Blockchain Technology Integrated Electronic Vote Casting",
+      "error": ""
+    },
+    {
+      "paper_id": "579",
+      "filename": "579 - 3590837.3590894.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "Secure Online Voting System: Blockchain and other Approaches",
+      "error": ""
+    },
+    {
+      "paper_id": "582",
+      "filename": "582 - 5 (5) 58-69.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "A blockchain-based electronic voting system",
+      "error": ""
+    },
+    {
+      "paper_id": "584",
+      "filename": "584 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 39,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "585",
+      "filename": "585 - oalibj_2022072716464061.pdf",
+      "status": "ok",
+      "chunks": 85,
+      "failed_chunks": 0,
+      "title": "Open Access Library Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "587",
+      "filename": "587 - 2207.02711v1.pdf",
+      "status": "ok",
+      "chunks": 166,
+      "failed_chunks": 0,
+      "title": "SocChain: Blockchain with Swift Proportional Governance for",
+      "error": ""
+    },
+    {
+      "paper_id": "588",
+      "filename": "588 - 1-s2.0-S2214212625001784-main.pdf",
+      "status": "ok",
+      "chunks": 156,
+      "failed_chunks": 0,
+      "title": "Journal of Information Security and Applications 93 (2025) 104141",
+      "error": ""
+    },
+    {
+      "paper_id": "592",
+      "filename": "592 - Paper3622.pdf",
+      "status": "ok",
+      "chunks": 25,
+      "failed_chunks": 0,
+      "title": "Volume 2, Issue 2, May 2022",
+      "error": ""
+    },
+    {
+      "paper_id": "593",
+      "filename": "593 - 34-44.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "\u00a9 Universiti Tun Hussein Onn Malaysia Publisher\u2019s Office",
+      "error": ""
+    },
+    {
+      "paper_id": "595",
+      "filename": "595 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "10 XI November 2022",
+      "error": ""
+    },
+    {
+      "paper_id": "596",
+      "filename": "596 - CA19089.pdf",
+      "status": "ok",
+      "chunks": 149,
+      "failed_chunks": 0,
+      "title": "University E-voting System utilizing Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "599",
+      "filename": "599 - Demo2.pdf",
+      "status": "ok",
+      "chunks": 22,
+      "failed_chunks": 0,
+      "title": "Electis.app White Paper",
+      "error": ""
+    },
+    {
+      "paper_id": "600",
+      "filename": "600 - Trabajo_de_grado.pdf",
+      "status": "ok",
+      "chunks": 227,
+      "failed_chunks": 0,
+      "title": "Prototipo de Votaci\u00f3n Electr\u00f3nica basada en",
+      "error": ""
+    },
+    {
+      "paper_id": "601",
+      "filename": "601 - 04 ISC 620 TRABAJO DE GRADO.pdf",
+      "status": "ok",
+      "chunks": 254,
+      "failed_chunks": 0,
+      "title": "Facultad de Ingenier\u00eda en Ciencias Aplicadas",
+      "error": ""
+    },
+    {
+      "paper_id": "602",
+      "filename": "602 - ssrn-2973050.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "Submitted to the \u2018Workshop on Linked Democracy: Artificial Intelligence for Democratic Inno-",
+      "error": ""
+    },
+    {
+      "paper_id": "604",
+      "filename": "604 - 935-\u0422\u0435\u043a\u0441\u0442 \u0441\u0442\u0430\u0442\u0442\u0456-1419-1-10-20221116.pdf",
+      "status": "ok",
+      "chunks": 50,
+      "failed_chunks": 0,
+      "title": "Application of Electoral Blockchain Technology",
+      "error": ""
+    },
+    {
+      "paper_id": "606",
+      "filename": "606 - 2205.12094v1.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "Towards Better Privacy-preserving Electronic",
+      "error": ""
+    },
+    {
+      "paper_id": "607",
+      "filename": "607 - 2202.09122v1.pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "Decentralized Verifiable Mail-in Ballot Counting",
+      "error": ""
+    },
+    {
+      "paper_id": "608",
+      "filename": "608 - On_the_Design_and_Implementation_of_a_Blockchain_E.pdf",
+      "status": "ok",
+      "chunks": 91,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI",
+      "error": ""
+    },
+    {
+      "paper_id": "609",
+      "filename": "609 - E-Voting_System_Based_on_Blockchain_Technology_A_Survey.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "E-Voting System Based on Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "610",
+      "filename": "610 - Security and Communication Networks - 2021 - Tas\u0327 - A Manipulation Prevention Model for Blockchain\u2010Based E\u2010Voting Systems.pdf",
+      "status": "ok",
+      "chunks": 108,
+      "failed_chunks": 0,
+      "title": "Security and Communication Networks",
+      "error": ""
+    },
+    {
+      "paper_id": "611",
+      "filename": "611 - d-BAME.pdf",
+      "status": "ok",
+      "chunks": 108,
+      "failed_chunks": 0,
+      "title": "d-BAME: Distributed Blockchain-Based",
+      "error": ""
+    },
+    {
+      "paper_id": "613",
+      "filename": "613 - document.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Covid-19: Implementation e-voting Blockchain Concept",
+      "error": ""
+    },
+    {
+      "paper_id": "616",
+      "filename": "616 - A_remote_and_cost-optimized_voting_system_using_bl.pdf",
+      "status": "ok",
+      "chunks": 103,
+      "failed_chunks": 0,
+      "title": "IETBlockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "618",
+      "filename": "618 - 3479645.3479706.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "An Ethereum Based Distributed Application for Ensuring the",
+      "error": ""
+    },
+    {
+      "paper_id": "619",
+      "filename": "619 - 3461461.pdf",
+      "status": "ok",
+      "chunks": 76,
+      "failed_chunks": 0,
+      "title": "On Secure E-Voting over Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "620",
+      "filename": "620 - sensors-21-03958-v2.pdf",
+      "status": "ok",
+      "chunks": 102,
+      "failed_chunks": 0,
+      "title": "A Scalable Implementation of Anonymous Voting over",
+      "error": ""
+    },
+    {
+      "paper_id": "623",
+      "filename": "623 - E-Voting_using_Blockchain.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "Journal of Physics: Conference Series",
+      "error": ""
+    },
+    {
+      "paper_id": "624",
+      "filename": "624 - larriba-et-al-2021-distributed-trust-a-blockchain-election-scheme.pdf",
+      "status": "ok",
+      "chunks": 131,
+      "failed_chunks": 0,
+      "title": "INFORMATICA,2021,Vol.32,No.2,321\u2013355 321",
+      "error": ""
+    },
+    {
+      "paper_id": "625",
+      "filename": "625 - 2021029779.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "Online Voting System Based on IoT and Ethereum",
+      "error": ""
+    },
+    {
+      "paper_id": "626",
+      "filename": "626 - engproc-07-00011.pdf",
+      "status": "ok",
+      "chunks": 17,
+      "failed_chunks": 0,
+      "title": "ProceedingPaper",
+      "error": ""
+    },
+    {
+      "paper_id": "627",
+      "filename": "627 - Design_of_Blockchain_based_e-Voting_System_for_Vot.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "Journal of Physics: Conference Series",
+      "error": ""
+    },
+    {
+      "paper_id": "628",
+      "filename": "628 - DecentralizedOnlineVotingusingBlockchainand0ASecretContracts.pdf",
+      "status": "ok",
+      "chunks": 50,
+      "failed_chunks": 0,
+      "title": "Decentralized Online Voting using Blockchain and",
+      "error": ""
+    },
+    {
+      "paper_id": "629",
+      "filename": "629 - 20415-57718-1-PB.pdf",
+      "status": "ok",
+      "chunks": 42,
+      "failed_chunks": 0,
+      "title": "TELKOMNIKATelecommunication,Computing,ElectronicsandControl",
+      "error": ""
+    },
+    {
+      "paper_id": "630",
+      "filename": "630 - 23605-48829-1-PB.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "International Journal of Electrical and Computer Engineering (IJECE)",
+      "error": ""
+    },
+    {
+      "paper_id": "632",
+      "filename": "632 - 2021038494.pdf",
+      "status": "ok",
+      "chunks": 19,
+      "failed_chunks": 0,
+      "title": "HSM-based Key Management Solution for",
+      "error": ""
+    },
+    {
+      "paper_id": "634",
+      "filename": "634 - Security and Communication Networks - 2021 - Chaisawat - Towards Achieving Personal Privacy Protection and Data Security on.pdf",
+      "status": "ok",
+      "chunks": 97,
+      "failed_chunks": 0,
+      "title": "Security and Communication Networks",
+      "error": ""
+    },
+    {
+      "paper_id": "635",
+      "filename": "635 - 2111.05096v1.pdf",
+      "status": "ok",
+      "chunks": 43,
+      "failed_chunks": 0,
+      "title": "E-voting System Using Homomorphic",
+      "error": ""
+    },
+    {
+      "paper_id": "636",
+      "filename": "636 - electronics-10-03075-v2.pdf",
+      "status": "ok",
+      "chunks": 92,
+      "failed_chunks": 0,
+      "title": "electronics",
+      "error": ""
+    },
+    {
+      "paper_id": "638",
+      "filename": "638 - 10.3934_amc.2021005.pdf",
+      "status": "ok",
+      "chunks": 101,
+      "failed_chunks": 0,
+      "title": "AdvancesinMathematicsofCommunications",
+      "error": ""
+    },
+    {
+      "paper_id": "643",
+      "filename": "643 - es8d585.pdf",
+      "status": "ok",
+      "chunks": 78,
+      "failed_chunks": 0,
+      "title": "Eng. Sci., 2021, 16, 341\u2013353",
+      "error": ""
+    },
+    {
+      "paper_id": "646",
+      "filename": "646 - suryasari,+Journal+manager,+(6)IJNMT_Hansrenee+Willysandro_Designing+a+Blockchain-Based+Pemilu+E-Voting+Information+System.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "Designing a Blockchain-based Pemilu",
+      "error": ""
+    },
+    {
+      "paper_id": "647",
+      "filename": "647 - Geetha_2021_J._Phys.__Conf._Ser._1916_012197.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "Journal of Physics:",
+      "error": ""
+    },
+    {
+      "paper_id": "650",
+      "filename": "650 - TSP_IASC_14827.pdf",
+      "status": "skipped_no_text",
+      "chunks": 0
+    },
+    {
+      "paper_id": "653",
+      "filename": "653 - c5cba210078d3f7879ea2e52cfb8f3b1fb57.pdf",
+      "status": "ok",
+      "chunks": 27,
+      "failed_chunks": 0,
+      "title": "Turkish Journal of Computer and Mathematics Education Vol.12 No.1S (2021), 7-12",
+      "error": ""
+    },
+    {
+      "paper_id": "654",
+      "filename": "654 - 2102.10594v1.pdf",
+      "status": "ok",
+      "chunks": 72,
+      "failed_chunks": 0,
+      "title": "AversionofthispaperwillappearintheIEEEInternationalConferenceonBlockchainandCryptocurrency(IEEEICBC2021).Thisisafullversion.",
+      "error": ""
+    },
+    {
+      "paper_id": "655",
+      "filename": "655 - ICBC21-Aeternum.pdf",
+      "status": "ok",
+      "chunks": 81,
+      "failed_chunks": 0,
+      "title": "\u00c6ternum: A Decentralized Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "660",
+      "filename": "660 - Security and Communication Networks - 2021 - Lu - BEvote  Bitcoin\u2010Enabled E\u2010Voting Scheme with Anonymity and Robustness.pdf",
+      "status": "ok",
+      "chunks": 106,
+      "failed_chunks": 0,
+      "title": "Security and Communication Networks",
+      "error": ""
+    },
+    {
+      "paper_id": "661",
+      "filename": "661 - Sharma_2021_IOP_Conf._Ser.__Mater._Sci._Eng._1099_012038.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "IOP Conference Series:",
+      "error": ""
+    },
+    {
+      "paper_id": "662",
+      "filename": "662 - e3sconf_iccsre21_01076.pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "An Electronic Voting System adopting Blockchain:",
+      "error": ""
+    },
+    {
+      "paper_id": "665",
+      "filename": "665 - Controllable_anonymous_authentication_sc.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "Controllable anonymous authentication scheme based on blockchain and decentralized traceable attribute-based",
+      "error": ""
+    },
+    {
+      "paper_id": "667",
+      "filename": "667 - rburley,+main.pdf",
+      "status": "ok",
+      "chunks": 76,
+      "failed_chunks": 0,
+      "title": "Enhancing Electronic Voting with a",
+      "error": ""
+    },
+    {
+      "paper_id": "669",
+      "filename": "669 - Katta_2021_J._Phys.__Conf._Ser._1916_012139.pdf",
+      "status": "ok",
+      "chunks": 23,
+      "failed_chunks": 0,
+      "title": "Journal of Physics:",
+      "error": ""
+    },
+    {
+      "paper_id": "671",
+      "filename": "671 - eai.10-3-2021.168964.pdf",
+      "status": "ok",
+      "chunks": 81,
+      "failed_chunks": 0,
+      "title": "EAI Endorsed Transactions",
+      "error": ""
+    },
+    {
+      "paper_id": "674",
+      "filename": "674 - DesignEngineering.pdf",
+      "status": "ok",
+      "chunks": 35,
+      "failed_chunks": 0,
+      "title": "Issue:5|Pages:2122 - 2130",
+      "error": ""
+    },
+    {
+      "paper_id": "675",
+      "filename": "675 - Voting_System_Based_on_Blockchain.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "Journal of Computer Science Research",
+      "error": ""
+    },
+    {
+      "paper_id": "676",
+      "filename": "676 - A_Transparent_Immutable_and_More_Secured_Voting_Sy.pdf",
+      "status": "ok",
+      "chunks": 25,
+      "failed_chunks": 0,
+      "title": "Journal of Physics: Conference Series",
+      "error": ""
+    },
+    {
+      "paper_id": "677",
+      "filename": "677 - An E-voting System SVD-based with Adaptive Ledger.pdf",
+      "status": "ok",
+      "chunks": 84,
+      "failed_chunks": 0,
+      "title": "Volume 7 Issue 4 Article 5",
+      "error": ""
+    },
+    {
+      "paper_id": "678",
+      "filename": "678 - admin_turcomat,+Maddali.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "Turkish Journal of Computer and Mathematics Education Vol.12 No.10 (2021),6059- 6072",
+      "error": ""
+    },
+    {
+      "paper_id": "679",
+      "filename": "679 - Paper_29-ISAY_Blockchain_based_Intelligent_Polling_System.pdf",
+      "status": "ok",
+      "chunks": 50,
+      "failed_chunks": 0,
+      "title": "\u201ciSAY\u201d: Blockchain-based Intelligent Polling System",
+      "error": ""
+    },
+    {
+      "paper_id": "680",
+      "filename": "680 - ssrn-3852951.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "International Conference on Smart Data Intelligence",
+      "error": ""
+    },
+    {
+      "paper_id": "681",
+      "filename": "681 - e_Voting_System_using_Fingerprint_and_Fa.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "e-Voting System using Fingerprint and Face Recognition",
+      "error": ""
+    },
+    {
+      "paper_id": "682",
+      "filename": "682 - Requirement Analysis of Some Blockchain-based E-voting Schemes[#1048721]-2160155.pdf",
+      "status": "ok",
+      "chunks": 134,
+      "failed_chunks": 0,
+      "title": "Requirement Analysis of Some",
+      "error": ""
+    },
+    {
+      "paper_id": "685",
+      "filename": "685 - Blockchain_marcelo_versaofinal_78-232-1-PB.pdf",
+      "status": "ok",
+      "chunks": 82,
+      "failed_chunks": 0,
+      "title": "A Proposed Blockchain-Based Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "687",
+      "filename": "687 - 3471534.pdf",
+      "status": "ok",
+      "chunks": 3,
+      "failed_chunks": 0,
+      "title": "Editorial on the Special Issue on Election Security",
+      "error": ""
+    },
+    {
+      "paper_id": "688",
+      "filename": "688 - 14-decentralized-incognito-limpid-e-voting-system.pdf",
+      "status": "ok",
+      "chunks": 22,
+      "failed_chunks": 0,
+      "title": "ISSN: 2347-5552, Volume-9, Issue-2, March 2021",
+      "error": ""
+    },
+    {
+      "paper_id": "689",
+      "filename": "689 - e3sconf_icstunkhair2021_03005.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "Cryptography Implementation for electronic voting security",
+      "error": ""
+    },
+    {
+      "paper_id": "690",
+      "filename": "690 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 26,
+      "failed_chunks": 0,
+      "title": "9 X October 2021",
+      "error": ""
+    },
+    {
+      "paper_id": "691",
+      "filename": "691 - 4-jmcms-2108003-Decentralized-Electronic-Voting-Urooj-Waheed.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "www.journalimcms.org",
+      "error": ""
+    },
+    {
+      "paper_id": "692",
+      "filename": "692 - Decrypting Democracy_ Incentivizing Blockchain Voting Technology.pdf",
+      "status": "ok",
+      "chunks": 200,
+      "failed_chunks": 0,
+      "title": "Decrypting Democracy: Incentivizing",
+      "error": ""
+    },
+    {
+      "paper_id": "694",
+      "filename": "694 - A Large_Scale E_voting System Based on Blockchain.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "A Large\u2010Scale E\u2010voting System Based on Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "697",
+      "filename": "697 - Purwarupa_Sistem_Pemilihan_Umum_Elektronik_dengan_.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "TRANSFORMATIKA, Vol.19, No.1, Juli 2021, pp. 88 - 97",
+      "error": ""
+    },
+    {
+      "paper_id": "699",
+      "filename": "699 - ssrn-3884812.pdf",
+      "status": "ok",
+      "chunks": 35,
+      "failed_chunks": 0,
+      "title": "Research Paradigm On Communication, Computing And Data Sciences (RP2CD) SS-022",
+      "error": ""
+    },
+    {
+      "paper_id": "700",
+      "filename": "700 - Blockchain-1120pm_79.EPRAJOURNALS-7157.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "Volume: 6 | Issue: 5 | May 2021 - Peer Reviewed Journal",
+      "error": ""
+    },
+    {
+      "paper_id": "701",
+      "filename": "701 - APC210016.pdf",
+      "status": "ok",
+      "chunks": 22,
+      "failed_chunks": 0,
+      "title": "Smart Intelligent Computing and Communication Technology 81",
+      "error": ""
+    },
+    {
+      "paper_id": "702",
+      "filename": "702 - ssrn-3884959.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "Rohit Sroaa, Priyanshu Sinhaa, Ritwik Sharmaa , Parth Rustagia, and Moolchand Sharmab*",
+      "error": ""
+    },
+    {
+      "paper_id": "703",
+      "filename": "703 - JETIR2105732.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "Ethereum Blockchain-based Decentralized",
+      "error": ""
+    },
+    {
+      "paper_id": "704",
+      "filename": "704 - 1-jmcms-2110001-A-Framework-Based-on-Blockchain-for-Electoral-System-Tarun-Kumar-1.pdf",
+      "status": "ok",
+      "chunks": 29,
+      "failed_chunks": 0,
+      "title": "www.journalimcms.org",
+      "error": ""
+    },
+    {
+      "paper_id": "705",
+      "filename": "705 - 106172.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "Blockchain in the Field of Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "706",
+      "filename": "706 - A825.pdf",
+      "status": "ok",
+      "chunks": 7,
+      "failed_chunks": 0,
+      "title": "IJARSCT ISSN (Online) 2581-9429",
+      "error": ""
+    },
+    {
+      "paper_id": "707",
+      "filename": "707 - 13521ijnsa02.pdf",
+      "status": "ok",
+      "chunks": 43,
+      "failed_chunks": 0,
+      "title": "Piotr Pospiech, Aleksander Marianski and Michal Kedziora",
+      "error": ""
+    },
+    {
+      "paper_id": "708",
+      "filename": "708 - DesignandImplementationofDecentralizedVotingSystemontheEthereumBlockchain.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "International Journal of Computer (IJC)",
+      "error": ""
+    },
+    {
+      "paper_id": "709",
+      "filename": "709 - 2010.09112v4.pdf",
+      "status": "ok",
+      "chunks": 139,
+      "failed_chunks": 0,
+      "title": "BBB-Voting: Self-Tallying End-to-End Verifiable",
+      "error": ""
+    },
+    {
+      "paper_id": "710",
+      "filename": "710 - LAPORAN TA  - bab 1 2 3 4 6.pdf",
+      "status": "ok",
+      "chunks": 121,
+      "failed_chunks": 0,
+      "title": "Diajukan Sebagai Salah Satu Syarat",
+      "error": ""
+    },
+    {
+      "paper_id": "711",
+      "filename": "711 - content.pdf",
+      "status": "ok",
+      "chunks": 480,
+      "failed_chunks": 0,
+      "title": "Beatriz Ferreira Braz",
+      "error": ""
+    },
+    {
+      "paper_id": "713",
+      "filename": "713 - Hernandez_Nathaniel_May 2021_Thesis.pdf",
+      "status": "ok",
+      "chunks": 354,
+      "failed_chunks": 0,
+      "title": "Submitted to the Graduate School",
+      "error": ""
+    },
+    {
+      "paper_id": "714",
+      "filename": "714 - Ghosh_Arnab.pdf",
+      "status": "ok",
+      "chunks": 209,
+      "failed_chunks": 0,
+      "title": "Blockchain Based Election",
+      "error": ""
+    },
+    {
+      "paper_id": "715",
+      "filename": "715 - 2111.02257v1.pdf",
+      "status": "ok",
+      "chunks": 121,
+      "failed_chunks": 0,
+      "title": "Chirotonia: A Scalable and Secure e-Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "716",
+      "filename": "716 - e_vote_2021.pdf",
+      "status": "ok",
+      "chunks": 1716,
+      "failed_chunks": 0,
+      "title": "Robert Krimmer, Melanie Volkamer, David Duenas-Cid,",
+      "error": ""
+    },
+    {
+      "paper_id": "717",
+      "filename": "717 - 20589-39057-1-PB.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "IAES International Journal of Artificial Intelligence (IJ-AI)",
+      "error": ""
+    },
+    {
+      "paper_id": "718",
+      "filename": "718 - no.ntnu_inspera_82412805_82415445.pdf",
+      "status": "ok",
+      "chunks": 356,
+      "failed_chunks": 0,
+      "title": "s\u2019rolehcaB",
+      "error": ""
+    },
+    {
+      "paper_id": "720",
+      "filename": "720 - SANCHEZ_HERRERA_SEBASTIAN_SISTEMA_VOTO_ELECTRO\u0301NICO.pdf",
+      "status": "ok",
+      "chunks": 316,
+      "failed_chunks": 0,
+      "title": "Sistema de voto electr\u00f3nico basado en blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "723",
+      "filename": "723 -  ETRI Journal - 2020 - Abuidris - Secure large\u2010scale E\u2010voting system based on blockchain contract using a hybrid consensus.pdf",
+      "status": "ok",
+      "chunks": 100,
+      "failed_chunks": 0,
+      "title": "Received: 13 August 2019 | Revised: 8 March 2020 | Accepted: 6 May 2020",
+      "error": ""
+    },
+    {
+      "paper_id": "724",
+      "filename": "724 - al-madani2020.pdf",
+      "status": "ok",
+      "chunks": 25,
+      "failed_chunks": 0,
+      "title": "Decentralized E-voting system based on Smart",
+      "error": ""
+    },
+    {
+      "paper_id": "725",
+      "filename": "725 - Blockchain_Ethereum_Clients_Performance_Analysis_C.pdf",
+      "status": "ok",
+      "chunks": 113,
+      "failed_chunks": 0,
+      "title": "ScienceDirect",
+      "error": ""
+    },
+    {
+      "paper_id": "726",
+      "filename": "726 - informatics-07-00016.pdf",
+      "status": "ok",
+      "chunks": 138,
+      "failed_chunks": 0,
+      "title": "informa t ics",
+      "error": ""
+    },
+    {
+      "paper_id": "735",
+      "filename": "735 - 13.Hyper_ledger_E_voting_2020.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "A Hyper-ledger Fabric Framework as a Service for",
+      "error": ""
+    },
+    {
+      "paper_id": "736",
+      "filename": "736 - BlockchainandAadhaarbasedElectronicVotingSystem_IEEEConferencePublication_IEEEXplore.pdf",
+      "status": "ok",
+      "chunks": 12,
+      "failed_chunks": 0,
+      "title": "7/15/2021 Blockchain and Aadhaar based Electronic Voting System | IEEE Conference Publication | IEEE Xplore",
+      "error": ""
+    },
+    {
+      "paper_id": "737",
+      "filename": "737 - itmconf_icacc2020_03018.pdf",
+      "status": "ok",
+      "chunks": 29,
+      "failed_chunks": 0,
+      "title": "Blockchain Enabled Online-Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "738",
+      "filename": "738 - eai.13-7-2018.164859.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "EAI Endorsed Transactions",
+      "error": ""
+    },
+    {
+      "paper_id": "739",
+      "filename": "739 - 4.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "http://dx.doi.org/10.21742/ijsh.2020.14.2.04",
+      "error": ""
+    },
+    {
+      "paper_id": "740",
+      "filename": "740 - TrustVote_On_Elections_We_Trust_with_Distributed_Ledgers_and_Smart_Contracts.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "TrustVote: On Elections We Trust with Distributed",
+      "error": ""
+    },
+    {
+      "paper_id": "742",
+      "filename": "742 - PID6656037.pdf",
+      "status": "ok",
+      "chunks": 100,
+      "failed_chunks": 0,
+      "title": "Provotum: A Blockchain-based and End-to-end",
+      "error": ""
+    },
+    {
+      "paper_id": "746",
+      "filename": "746 - applsci-10-07606-v2.pdf",
+      "status": "ok",
+      "chunks": 122,
+      "failed_chunks": 0,
+      "title": "Practical I-Voting on Stellar Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "748",
+      "filename": "748 - 3320269.3384729.pdf",
+      "status": "ok",
+      "chunks": 119,
+      "failed_chunks": 0,
+      "title": "Utilizing Public Blockchains for the Sybil-Resistant",
+      "error": ""
+    },
+    {
+      "paper_id": "749",
+      "filename": "749 - SAC20-Killer-Rodrigues-Matile-Scheid-Stiller.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "Design and Implementation of Cast-as-Intended Verifiability",
+      "error": ""
+    },
+    {
+      "paper_id": "750",
+      "filename": "750 - information-11-00552-v2.pdf",
+      "status": "ok",
+      "chunks": 79,
+      "failed_chunks": 0,
+      "title": "informatio n",
+      "error": ""
+    },
+    {
+      "paper_id": "751",
+      "filename": "751 - E-VotingonBlockchainusingSolidityLanguage_IEEE_Published.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "2020 the third International Conference on Vocational Education and Electrical Engineering (ICVEE)",
+      "error": ""
+    },
+    {
+      "paper_id": "752",
+      "filename": "752 - Highly_Secured_Blockchain_Based_Electronic_Voting_.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "IOP Conference Series: Materials Science and Engineering",
+      "error": ""
+    },
+    {
+      "paper_id": "753",
+      "filename": "753 - Paper_21-Blockchain_based_Electronic_Voting_System.pdf",
+      "status": "ok",
+      "chunks": 43,
+      "failed_chunks": 0,
+      "title": "Blockchain-based Electronic Voting System with",
+      "error": ""
+    },
+    {
+      "paper_id": "756",
+      "filename": "756 - ardima,+susanto.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "TRANSFORMTIKA, Vol.18, No.1, July 2020, pp. 56 - 62",
+      "error": ""
+    },
+    {
+      "paper_id": "757",
+      "filename": "757 - Decentralized_electronic_voting_system_b.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "Decentralized Electronic Voting System Based on",
+      "error": ""
+    },
+    {
+      "paper_id": "759",
+      "filename": "759 - ssrn-3735921.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "BUVOTS: A Blockchain based Unmanipulated Voting Scheme",
+      "error": ""
+    },
+    {
+      "paper_id": "764",
+      "filename": "764 - Paper_10-The_Prototype_of_Thai_Blockchain.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "The Prototype of Thai Blockchain-based",
+      "error": ""
+    },
+    {
+      "paper_id": "769",
+      "filename": "769 - BlockchainVotingPublishedpaperVol11number5October202123605-48692-1-PB.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "International Journal of Electrical and Computer Engineering (IJECE)",
+      "error": ""
+    },
+    {
+      "paper_id": "770",
+      "filename": "770 - mann-2020-ijca-920535.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "The Blockchain Revolution: Paradigm Shifts in",
+      "error": ""
+    },
+    {
+      "paper_id": "771",
+      "filename": "771 - 626-Al-Zoubi-Article-v10n4pp24-401.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "Preserving Transparency and Integrity of Elections",
+      "error": ""
+    },
+    {
+      "paper_id": "772",
+      "filename": "772 - ethvote.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "ethVote: Towards secure voting with distributed",
+      "error": ""
+    },
+    {
+      "paper_id": "776",
+      "filename": "776 - E6292018520.pdf",
+      "status": "ok",
+      "chunks": 76,
+      "failed_chunks": 0,
+      "title": "Cloud Database Security in E-Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "777",
+      "filename": "777 - gebanath,+195-199+Shrestha++JIE+Vol+15+(1)+@+2019.pdf",
+      "status": "ok",
+      "chunks": 21,
+      "failed_chunks": 0,
+      "title": "Journal of the Institute of Engineering",
+      "error": ""
+    },
+    {
+      "paper_id": "778",
+      "filename": "778 - Vijaya_Kumar_2020_IOP_Conf._Ser.__Mater._Sci._Eng._981_042013.pdf",
+      "status": "ok",
+      "chunks": 43,
+      "failed_chunks": 0,
+      "title": "IOP Conference Series:",
+      "error": ""
+    },
+    {
+      "paper_id": "780",
+      "filename": "780 - 13677_2022_Article_353.pdf",
+      "status": "ok",
+      "chunks": 296,
+      "failed_chunks": 0,
+      "title": "Alzoubi et al. Journal of Cloud Computing (2022) 11:80 Journal of Cloud Computing:",
+      "error": ""
+    },
+    {
+      "paper_id": "781",
+      "filename": "781 - 6O4p7CIxbMuxXyI3TVwIO6RzROA8zRC1NZJ9PUNy.pdf",
+      "status": "ok",
+      "chunks": 24,
+      "failed_chunks": 0,
+      "title": "International Journal of Innovative Research in Computer",
+      "error": ""
+    },
+    {
+      "paper_id": "782",
+      "filename": "782 - a242005-amk.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "Blockchain-based biometric election system",
+      "error": ""
+    },
+    {
+      "paper_id": "784",
+      "filename": "784 - security_protocols_IoT_springer.pdf",
+      "status": "ok",
+      "chunks": 105,
+      "failed_chunks": 0,
+      "title": "Security Protocols for IoT",
+      "error": ""
+    },
+    {
+      "paper_id": "785",
+      "filename": "785 - An_IoT_and_Blockchain_based_Electronic_V.pdf",
+      "status": "ok",
+      "chunks": 31,
+      "failed_chunks": 0,
+      "title": "8 VI June 2020",
+      "error": ""
+    },
+    {
+      "paper_id": "786",
+      "filename": "786 - dokumen.pub_computational-intelligence-for-engineering-and-management-applications-select-proceedings-of-ciema-2022-9811984921-9789811984921.pdf",
+      "status": "ok",
+      "chunks": 3081,
+      "failed_chunks": 0,
+      "title": "Lecture Notes in Electrical Engineering 984",
+      "error": ""
+    },
+    {
+      "paper_id": "787",
+      "filename": "787 - 5ffd794ac2306_IJAR-34741.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Journal Homepage: -www.journalijar.com",
+      "error": ""
+    },
+    {
+      "paper_id": "788",
+      "filename": "788 - ijeter03862020.pdf",
+      "status": "ok",
+      "chunks": 30,
+      "failed_chunks": 0,
+      "title": "Volume 8. No. 6, June 2020",
+      "error": ""
+    },
+    {
+      "paper_id": "792",
+      "filename": "792 - 621-Article Text-974-1-10-20200807.pdf",
+      "status": "ok",
+      "chunks": 208,
+      "failed_chunks": 0,
+      "title": "voting system can be made up of central and distributed",
+      "error": ""
+    },
+    {
+      "paper_id": "794",
+      "filename": "794 - Ethereum_Blockchain_based_Secure_E_voting_S_ystem.pdf",
+      "status": "ok",
+      "chunks": 39,
+      "failed_chunks": 0,
+      "title": "Ethereum Blockchain based Secure E-voting",
+      "error": ""
+    },
+    {
+      "paper_id": "795",
+      "filename": "795 - doc (1).pdf",
+      "status": "ok",
+      "chunks": 20,
+      "failed_chunks": 0,
+      "title": "",
+      "error": ""
+    },
+    {
+      "paper_id": "796",
+      "filename": "796 - 2020.03.01ElectronicVotingBlockchain-paper.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "Electronic Voting Using Decentralized System Based",
+      "error": ""
+    },
+    {
+      "paper_id": "797",
+      "filename": "797 - 3366424.3382708.pdf",
+      "status": "ok",
+      "chunks": 18,
+      "failed_chunks": 0,
+      "title": "Hybrid-Voting: A Hybrid Structured Electronic Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "800",
+      "filename": "800 - ssrn-3685381.pdf",
+      "status": "ok",
+      "chunks": 42,
+      "failed_chunks": 0,
+      "title": "Vote-from-Home?",
+      "error": ""
+    },
+    {
+      "paper_id": "801",
+      "filename": "801 - A BLOCKCHAIN-BASED AUDITABLE AND SECURE VOTING SYSTEM.pdf",
+      "status": "ok",
+      "chunks": 145,
+      "failed_chunks": 0,
+      "title": "UUnniivveerrssiittyy ooff RRhhooddee IIssllaanndd",
+      "error": ""
+    },
+    {
+      "paper_id": "803",
+      "filename": "803 - thakur-2020-ijca-920755.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "Blockchain Technology for Secure Electronic Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "804",
+      "filename": "804 - content.pdf",
+      "status": "ok",
+      "chunks": 100,
+      "failed_chunks": 0,
+      "title": "A Work Project, presented as part of the requirements for the Award of a Master",
+      "error": ""
+    },
+    {
+      "paper_id": "805",
+      "filename": "805 - content copy.pdf",
+      "status": "ok",
+      "chunks": 100,
+      "failed_chunks": 0,
+      "title": "A Work Project, presented as part of the requirements for the Award of a Master",
+      "error": ""
+    },
+    {
+      "paper_id": "806",
+      "filename": "806 - jitter_herdian,+06+(208-215)+435-Article+Text-1370-1-2-20200810.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "R Budi Raharjo1, Nur Fitriani F.2, Shafira Mutiara N3",
+      "error": ""
+    },
+    {
+      "paper_id": "807",
+      "filename": "807 - 1-s2.0-S0167404820303540-main.pdf",
+      "status": "ok",
+      "chunks": 129,
+      "failed_chunks": 0,
+      "title": "computers & security 100 (2021) 102081",
+      "error": ""
+    },
+    {
+      "paper_id": "809",
+      "filename": "809 - BAB_I.pdf",
+      "status": "ok",
+      "chunks": 20,
+      "failed_chunks": 0,
+      "title": "Hak cipta dan penggunaan kembali:",
+      "error": ""
+    },
+    {
+      "paper_id": "811",
+      "filename": "811 - Proyecto de grado - Jhair Sebastian Cespedes Granados [1486].pdf",
+      "status": "ok",
+      "chunks": 272,
+      "failed_chunks": 0,
+      "title": "DESARROLLO DE UN PROTOTIPO DE APLICACI\u00d3N M\u00d3VIL PARA VOTACI\u00d3N\nELECTR\u00d3NICA DESCENTRALIZADA EN INSTITUCIONES DE\nEDUCACI\u00d3N B",
+      "error": ""
+    },
+    {
+      "paper_id": "812",
+      "filename": "812 - mathematics-08-01618-v2.pdf",
+      "status": "ok",
+      "chunks": 150,
+      "failed_chunks": 0,
+      "title": "mathematics",
+      "error": ""
+    },
+    {
+      "paper_id": "813",
+      "filename": "813 - IFI_2008.09841.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "Christian Killer, Lucas Thorbecke",
+      "error": ""
+    },
+    {
+      "paper_id": "814",
+      "filename": "814 - 2011.10902v2.pdf",
+      "status": "ok",
+      "chunks": 132,
+      "failed_chunks": 0,
+      "title": "2v20901.1102:viXra",
+      "error": ""
+    },
+    {
+      "paper_id": "815",
+      "filename": "815 - Trustworthy_Electronic_Voting_Using_Adjusted_Blockchain_Technology.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "ReceivedJanuary21,2019,acceptedJanuary22,2019,dateofpublicationFebruary25,2019,dateofcurrentversionMarch7,2019.",
+      "error": ""
+    },
+    {
+      "paper_id": "816",
+      "filename": "816 - .pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "YiEURASIPJournalonWirelessCommunicationsand",
+      "error": ""
+    },
+    {
+      "paper_id": "817",
+      "filename": "817 - An_Anti-Quantum_E-Voting_Protocol_in_Blockchain_Wi.pdf",
+      "status": "ok",
+      "chunks": 100,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI",
+      "error": ""
+    },
+    {
+      "paper_id": "819",
+      "filename": "819 - electronics-08-00422.pdf",
+      "status": "ok",
+      "chunks": 101,
+      "failed_chunks": 0,
+      "title": "electronics",
+      "error": ""
+    },
+    {
+      "paper_id": "821",
+      "filename": "821 - 1911.09903v1.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Blockchain-Based Electronic Voting System for",
+      "error": ""
+    },
+    {
+      "paper_id": "822",
+      "filename": "822 - canessane2019.pdf",
+      "status": "ok",
+      "chunks": 28,
+      "failed_chunks": 0,
+      "title": "Decentralised Applications Using Ethereum",
+      "error": ""
+    },
+    {
+      "paper_id": "824",
+      "filename": "824 - bellini2019.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "2019 IEEE 12th International Conference on Cloud Computing (CLOUD)",
+      "error": ""
+    },
+    {
+      "paper_id": "825",
+      "filename": "825 - Hamza_PhD_Thesis.pdf",
+      "status": "ok",
+      "chunks": 574,
+      "failed_chunks": 0,
+      "title": "Integrating Blockchain and Fog",
+      "error": ""
+    },
+    {
+      "paper_id": "826",
+      "filename": "826 - Abayomi-Zannu_2019_J._Phys.__Conf._Ser._1378_032104.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "Journal of Physics:",
+      "error": ""
+    },
+    {
+      "paper_id": "828",
+      "filename": "828 - SecuredvotingthroughBlockchaintechnology.pdf",
+      "status": "ok",
+      "chunks": 36,
+      "failed_chunks": 0,
+      "title": "Secured voting through Blockchain technology",
+      "error": ""
+    },
+    {
+      "paper_id": "833",
+      "filename": "833 - blockchain_voting.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "Blockchain E-Voting Done Right: Privacy and",
+      "error": ""
+    },
+    {
+      "paper_id": "834",
+      "filename": "834 - AO_maintaining.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "15th InternationalConferenceonElectronicsComputerandComputation(ICECCO2019) 1",
+      "error": ""
+    },
+    {
+      "paper_id": "836",
+      "filename": "836 - 3345035.3345080.pdf",
+      "status": "ok",
+      "chunks": 86,
+      "failed_chunks": 0,
+      "title": "Development of a Distributed Blockchain eVoting System",
+      "error": ""
+    },
+    {
+      "paper_id": "838",
+      "filename": "838 - 3372938.3372969.pdf",
+      "status": "ok",
+      "chunks": 35,
+      "failed_chunks": 0,
+      "title": "Proof of Concept Blockchain-based Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "839",
+      "filename": "839 - ques-chain-an-ethereum-based-e-voting-system-5d8asisdc0.pdf",
+      "status": "ok",
+      "chunks": 35,
+      "failed_chunks": 0,
+      "title": "Qixuan Zhang1, Bowen Xu1, Haotian Jing1, Sicheng Zhang2 and Zeyu",
+      "error": ""
+    },
+    {
+      "paper_id": "842",
+      "filename": "842 - 3365921.3365927.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "Blockchain e-voting system with the use of",
+      "error": ""
+    },
+    {
+      "paper_id": "845",
+      "filename": "845 - .pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "Ring Signature-Based Voting on Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "847",
+      "filename": "847 - document.pdf",
+      "status": "ok",
+      "chunks": 114,
+      "failed_chunks": 0,
+      "title": "174 ECTITRANSACTIONSONCOMPUTERANDINFORMATIONTECHNOLOGY VOL.14,NO.2November2020",
+      "error": ""
+    },
+    {
+      "paper_id": "848",
+      "filename": "848 - 1911.08774v2.pdf",
+      "status": "ok",
+      "chunks": 73,
+      "failed_chunks": 0,
+      "title": "Implement Liquid Democracy on Ethereum: A",
+      "error": ""
+    },
+    {
+      "paper_id": "850",
+      "filename": "850 - Blockchain-BasedSecureE-VotingwiththeAssistanceofSmartContract.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "Blockchain-Based Secure E-Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "851",
+      "filename": "851 - FULLTEXT01.pdf",
+      "status": "ok",
+      "chunks": 204,
+      "failed_chunks": 0,
+      "title": "Towards Realizing Digital Voting:",
+      "error": ""
+    },
+    {
+      "paper_id": "852",
+      "filename": "852 - AnAnalyticalViewonPoliticalVotingSystemusingBC.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "An Analytical View on Political Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "853",
+      "filename": "853 - L38151081219.pdf",
+      "status": "ok",
+      "chunks": 24,
+      "failed_chunks": 0,
+      "title": "International Journal of Innovative Technology and Exploring Engineering (IJITEE)",
+      "error": ""
+    },
+    {
+      "paper_id": "855",
+      "filename": "855 - 26-32Blockchainbasede-voting.pdf",
+      "status": "ok",
+      "chunks": 23,
+      "failed_chunks": 0,
+      "title": "Volume 5 Issue 3",
+      "error": ""
+    },
+    {
+      "paper_id": "856",
+      "filename": "856 - A4170119119.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "\u201cVoting System using Multichain Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "857",
+      "filename": "857 - p2381.pdf",
+      "status": "ok",
+      "chunks": 20,
+      "failed_chunks": 0,
+      "title": "Demonstration AAMAS 2019, May 13-17, 2019, Montr\u00e9al, Canada",
+      "error": ""
+    },
+    {
+      "paper_id": "858",
+      "filename": "858 - DABSTERSinE-votingShortPaper.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "DABSTERS: Distributed Authorities using Blind Signature To",
+      "error": ""
+    },
+    {
+      "paper_id": "859",
+      "filename": "859 - B11680982S1119.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "Secure Electronic Voting using BlockChain and",
+      "error": ""
+    },
+    {
+      "paper_id": "860",
+      "filename": "860 - ssrn-3511409.pdf",
+      "status": "ok",
+      "chunks": 42,
+      "failed_chunks": 0,
+      "title": "End-to-End Verifiable Electronic Voting System Using Delegated Proof",
+      "error": ""
+    },
+    {
+      "paper_id": "861",
+      "filename": "861 - 1909.06462v1.pdf",
+      "status": "ok",
+      "chunks": 71,
+      "failed_chunks": 0,
+      "title": "A transparent referendum protocol with immutable proceedings",
+      "error": ""
+    },
+    {
+      "paper_id": "862",
+      "filename": "862 - odaudu2019.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "BIDS: Blockchain Based Intrusion Detection System for",
+      "error": ""
+    },
+    {
+      "paper_id": "863",
+      "filename": "863 - D9757118419.pdf",
+      "status": "ok",
+      "chunks": 26,
+      "failed_chunks": 0,
+      "title": "P. Sri Subhash, K.Kiran Kumar, R. Goresh Chowdary, B. Sai Teja,P.S.G.Aruna Sri",
+      "error": ""
+    },
+    {
+      "paper_id": "864",
+      "filename": "864 - editor-34.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "Zenin, S., Kuteynikov, D., Izhaev, O., Yapryntsev, I. /Vol. 8 N\u00fam. 20: 330- 339/ Mayo - junio 2019",
+      "error": ""
+    },
+    {
+      "paper_id": "865",
+      "filename": "865 - CSEIT1195424.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+      "error": ""
+    },
+    {
+      "paper_id": "866",
+      "filename": "866 - JCTN-Avinash-kailash-147-150.pdf",
+      "status": "ok",
+      "chunks": 27,
+      "failed_chunks": 0,
+      "title": "Copyright\u00a92019AmericanScientificPublishers Journalof",
+      "error": ""
+    },
+    {
+      "paper_id": "868",
+      "filename": "868 - 3366650.3366656.pdf",
+      "status": "ok",
+      "chunks": 27,
+      "failed_chunks": 0,
+      "title": "Ballot Mechanism Design Based on Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "869",
+      "filename": "869 - 1624-2139-1-SM.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "\u0414. \u041b. \u041a\u0443\u0442\u0435\u0439\u043d\u0438\u043a\u043e\u0432*",
+      "error": ""
+    },
+    {
+      "paper_id": "871",
+      "filename": "871 - it219_web-75-85.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "\u0423\u0414\u041a 004:338 DOI: 10.17587/it.25.75-85",
+      "error": ""
+    },
+    {
+      "paper_id": "873",
+      "filename": "873 - RightArticle1Secure-i-DOI.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "Secure i-Voting Scheme with Blockchain Technology and Blind",
+      "error": ""
+    },
+    {
+      "paper_id": "874",
+      "filename": "874 - 3326365.3326372.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "Bringing transparency and trust to elections: using blockchains",
+      "error": ""
+    },
+    {
+      "paper_id": "875",
+      "filename": "875 - CSEIT1952162.pdf",
+      "status": "ok",
+      "chunks": 19,
+      "failed_chunks": 0,
+      "title": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology",
+      "error": ""
+    },
+    {
+      "paper_id": "877",
+      "filename": "877 - BLOCKCHAIN-BASED_ELECTRONIC_VOTING_SYSTEMS_CHALLEN.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "https://mrcis.org",
+      "error": ""
+    },
+    {
+      "paper_id": "878",
+      "filename": "878 - B3024129219.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "E-Voting: Blockchain Based Voting For Secure Vote",
+      "error": ""
+    },
+    {
+      "paper_id": "881",
+      "filename": "881 - WJARR-2019-0158.pdf",
+      "status": "ok",
+      "chunks": 91,
+      "failed_chunks": 0,
+      "title": "Designing a Secure and Scalable Real-time Voting System: Analyzing a Successful",
+      "error": ""
+    },
+    {
+      "paper_id": "882",
+      "filename": "882 - DATX02-19-85 Uppladdad i 360.pdf",
+      "status": "ok",
+      "chunks": 155,
+      "failed_chunks": 0,
+      "title": "A Decentralized Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "883",
+      "filename": "883 - CF-Monteiro2019.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "Blockchain-based Decentralized Application for",
+      "error": ""
+    },
+    {
+      "paper_id": "883",
+      "filename": "883 - content.pdf",
+      "status": "ok",
+      "chunks": 190,
+      "failed_chunks": 0,
+      "title": "Engenharia Inform\u00e1tica",
+      "error": ""
+    },
+    {
+      "paper_id": "885",
+      "filename": "885 - Security Protocol Analysis and Blockchains.pdf",
+      "status": "ok",
+      "chunks": 161,
+      "failed_chunks": 0,
+      "title": "Trinity University",
+      "error": ""
+    },
+    {
+      "paper_id": "887",
+      "filename": "887 - 1-s2.0-S0167739X19310805-main.pdf",
+      "status": "ok",
+      "chunks": 105,
+      "failed_chunks": 0,
+      "title": "FutureGenerationComputerSystems105(2020)13\u201326",
+      "error": ""
+    },
+    {
+      "paper_id": "888",
+      "filename": "888 - 1624-2139-1-SM.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "\u0414. \u041b. \u041a\u0443\u0442\u0435\u0439\u043d\u0438\u043a\u043e\u0432*",
+      "error": ""
+    },
+    {
+      "paper_id": "891",
+      "filename": "891 - 2018_BC_Voting_Software.pdf",
+      "status": "ok",
+      "chunks": 32,
+      "failed_chunks": 0,
+      "title": "Editor: Giuliano Antoniol",
+      "error": ""
+    },
+    {
+      "paper_id": "892",
+      "filename": "892 - yavuz2018.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "Towards Secure E-Voting Using Ethereum",
+      "error": ""
+    },
+    {
+      "paper_id": "894",
+      "filename": "894 - 155779036.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "CORE Metadata, citation and similar papers at core.ac.uk",
+      "error": ""
+    },
+    {
+      "paper_id": "895",
+      "filename": "895 - Large-scaleElectionBasedOnBlockchain.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "Available online at www.sciencedirect.com",
+      "error": ""
+    },
+    {
+      "paper_id": "896",
+      "filename": "896 - 1-s2.0-S1877050918318271-main.pdf",
+      "status": "ok",
+      "chunks": 48,
+      "failed_chunks": 0,
+      "title": "Availableonlineatwww.sciencedirect.com",
+      "error": ""
+    },
+    {
+      "paper_id": "897",
+      "filename": "897 - DecentralizedVotingPlatformBasedonEthereumBlockchain-Preprint.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Decentralized Voting Platform Based on Ethereum",
+      "error": ""
+    },
+    {
+      "paper_id": "898",
+      "filename": "898 - 66097.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "BroncoVote: Secure Voting System using Ethereum\u2019s Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "900",
+      "filename": "900 - Voting.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "2018 IEEE 11th International Conference on Cloud Computing",
+      "error": ""
+    },
+    {
+      "paper_id": "901",
+      "filename": "901 - 69621.pdf",
+      "status": "ok",
+      "chunks": 34,
+      "failed_chunks": 0,
+      "title": "Crypto-voting, a Blockchain based e-Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "902",
+      "filename": "902 - 1803.04861v1.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "SHARVOT: secret SHARe-based VOTing on the blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "903",
+      "filename": "903 - 005-paper 16.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "DATE: A Decentralized, Anonymous, and",
+      "error": ""
+    },
+    {
+      "paper_id": "905",
+      "filename": "905 - 319_paper.pdf",
+      "status": "ok",
+      "chunks": 27,
+      "failed_chunks": 0,
+      "title": "2018 2nd Int. Conf. on Innovations in Science, Engineering and Technology (ICISET)",
+      "error": ""
+    },
+    {
+      "paper_id": "906",
+      "filename": "906 - 08554652.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "Shalini Shukla Shashank D O",
+      "error": ""
+    },
+    {
+      "paper_id": "907",
+      "filename": "907 - 4451-e-voting-on-the-blockchain.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "The JBBA | Volume 1 | Issue 2 Copyright \u00a9 The Author(s). All Rights Reserved. This article is licensed under a Creative Commons Attribution 4.0 License 1",
+      "error": ""
+    },
+    {
+      "paper_id": "908",
+      "filename": "908 - Abstract.pdf",
+      "status": "ok",
+      "chunks": 12,
+      "failed_chunks": 0,
+      "title": "A democratic future using a decentralized blockchain voting",
+      "error": ""
+    },
+    {
+      "paper_id": "909",
+      "filename": "909 - 174-482-1-PB.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "e-ISSN : 2549-9904",
+      "error": ""
+    },
+    {
+      "paper_id": "910",
+      "filename": "910 - electronic-voting-machine-based-on-blockchain-technology-and-3ehhbw77q1.pdf",
+      "status": "ok",
+      "chunks": 26,
+      "failed_chunks": 0,
+      "title": "Impact factor: 4.295",
+      "error": ""
+    },
+    {
+      "paper_id": "911",
+      "filename": "911 - Strengthening_the_Authentication_Mechanism_of_Bloc.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "JOIN (Jurnal Online Informatika)",
+      "error": ""
+    },
+    {
+      "paper_id": "912",
+      "filename": "912 - Blockchain_Based_Election_Infrastructures.pdf",
+      "status": "ok",
+      "chunks": 38,
+      "failed_chunks": 0,
+      "title": "Blockchain-Based Election Infrastructures",
+      "error": ""
+    },
+    {
+      "paper_id": "915",
+      "filename": "915 - 1802.10134v1.pdf",
+      "status": "ok",
+      "chunks": 99,
+      "failed_chunks": 0,
+      "title": "Higher School of Economics",
+      "error": ""
+    },
+    {
+      "paper_id": "916",
+      "filename": "916 - 1804.06674v1.pdf",
+      "status": "ok",
+      "chunks": 30,
+      "failed_chunks": 0,
+      "title": "An efficient and effective Decentralized",
+      "error": ""
+    },
+    {
+      "paper_id": "917",
+      "filename": "917 - habusadeh,+Journal+manager,+156-162.pdf",
+      "status": "ok",
+      "chunks": 52,
+      "failed_chunks": 0,
+      "title": "International Journal of Engineering & Technology, 7 (4.11) (2018) 156-162",
+      "error": ""
+    },
+    {
+      "paper_id": "919",
+      "filename": "919 - V4I5-1507.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "Impact factor: 4.295",
+      "error": ""
+    },
+    {
+      "paper_id": "921",
+      "filename": "921 - 605040013-Blockchain-Final-Report.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "Decentralized, Secured and Transparent",
+      "error": ""
+    },
+    {
+      "paper_id": "922",
+      "filename": "922 - 3264437.3264473.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "Distributed E-Voting System Based On Blind Intermediaries",
+      "error": ""
+    },
+    {
+      "paper_id": "926",
+      "filename": "926 - Applying Block Chain Technologies to Digital Voting Algorithms.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "Santa Clara University",
+      "error": ""
+    },
+    {
+      "paper_id": "927",
+      "filename": "927 - 1809.08362v1.pdf",
+      "status": "ok",
+      "chunks": 33,
+      "failed_chunks": 0,
+      "title": "1v26380.9081:viXra",
+      "error": ""
+    },
+    {
+      "paper_id": "928",
+      "filename": "928 - 2018-657.pdf",
+      "status": "ok",
+      "chunks": 123,
+      "failed_chunks": 0,
+      "title": "Platform-independent Secure Blockchain-Based",
+      "error": ""
+    },
+    {
+      "paper_id": "929",
+      "filename": "929 - Oleshko_magistr.pdf",
+      "status": "ok",
+      "chunks": 141,
+      "failed_chunks": 0,
+      "title": "\u0456\u043c\u0435\u043d\u0456 \u0406\u0413\u041e\u0420\u042f \u0421\u0406\u041a\u041e\u0420\u0421\u042c\u041a\u041e\u0413\u041e\u00bb",
+      "error": ""
+    },
+    {
+      "paper_id": "930",
+      "filename": "930 - Smart democracies in Africa - legitimising Kenyan elections through blockchain technology.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "Smart democracies in Africa: legitimising Kenyan elections through blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "932",
+      "filename": "932 - 1809.10956v1.pdf",
+      "status": "ok",
+      "chunks": 500,
+      "failed_chunks": 0,
+      "title": "Coconut E-Petition Implementation",
+      "error": ""
+    },
+    {
+      "paper_id": "933",
+      "filename": "933 - benayed2017.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "Ahmed Ben Ayed",
+      "error": ""
+    },
+    {
+      "paper_id": "934",
+      "filename": "934 - Blockchain_based_E-Voting_System.pdf",
+      "status": "ok",
+      "chunks": 30,
+      "failed_chunks": 0,
+      "title": "Blockchain based E-Voting System",
+      "error": ""
+    },
+    {
+      "paper_id": "935",
+      "filename": "935 - 3019612.3019841.pdf",
+      "status": "ok",
+      "chunks": 52,
+      "failed_chunks": 0,
+      "title": "An End-to-end Voting-system Based on Bitcoin",
+      "error": ""
+    },
+    {
+      "paper_id": "936",
+      "filename": "936 - From Blockchain to Internet-based Voting.pdf",
+      "status": "ok",
+      "chunks": 151,
+      "failed_chunks": 0,
+      "title": "CClleevveellaanndd SSttaattee UUnniivveerrssiittyy",
+      "error": ""
+    },
+    {
+      "paper_id": "937",
+      "filename": "937 - 1702.02566v1.pdf",
+      "status": "ok",
+      "chunks": 290,
+      "failed_chunks": 0,
+      "title": "1v66520.2071:viXra",
+      "error": ""
+    },
+    {
+      "paper_id": "938",
+      "filename": "938 - ICET-DataDistributionforUniversalVerifiabilityinElectoralProcessUsingBlockchain.pdf",
+      "status": "ok",
+      "chunks": 43,
+      "failed_chunks": 0,
+      "title": "Temper Proof Data Distribution for Universal Verifiability and Accuracy in",
+      "error": ""
+    },
+    {
+      "paper_id": "939",
+      "filename": "939 - 2017210210.pdf",
+      "status": "ok",
+      "chunks": 80,
+      "failed_chunks": 0,
+      "title": "Vol. 12, No. 2, pp. 148-165",
+      "error": ""
+    },
+    {
+      "paper_id": "940",
+      "filename": "940 - 11.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "Vol. 10, No. 12 (2017), pp.121-130",
+      "error": ""
+    },
+    {
+      "paper_id": "941",
+      "filename": "941 - 1705.04480v1.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "Distributed Protocols at the Rescue for Trustworthy Online Voting",
+      "error": ""
+    },
+    {
+      "paper_id": "943",
+      "filename": "943 - 2017-1043.pdf",
+      "status": "ok",
+      "chunks": 50,
+      "failed_chunks": 0,
+      "title": "An E-voting Protocol Based on Blockchain",
+      "error": ""
+    },
+    {
+      "paper_id": "945",
+      "filename": "945 - A_secure_e-voting_for_the_student_parliament.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "Series: Electronics and Energetics Vol. 29, No 2, June 2016, pp. 205 - 218",
+      "error": ""
+    },
+    {
+      "paper_id": "946",
+      "filename": "946 - 1-s2.0-S0167404818310290-main.pdf",
+      "status": "ok",
+      "chunks": 226,
+      "failed_chunks": 0,
+      "title": "computers & security 83 (2019) 268\u2013299",
+      "error": ""
+    },
+    {
+      "paper_id": "947",
+      "filename": "947 - 1502.07469v1.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "An Improved E-voting scheme using Secret Sharing",
+      "error": ""
+    },
+    {
+      "paper_id": "948",
+      "filename": "948 - d-demos-a-distributed-end-to-end-verifiable-internet-voting-1ucivnhqrx.pdf",
+      "status": "ok",
+      "chunks": 93,
+      "failed_chunks": 0,
+      "title": "Edinburgh Research Explorer",
+      "error": ""
+    }
+  ]
+}

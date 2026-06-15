@@ -1,0 +1,14 @@
+{
+  "started": "2026-06-04T15:34:59.607722+00:00",
+  "results": [
+    {
+      "paper_id": "the_simon_necronomicon",
+      "filename": "The-Simon-Necronomicon.pdf",
+      "status": "ok",
+      "chunks": 356,
+      "failed_chunks": 0,
+      "title": "The Complete Simon",
+      "error": ""
+    }
+  ]
+}

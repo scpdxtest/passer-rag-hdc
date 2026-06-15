@@ -1,0 +1,14 @@
+{
+  "started": "2026-06-14T06:09:39.920116+00:00",
+  "results": [
+    {
+      "paper_id": "book",
+      "filename": "book.pdf",
+      "status": "partial",
+      "chunks": 5216,
+      "failed_chunks": 3,
+      "title": "War and Peace",
+      "error": "chunk 3052 (chapter): embedding failed; chunk 3203 (chapter): embedding failed; chunk 4017 (chapter): embedding failed"
+    }
+  ]
+}

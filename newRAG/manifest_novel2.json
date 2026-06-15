@@ -1,0 +1,14 @@
+{
+  "started": "2026-06-13T04:03:05.053957+00:00",
+  "results": [
+    {
+      "paper_id": "dialectics_nature",
+      "filename": "dialectics-nature.pdf",
+      "status": "embed_error",
+      "chunks": 0,
+      "failed_chunks": 1050,
+      "title": "Dialectics of Nature",
+      "error": "chunk 0 (card): HTTPConnectionPool(host='195.230.127.226', port=11850): Max retries exceeded with url: /api/embeddings (Caused by NewConnectionError(\"HTTPConnection(host='195.230.127.226', port=11850): Failed to establish a new connection: [Errno 61] Connection refused\")); chunk 0 (body): HTTPConnectionPool(host='195.230.127.226', port=11850): Max retries exceeded with url: /api/embeddings (Caused by NewConnectionError(\"HTTPConnection(host='195.230.127.226', port=11850): Failed to establish a new connection: [Errno 61] Connection refused\")); chunk 1 (body): HTTPConnectionPool(host='195.230.127.226', port=11850): Max retries exceeded with url: /api/embeddings (Caused by NewConnectionError(\"HTTPConnection(host='195.230.127.226', port=11850): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "started": "2026-06-12T15:19:09.853600+00:00",
+  "results": [
+    {
+      "paper_id": "dialectics_nature",
+      "filename": "dialectics-nature.pdf",
+      "status": "partial",
+      "chunks": 1020,
+      "failed_chunks": 2,
+      "title": "Dialectics of Nature",
+      "error": "chunk 472 (acks): embedding failed; chunk 891 (chapter): embedding failed"
+    }
+  ]
+}

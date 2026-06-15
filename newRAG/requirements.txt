@@ -1,0 +1,22 @@
+# PaSSER-RAG-HDC — Python backend requirements
+# Tested with Python 3.11+ (arm64 recommended on Apple Silicon).
+
+# --- Web API (ingest_corpus.py mounts scoring_jobs + chain_bridge blueprints) ---
+flask
+flask-cors
+requests
+
+# --- Document ingestion / parsing ---
+pdfplumber
+pypdf
+
+# --- Blockchain anchoring (chain_bridge.py / experiments anchoring) ---
+pyntelope
+base58
+pycryptodome          # provides the `Crypto` module
+
+# --- Persistence ---
+pymongo
+
+# --- Docs tooling (newRAG/tools/md_to_docx*.py) ---
+python-docx

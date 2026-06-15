@@ -1,0 +1,14 @@
+{
+  "started": "2026-06-07T05:25:13.499027+00:00",
+  "results": [
+    {
+      "paper_id": "tutorial_edit",
+      "filename": "Tutorial_EDIT.pdf",
+      "status": "ok",
+      "chunks": 509,
+      "failed_chunks": 0,
+      "title": "Python Tutorial",
+      "error": ""
+    }
+  ]
+}

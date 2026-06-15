@@ -1,0 +1,14 @@
+{
+  "started": "2026-06-06T16:30:29.439019+00:00",
+  "results": [
+    {
+      "paper_id": "jane_eyre",
+      "filename": "jane_eyre.pdf",
+      "status": "ok",
+      "chunks": 1593,
+      "failed_chunks": 0,
+      "title": "The Project Gutenberg eBook of Jane Eyre: An Autobiography",
+      "error": ""
+    }
+  ]
+}

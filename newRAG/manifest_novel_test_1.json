@@ -1,0 +1,14 @@
+{
+  "started": "2026-06-04T13:40:20.986055+00:00",
+  "results": [
+    {
+      "paper_id": "al_original",
+      "filename": "al_original.pdf",
+      "status": "ok",
+      "chunks": 2233,
+      "failed_chunks": 0,
+      "title": "Alhazred",
+      "error": ""
+    }
+  ]
+}

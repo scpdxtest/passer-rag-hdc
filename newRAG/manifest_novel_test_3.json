@@ -1,0 +1,50 @@
+{
+  "started": "2026-06-04T16:01:23.061921+00:00",
+  "results": [
+    {
+      "paper_id": "oceanofpdf_com_necronomicon_th",
+      "filename": "_OceanofPDF.com_Necronomicon__The_Wanderings_of_Alhazred_-_Donald_Tyson.pdf",
+      "status": "ok",
+      "chunks": 666,
+      "failed_chunks": 0,
+      "title": "List of Illustrations",
+      "error": ""
+    },
+    {
+      "paper_id": "oceanofpdf_com_return_to_isle_",
+      "filename": "_OceanofPDF.com_Return_To_Isle_of_The_Dead_-_Donald_Tyson.pdf",
+      "status": "ok",
+      "chunks": 905,
+      "failed_chunks": 0,
+      "title": "OceanofPDF.com",
+      "error": ""
+    },
+    {
+      "paper_id": "oceanofpdf_com_the_lovecraft_c",
+      "filename": "_OceanofPDF.com_The_Lovecraft_Coven_-_Donald_Tyson.pdf",
+      "status": "ok",
+      "chunks": 562,
+      "failed_chunks": 0,
+      "title": "The Lovecraft Coven",
+      "error": ""
+    },
+    {
+      "paper_id": "oceanofpdf_com_the_old_gods_aw",
+      "filename": "_OceanofPDF.com_The_Old_Gods_Awaken_-_Donald_Tyson.pdf",
+      "status": "partial",
+      "chunks": 726,
+      "failed_chunks": 1,
+      "title": "OceanofPDF.com",
+      "error": "chunk 440 (chapter): embedding failed"
+    },
+    {
+      "paper_id": "oceanofpdf_com_the_skinless_fa",
+      "filename": "_OceanofPDF.com_The_Skinless_Face_-_Donald_Tyson.pdf",
+      "status": "partial",
+      "chunks": 1274,
+      "failed_chunks": 1,
+      "title": "Contents",
+      "error": "chunk 269 (acks): embedding failed"
+    }
+  ]
+}

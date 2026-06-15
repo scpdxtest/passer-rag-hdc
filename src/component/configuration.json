@@ -1,0 +1,88 @@
+{
+    "passer": {
+        "Ollama": [
+            {
+                "name": "OllamaEndPoint1",
+                "url": "http://127.0.0.1:11434"
+            },
+            {
+                "name": "OllamaEndPoint2",
+                "url": "http://92.247.133.89:63150"
+            },
+            {
+                "name": "OllamaEndPoint3",
+                "url": "http://195.230.127.227:11800"
+            },
+            {
+                "name": "GPUPoweredOllama",
+                "url": "http://195.230.127.226:11850"
+            }
+        ],
+        "Chroma": [
+            {
+                "name": "ChromaEndPoint1",
+                "url": "http://127.0.0.1:8000"
+            },
+            {
+                "name": "ChromaEndPoint2",
+                "url": "http://92.247.133.89:63140"
+            }
+        ],
+        "MultiAgent": [
+            {
+                "name": "Local MultiAgent",
+                "url": "http://127.0.0.1:8004"
+            },
+            {
+                "name": "Local Mistral MultiAgent 1",
+                "url": "http://127.0.0.1:8005"
+            },
+            {
+                "name": "Remote MultiAgent 2",
+                "url": "http://195.230.127.227:8284"
+            }
+        ],
+        "IngestAPI": "http://127.0.0.1:8010",
+        "IngestAPIRemote": "http://195.230.127.227:8010",
+        "PythonNames": "http://195.230.127.227:8402/getnames",
+        "PythonTestData": "http://195.230.127.227:8402/gettestdata",
+        "PythonScore": "http://195.230.127.227:8302/metrics",
+        "PythonMAScore": "http://195.230.127.227:8402/metrics",
+        "PythonTimes": "http://195.230.127.227:8303/metrics",
+        "ScreeningAPI": "http://195.230.127.227:9901",
+        "LLMScreeningAPI": "http://127.0.0.1:9902",
+        "MementoAPI": "http://blockchain2.uni-plovdiv.net:9909/wax/get_transaction",
+        "BCEndPoints": [
+            {
+                "name": "BCEndPoint1",
+                "url": "http://blockchain2.uni-plovdiv.net:8033"
+            },
+            {
+                "name": "BCEndPoint2",
+                "url": "http://92.247.133.89:8055"
+            },
+            {
+                "name": "BCEndPoint3",
+                "url": "http://195.230.127.227:8022"
+            }
+        ],
+        "BCid": "3b24add5385ba8cb7a581a0986f40d221eab9b52438b74d76719830f96daf415",
+        "IPFSEndPoints": [
+            {
+                "name": "IPFSEndPoint1",
+                "host": "195.230.127.227",
+                "port": "5001"
+            },
+            {
+                "name": "IPFSEndPoint2",
+                "host": "92.247.133.89",
+                "port": "5001"
+            },
+            {
+                "name": "IPFSEndPoint3",
+                "host": "78.128.62.2",
+                "port": "5001"
+            }
+        ]
+    }
+}

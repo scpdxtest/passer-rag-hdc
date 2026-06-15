@@ -1,0 +1,1227 @@
+========================================================================================
+LABELLING WORKSHEET — §V.B synopsis-span ablation
+========================================================================================
+
+For each question:
+  1) For SUMMARISATION questions, find the §synopsis chunk for the target
+     chapter in H's hits. Its `id` goes into questions.csv `gold_synopsis_id`.
+     ALSO copy it into `gold_chunk_ids` (it's a relevant chunk).
+  2) Identify 1–2 supporting body chunks (any rank, any config) and add their
+     IDs to `gold_chunk_ids`, comma-separated.
+  3) For CONTROL questions, find the 1–3 most relevant body chunks across
+     both configs. Add their IDs to `gold_chunk_ids`.
+  4) Write a 1–3 sentence `reference_answer` from the gold chunks.
+
+Chunk IDs in this worksheet are abbreviated for readability — paste the
+FULL ID into the CSV (use the bracketed full id, not the abbreviated one).
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 1  [summarisation]  target_chapter= 2
+     Summarise Chapter 2 of the Python Tutorial.
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  5] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  7] §synopsis (chap.idx=23, p.15-155, input=14007c)
+      id = tutorial_edit-synopsis-23-3fac4f8c17
+      [Synopsis of §chapter (23)]  Chapter Three: An Informal Introduction to Python  This chapter provides an introduction to using Python as a calculator, teaching basic commands and …
+    [rank  8] §synopsis (chap.idx=20, p.11-155, input=5735c)
+      id = tutorial_edit-synopsis-20-165a79646c
+      [Synopsis of §chapter (20)]  Chapter Two: Using the Python Interpreter  Learn to invoke, configure, and interact with the Python interpreter on various operating systems. This cha…
+    [rank 10] §synopsis (chap.idx=19, p.9-155, input=4424c)
+      id = tutorial_edit-synopsis-19-111b6e3a4e
+      [Synopsis of §chapter (19)]  Chapter One: Whetting Your Appetite introduces Python, a versatile programming language suitable for automating various tasks such as search-and-repla…
+    [rank  1] §chapter (p.11-11)
+      id = tutorial_edit-chapter-27-eac725afe3
+      CHAPTER TWO USING THE PYTHON INTERPRETER
+    [rank  2] §chapter (p.10-10)
+      id = tutorial_edit-chapter-26-ea7475e702
+      isisrathermundaneinformation, but essential for trying out the examples shown later. The rest of the tutorial introduces various features of the Python language and system through…
+    [rank  3] §section (p.3-3)
+      id = tutorial_edit-section-1-c24f1987f5
+      2.1 Invoking the Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 The Interpreter and Its Environment . . . . . . . . . . . . . . . …
+    [rank  4] §chapter (p.107-107)
+      id = tutorial_edit-chapter-323-ed0bbe2649
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+    [rank  6] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+  N (python_tut_N):
+    [rank  4] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd-naive
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  5] §synopsis (chap.idx=23, p.15-15, input=1121c)
+      id = tutorial_edit-synopsis-23-1eaffa3613-naive
+      [Synopsis of §chapter (23)]  Chapter Three: Informal Introduction to Python  This chapter provides an introduction to the Python programming language, explaining its syntax and ba…
+    [rank  7] §synopsis (chap.idx=20, p.11-11, input=40c)
+      id = tutorial_edit-synopsis-20-c922f19edf-naive
+      [Synopsis of §chapter (20)]  Chapter Two: Using the Python Interpreter  Learn to effectively utilize the Python interpreter, a fundamental tool in Python programming. This chapter…
+    [rank  8] §synopsis (chap.idx=19, p.9-155, input=4424c)
+      id = tutorial_edit-synopsis-19-111b6e3a4e-naive
+      [Synopsis of §chapter (19)]  Chapter One: Whetting Your Appetite introduces Python, a versatile programming language suitable for automating various tasks such as search-and-repla…
+    [rank  1] §chapter (p.11-11)
+      id = tutorial_edit-chapter-23-eac725afe3
+      CHAPTER TWO USING THE PYTHON INTERPRETER
+    [rank  2] §chapter (p.107-107)
+      id = tutorial_edit-chapter-222-bb1112d506
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+    [rank  3] §section (p.3-3)
+      id = tutorial_edit-section-1-c24f1987f5
+      2.1 Invoking the Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 The Interpreter and Its Environment . . . . . . . . . . . . . . . …
+    [rank  6] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+    [rank  9] §section (p.4-5)
+      id = tutorial_edit-section-15-667276247b
+      14.2 Alternatives to the Interactive Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103 ii 15 Floating Point Arithmetic: Issues and Limitations 105 15.1 Rep…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 2  [summarisation]  target_chapter= 3
+     What does the Informal Introduction chapter teach?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §synopsis (chap.idx=23, p.15-155, input=14007c)
+      id = tutorial_edit-synopsis-23-3fac4f8c17
+      [Synopsis of §chapter (23)]  Chapter Three: An Informal Introduction to Python  This chapter provides an introduction to using Python as a calculator, teaching basic commands and …
+    [rank  5] §synopsis (chap.idx=63, p.75-155, input=14007c)
+      id = tutorial_edit-synopsis-63-d3eafcadcb
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter delves into Python's class system, explaining how to create and utilize classes for bundling data and functionalit…
+    [rank 10] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  2] §chapter (p.10-10)
+      id = tutorial_edit-chapter-26-ea7475e702
+      isisrathermundaneinformation, but essential for trying out the examples shown later. The rest of the tutorial introduces various features of the Python language and system through…
+    [rank  3] §section (p.4-4)
+      id = tutorial_edit-section-8-12ba188b71
+      9.3 A First Look at Classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 9.4 Random Remarks . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  4] §chapter (p.37-37)
+      id = tutorial_edit-chapter-98-61558d5393
+      CHAPTER FIVE DATA STRUCTURES This chapter describes some things you’ve learned about already in more detail, and adds some new things as well.
+    [rank  6] §section (p.3-3)
+      id = tutorial_edit-section-1-c24f1987f5
+      2.1 Invoking the Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 The Interpreter and Its Environment . . . . . . . . . . . . . . . …
+    [rank  7] §section (p.79-79)
+      id = tutorial_edit-section-234-7041e73b8f
+      ses like to create objects with instances customized to a specific initial state. Therefore a class may define a special method named __init__(), like this: def __init__(self): se…
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=23, p.15-15, input=1121c)
+      id = tutorial_edit-synopsis-23-1eaffa3613-naive
+      [Synopsis of §chapter (23)]  Chapter Three: Informal Introduction to Python  This chapter provides an introduction to the Python programming language, explaining its syntax and ba…
+    [rank  3] §synopsis (chap.idx=55, p.67-67, input=232c)
+      id = tutorial_edit-synopsis-55-d1c855a156-naive
+      [Synopsis of §chapter (55)]  Chapter Eight: Errors and Exceptions  This chapter focuses on understanding and handling errors in the system, providing detailed explanations about s…
+    [rank  6] §synopsis (chap.idx=76, p.89-89, input=46c)
+      id = tutorial_edit-synopsis-76-a2f0acf8f8-naive
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Tour  This chapter provides an overview of the Standard Library, a fundamental component in the programming language. Th…
+    [rank  7] §synopsis (chap.idx=52, p.59-59, input=225c)
+      id = tutorial_edit-synopsis-52-1d95241b8a-naive
+      [Synopsis of §chapter (52)]  Chapter Seven: Input and Output  Learn various methods to present a program's output, including displaying data in a user-friendly format and writing …
+    [rank  2] §section (p.4-4)
+      id = tutorial_edit-section-8-12ba188b71
+      9.3 A First Look at Classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 9.4 Random Remarks . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  4] §chapter (p.37-37)
+      id = tutorial_edit-chapter-72-61558d5393
+      CHAPTER FIVE DATA STRUCTURES This chapter describes some things you’ve learned about already in more detail, and adds some new things as well.
+    [rank  5] §index (p.7-7)
+      id = tutorial_edit-index-17-39e8996f7b
+      interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well. For a description of standard objects and modules, se…
+    [rank  8] §section (p.3-3)
+      id = tutorial_edit-section-1-c24f1987f5
+      2.1 Invoking the Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 The Interpreter and Its Environment . . . . . . . . . . . . . . . …
+    [rank  9] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 3  [summarisation]  target_chapter= 4
+     What concepts does Chapter 4 of the Python Tutorial introduce?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  2] §synopsis (chap.idx=28, p.25-155, input=14007c)
+      id = tutorial_edit-synopsis-28-858d562b51
+      [Synopsis of §chapter (28)]  Chapter Four: More Control Flow Tools  This chapter covers additional control flow tools in Python, including if statements, for statements, the range…
+    [rank  3] §synopsis (chap.idx=23, p.15-155, input=14007c)
+      id = tutorial_edit-synopsis-23-3fac4f8c17
+      [Synopsis of §chapter (23)]  Chapter Three: An Informal Introduction to Python  This chapter provides an introduction to using Python as a calculator, teaching basic commands and …
+    [rank  5] §synopsis (chap.idx=63, p.75-155, input=14007c)
+      id = tutorial_edit-synopsis-63-d3eafcadcb
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter delves into Python's class system, explaining how to create and utilize classes for bundling data and functionalit…
+    [rank  6] §synopsis (chap.idx=47, p.49-155, input=14007c)
+      id = tutorial_edit-synopsis-47-6b7f374523
+      [Synopsis of §chapter (47)]  Chapter Six: Modules  This chapter teaches how to create and use Python scripts (scripts) and modules, as well as importing them for reuse in other pr…
+    [rank  7] §synopsis (chap.idx=19, p.9-155, input=4424c)
+      id = tutorial_edit-synopsis-19-111b6e3a4e
+      [Synopsis of §chapter (19)]  Chapter One: Whetting Your Appetite introduces Python, a versatile programming language suitable for automating various tasks such as search-and-repla…
+    [rank  9] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank 10] §synopsis (chap.idx=38, p.37-155, input=14007c)
+      id = tutorial_edit-synopsis-38-79f993d4e7
+      [Synopsis of §chapter (38)]  Chapter Five: Data Structures  This chapter delves deeper into lists, a fundamental data structure in Python, and introduces new methods and technique…
+    [rank  1] §chapter (p.10-10)
+      id = tutorial_edit-chapter-26-ea7475e702
+      isisrathermundaneinformation, but essential for trying out the examples shown later. The rest of the tutorial introduces various features of the Python language and system through…
+    [rank  4] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+    [rank  8] §chapter (p.107-107)
+      id = tutorial_edit-chapter-323-ed0bbe2649
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=23, p.15-15, input=1121c)
+      id = tutorial_edit-synopsis-23-1eaffa3613-naive
+      [Synopsis of §chapter (23)]  Chapter Three: Informal Introduction to Python  This chapter provides an introduction to the Python programming language, explaining its syntax and ba…
+    [rank  3] §synopsis (chap.idx=28, p.25-25, input=174c)
+      id = tutorial_edit-synopsis-28-fa162deff6-naive
+      [Synopsis of §chapter (28)]  Chapter Four: More Control Flow Tools  This chapter delves into additional control flow tools in Python, expanding upon the introduction of the while …
+    [rank  4] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd-naive
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  5] §synopsis (chap.idx=63, p.75-75, input=1954c)
+      id = tutorial_edit-synopsis-63-f1e11ab608-naive
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter introduces the concept of classes in Python, a method for bundling data and functionality together. Readers will l…
+    [rank  8] §synopsis (chap.idx=19, p.9-155, input=4424c)
+      id = tutorial_edit-synopsis-19-111b6e3a4e-naive
+      [Synopsis of §chapter (19)]  Chapter One: Whetting Your Appetite introduces Python, a versatile programming language suitable for automating various tasks such as search-and-repla…
+    [rank 10] §synopsis (chap.idx=47, p.49-50, input=2215c)
+      id = tutorial_edit-synopsis-47-dd96efeb87-naive
+      [Synopsis of §chapter (47)]  Chapter Six: Modules  This chapter teaches the creation and utilization of Python scripts (scripts) and modules for organizing longer programs, facili…
+    [rank  2] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+    [rank  6] §chapter (p.9-10)
+      id = tutorial_edit-chapter-22-95124ae1cd
+      ink Python programs to libraries that may only be available in binary form (such as a vendor-specific graphics library). Once you 3 are really hooked, you can link the Python inte…
+    [rank  7] §chapter (p.107-107)
+      id = tutorial_edit-chapter-222-bb1112d506
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+    [rank  9] §index (p.5-7)
+      id = tutorial_edit-index-16-c0fbbb8263
+      Index 147 iii iv Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented prog…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 4  [summarisation]  target_chapter= 5
+     What topics are covered in the Data Structures chapter?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  2] §synopsis (chap.idx=38, p.37-155, input=14007c)
+      id = tutorial_edit-synopsis-38-79f993d4e7
+      [Synopsis of §chapter (38)]  Chapter Five: Data Structures  This chapter delves deeper into lists, a fundamental data structure in Python, and introduces new methods and technique…
+    [rank  5] §synopsis (chap.idx=63, p.75-155, input=14007c)
+      id = tutorial_edit-synopsis-63-d3eafcadcb
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter delves into Python's class system, explaining how to create and utilize classes for bundling data and functionalit…
+    [rank  1] §chapter (p.37-37)
+      id = tutorial_edit-chapter-98-61558d5393
+      CHAPTER FIVE DATA STRUCTURES This chapter describes some things you’ve learned about already in more detail, and adds some new things as well.
+    [rank  3] §section (p.3-3)
+      id = tutorial_edit-section-3-33c91800a8
+      4.7 More on Defining Functions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 4.8 Intermezzo: Coding Style . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  4] §section (p.3-3)
+      id = tutorial_edit-section-4-03b37f37b2
+      5.4 Sets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 5.5 Dictionaries. . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  6] §section (p.42-42)
+      id = tutorial_edit-section-113-f83435b144
+      5.3 Tuples and Sequences We saw that lists and strings have many common properties, such as indexing and slicing operations. They aretwoexamplesofsequencedatatypes(seetypesseq). S…
+    [rank  7] §section (p.4-4)
+      id = tutorial_edit-section-8-12ba188b71
+      9.3 A First Look at Classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 9.4 Random Remarks . . . . . . . . . . . . . . . . . . . . . . . . . .…
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=38, p.37-37, input=142c)
+      id = tutorial_edit-synopsis-38-219ce1b27a-naive
+      [Synopsis of §chapter (38)]  Chapter Five: Data Structures  Learn to delve deeper into data structures, building upon previously acquired knowledge while also introducing new conc…
+    [rank  5] §synopsis (chap.idx=76, p.89-89, input=46c)
+      id = tutorial_edit-synopsis-76-a2f0acf8f8-naive
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Tour  This chapter provides an overview of the Standard Library, a fundamental component in the programming language. Th…
+    [rank 10] §synopsis (chap.idx=63, p.75-75, input=1954c)
+      id = tutorial_edit-synopsis-63-f1e11ab608-naive
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter introduces the concept of classes in Python, a method for bundling data and functionality together. Readers will l…
+    [rank  2] §chapter (p.37-37)
+      id = tutorial_edit-chapter-72-61558d5393
+      CHAPTER FIVE DATA STRUCTURES This chapter describes some things you’ve learned about already in more detail, and adds some new things as well.
+    [rank  3] §section (p.3-3)
+      id = tutorial_edit-section-3-33c91800a8
+      4.7 More on Defining Functions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 4.8 Intermezzo: Coding Style . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  4] §section (p.3-3)
+      id = tutorial_edit-section-4-03b37f37b2
+      5.4 Sets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 5.5 Dictionaries. . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  6] §section (p.4-4)
+      id = tutorial_edit-section-8-12ba188b71
+      9.3 A First Look at Classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 9.4 Random Remarks . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  7] §section (p.4-4)
+      id = tutorial_edit-section-9-f0d80f9fba
+      9.8 Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79 9.9 Generators . . . . . . . . . . . . . . . . . . . . . . . . . . .…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 5  [summarisation]  target_chapter= 6
+     Summarise the Modules chapter of the Python Tutorial.
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §synopsis (chap.idx=47, p.49-155, input=14007c)
+      id = tutorial_edit-synopsis-47-6b7f374523
+      [Synopsis of §chapter (47)]  Chapter Six: Modules  This chapter teaches how to create and use Python scripts (scripts) and modules, as well as importing them for reuse in other pr…
+    [rank  2] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  6] §synopsis (chap.idx=76, p.89-155, input=9349c)
+      id = tutorial_edit-synopsis-76-a041572cac
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Overview  This chapter provides an introduction to essential Python libraries, focusing on the os, shutil, glob, sys, re…
+    [rank  7] §synopsis (chap.idx=86, p.95-155, input=13502c)
+      id = tutorial_edit-synopsis-86-cb10c02edb
+      [Synopsis of §chapter (86)]  Chapter Eleven: Advanced Modules of Standard Library (Part II)  This chapter provides a detailed exploration of more complex modules in Python's Stand…
+    [rank  3] §chapter (p.10-10)
+      id = tutorial_edit-chapter-26-ea7475e702
+      isisrathermundaneinformation, but essential for trying out the examples shown later. The rest of the tutorial introduces various features of the Python language and system through…
+    [rank  4] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+    [rank  5] §chapter (p.107-107)
+      id = tutorial_edit-chapter-323-ed0bbe2649
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+    [rank  8] §section (p.3-3)
+      id = tutorial_edit-section-5-4102619fe6
+      6.1 More on Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44 6.2 Standard Modules . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  9] §chapter (p.49-49)
+      id = tutorial_edit-chapter-132-e4fcfe463f
+      in an interactive instance of the interpreter. Such a file is called a module; definitions from a module can be imported into othermodulesorintothemainmodule(thecollectionofvariab…
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=47, p.49-50, input=2215c)
+      id = tutorial_edit-synopsis-47-dd96efeb87-naive
+      [Synopsis of §chapter (47)]  Chapter Six: Modules  This chapter teaches the creation and utilization of Python scripts (scripts) and modules for organizing longer programs, facili…
+    [rank  4] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd-naive
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  5] §synopsis (chap.idx=23, p.15-15, input=1121c)
+      id = tutorial_edit-synopsis-23-1eaffa3613-naive
+      [Synopsis of §chapter (23)]  Chapter Three: Informal Introduction to Python  This chapter provides an introduction to the Python programming language, explaining its syntax and ba…
+    [rank  2] §chapter (p.107-107)
+      id = tutorial_edit-chapter-222-bb1112d506
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+    [rank  3] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+    [rank  6] §section (p.3-3)
+      id = tutorial_edit-section-5-4102619fe6
+      6.1 More on Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44 6.2 Standard Modules . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  7] §chapter (p.11-11)
+      id = tutorial_edit-chapter-23-eac725afe3
+      CHAPTER TWO USING THE PYTHON INTERPRETER
+    [rank  8] §glossary (p.7-8)
+      id = tutorial_edit-glossary-18-4bfdf3b0de
+      definition of the language. To write extensions in C or C++, read extending-index and c-api-index. There are also several books covering Python in depth. This tutorial does not at…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 6  [summarisation]  target_chapter= 7
+     What does Chapter 7 (Input and Output) cover?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  2] §synopsis (chap.idx=52, p.59-155, input=14007c)
+      id = tutorial_edit-synopsis-52-b987d80e04
+      [Synopsis of §chapter (52)]  Chapter Seven: Input and Output Formatting  This chapter discusses various methods for formatting output in Python, providing more control over the ap…
+    [rank  1] §chapter (p.59-59)
+      id = tutorial_edit-chapter-164-8d845789b9
+      CHAPTER SEVEN INPUT AND OUTPUT There are several ways to present the output of a program; data can be printed in a human-readable form, or written to a file for future use. This c…
+    [rank  3] §section (p.3-3)
+      id = tutorial_edit-section-5-4102619fe6
+      6.1 More on Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44 6.2 Standard Modules . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  4] §section (p.3-4)
+      id = tutorial_edit-section-6-78ec3990f2
+      7.2 Reading and Writing Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57 8 Errors and Exceptions 61 i 8.1 Syntax Errors . . . . . . . . . . . . .…
+    [rank  5] §section (p.150-150)
+      id = tutorial_edit-section-484-d1c388fc60
+      MENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY…
+    [rank  6] §section (p.117-117)
+      id = tutorial_edit-section-352-d3037bd5d3
+      16.1 Interactive Mode 16.1.1 Error Handling When an error occurs, the interpreter prints an error message and a stack trace. In interactive mode, it then returns to the primary pr…
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=52, p.59-59, input=225c)
+      id = tutorial_edit-synopsis-52-1d95241b8a-naive
+      [Synopsis of §chapter (52)]  Chapter Seven: Input and Output  Learn various methods to present a program's output, including displaying data in a user-friendly format and writing …
+    [rank  5] §synopsis (chap.idx=55, p.67-67, input=232c)
+      id = tutorial_edit-synopsis-55-d1c855a156-naive
+      [Synopsis of §chapter (55)]  Chapter Eight: Errors and Exceptions  This chapter focuses on understanding and handling errors in the system, providing detailed explanations about s…
+    [rank  8] §synopsis (chap.idx=76, p.89-89, input=46c)
+      id = tutorial_edit-synopsis-76-a2f0acf8f8-naive
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Tour  This chapter provides an overview of the Standard Library, a fundamental component in the programming language. Th…
+    [rank  2] §chapter (p.59-59)
+      id = tutorial_edit-chapter-118-8d845789b9
+      CHAPTER SEVEN INPUT AND OUTPUT There are several ways to present the output of a program; data can be printed in a human-readable form, or written to a file for future use. This c…
+    [rank  3] §section (p.3-3)
+      id = tutorial_edit-section-5-4102619fe6
+      6.1 More on Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44 6.2 Standard Modules . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  4] §section (p.3-4)
+      id = tutorial_edit-section-6-78ec3990f2
+      7.2 Reading and Writing Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57 8 Errors and Exceptions 61 i 8.1 Syntax Errors . . . . . . . . . . . . .…
+    [rank  6] §section (p.149-150)
+      id = tutorial_edit-section-326-e59c32350b
+      CUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABI…
+    [rank  7] §section (p.4-4)
+      id = tutorial_edit-section-12-497c02e7fc
+      11.1 Output Formatting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89 11.2 Templating . . . . . . . . . . . . . . . . . . . . . . . . . . . .…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 7  [summarisation]  target_chapter= 8
+     What does the Errors and Exceptions chapter teach about exception handling?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §synopsis (chap.idx=55, p.67-155, input=13165c)
+      id = tutorial_edit-synopsis-55-e9b20aaf15
+      [Synopsis of §chapter (55)]  Chapter Eight: Errors and Exceptions  This chapter covers the handling of errors and exceptions in Python, providing an understanding of syntax errors…
+    [rank  2] §chapter (p.67-67)
+      id = tutorial_edit-chapter-191-388d9e9e27
+      CHAPTER EIGHT ERRORS AND EXCEPTIONS Untilnowerrormessageshaven’tbeenmorethanmentioned,butifyouhavetriedouttheexamplesyouhave probably seen some. There are (at least) two distingui…
+    [rank  3] §section (p.68-69)
+      id = tutorial_edit-section-198-ce42cf835d
+      ferent exceptions. At most one handler will be executed. Handlers only handle exceptions that occur in the corresponding try clause, not in other handlers of the same try statemen…
+    [rank  4] §section (p.3-4)
+      id = tutorial_edit-section-6-78ec3990f2
+      7.2 Reading and Writing Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57 8 Errors and Exceptions 61 i 8.1 Syntax Errors . . . . . . . . . . . . .…
+    [rank  5] §section (p.69-69)
+      id = tutorial_edit-section-199-5150f27c26
+      edfrompreviouspage) class C(B): pass class D(C): pass for cls in [B, C, D]: try: raise cls() except D: print("D") except C: print("C") except B: print("B") Note that if the except…
+    [rank  6] §section (p.68-68)
+      id = tutorial_edit-section-196-0c671bba5c
+      8.3 Handling Exceptions It is possible to write programs that handle selected exceptions. Look at the following example, which asks the user for input until a valid integer has be…
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=55, p.67-67, input=232c)
+      id = tutorial_edit-synopsis-55-d1c855a156-naive
+      [Synopsis of §chapter (55)]  Chapter Eight: Errors and Exceptions  This chapter focuses on understanding and handling errors in the system, providing detailed explanations about s…
+    [rank  2] §chapter (p.67-67)
+      id = tutorial_edit-chapter-135-388d9e9e27
+      CHAPTER EIGHT ERRORS AND EXCEPTIONS Untilnowerrormessageshaven’tbeenmorethanmentioned,butifyouhavetriedouttheexamplesyouhave probably seen some. There are (at least) two distingui…
+    [rank  3] §section (p.3-4)
+      id = tutorial_edit-section-6-78ec3990f2
+      7.2 Reading and Writing Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57 8 Errors and Exceptions 61 i 8.1 Syntax Errors . . . . . . . . . . . . .…
+    [rank  4] §section (p.68-69)
+      id = tutorial_edit-section-140-9a0d21c154
+      not match the exception named in the except clause, it is passed on to outer try statements; if no handler is found, it is an unhandled exception and execution stops with a messag…
+    [rank  5] §section (p.68-68)
+      id = tutorial_edit-section-139-7d90f0c1fd
+      8.3 Handling Exceptions It is possible to write programs that handle selected exceptions. Look at the following example, which asks the user for input until a valid integer has be…
+    [rank  6] §section (p.70-70)
+      id = tutorial_edit-section-143-29779f2e8d
+      overridden in exception subclasses ... x, y = inst.args # unpack args ... print('x =', x) ... print('y =', y) ... <class 'Exception'> ('spam', 'eggs') ('spam', 'eggs') x = spam y …
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 8  [summarisation]  target_chapter= 9
+     Summarise Chapter 9 (Classes) of the Python Tutorial.
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §synopsis (chap.idx=63, p.75-155, input=14007c)
+      id = tutorial_edit-synopsis-63-d3eafcadcb
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter delves into Python's class system, explaining how to create and utilize classes for bundling data and functionalit…
+    [rank  6] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  2] §chapter (p.10-10)
+      id = tutorial_edit-chapter-26-ea7475e702
+      isisrathermundaneinformation, but essential for trying out the examples shown later. The rest of the tutorial introduces various features of the Python language and system through…
+    [rank  3] §section (p.4-4)
+      id = tutorial_edit-section-8-12ba188b71
+      9.3 A First Look at Classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 9.4 Random Remarks . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  4] §section (p.3-3)
+      id = tutorial_edit-section-1-c24f1987f5
+      2.1 Invoking the Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 The Interpreter and Its Environment . . . . . . . . . . . . . . . …
+    [rank  5] §chapter (p.75-75)
+      id = tutorial_edit-chapter-214-df19d7558f
+      CHAPTER NINE CLASSES Classesprovideameansofbundlingdataandfunctionalitytogether. Creatinganewclasscreatesanewtype of object, allowing new instances of that type to be made. Each c…
+    [rank  7] §section (p.4-4)
+      id = tutorial_edit-section-7-715a325740
+      8.5 User-defined Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65 8.6 Defining Clean-up Actions . . . . . . . . . . . . . . . . . . . . …
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=63, p.75-75, input=1954c)
+      id = tutorial_edit-synopsis-63-f1e11ab608-naive
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter introduces the concept of classes in Python, a method for bundling data and functionality together. Readers will l…
+    [rank  6] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd-naive
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank 10] §synopsis (chap.idx=23, p.15-15, input=1121c)
+      id = tutorial_edit-synopsis-23-1eaffa3613-naive
+      [Synopsis of §chapter (23)]  Chapter Three: Informal Introduction to Python  This chapter provides an introduction to the Python programming language, explaining its syntax and ba…
+    [rank  2] §section (p.4-4)
+      id = tutorial_edit-section-8-12ba188b71
+      9.3 A First Look at Classes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 9.4 Random Remarks . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  3] §section (p.3-3)
+      id = tutorial_edit-section-1-c24f1987f5
+      2.1 Invoking the Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 The Interpreter and Its Environment . . . . . . . . . . . . . . . …
+    [rank  4] §chapter (p.75-75)
+      id = tutorial_edit-chapter-150-de137d43d4
+      CHAPTER NINE CLASSES Classesprovideameansofbundlingdataandfunctionalitytogether. Creatinganewclasscreatesanewtype of object, allowing new instances of that type to be made. Each c…
+    [rank  5] §section (p.4-4)
+      id = tutorial_edit-section-7-715a325740
+      8.5 User-defined Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65 8.6 Defining Clean-up Actions . . . . . . . . . . . . . . . . . . . . …
+    [rank  7] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q 9  [summarisation]  target_chapter=10
+     What is in Chapter 10 (Brief Tour of the Standard Library)?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  3] §synopsis (chap.idx=76, p.89-155, input=9349c)
+      id = tutorial_edit-synopsis-76-a041572cac
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Overview  This chapter provides an introduction to essential Python libraries, focusing on the os, shutil, glob, sys, re…
+    [rank  1] §chapter (p.89-89)
+      id = tutorial_edit-chapter-268-3727ef8e40
+      CHAPTER TEN BRIEF TOUR OF THE STANDARD LIBRARY
+    [rank  2] §chapter (p.95-95)
+      id = tutorial_edit-chapter-287-e1dc17b425
+      CHAPTER ELEVEN BRIEF TOUR OF THE STANDARD LIBRARY — PART II This second tour covers more advanced modules that support professional programming needs. These modules rarely occur i…
+    [rank  4] §section (p.4-4)
+      id = tutorial_edit-section-11-8e18862366
+      10.8 Dates and Times . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85 10.9 Data Compression . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  5] §section (p.4-4)
+      id = tutorial_edit-section-9-f0d80f9fba
+      9.8 Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79 9.9 Generators . . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  6] §section (p.3-3)
+      id = tutorial_edit-section-5-4102619fe6
+      6.1 More on Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44 6.2 Standard Modules . . . . . . . . . . . . . . . . . . . . . . . . . .…
+  N (python_tut_N):
+    [rank  2] §synopsis (chap.idx=76, p.89-89, input=46c)
+      id = tutorial_edit-synopsis-76-a2f0acf8f8-naive
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Tour  This chapter provides an overview of the Standard Library, a fundamental component in the programming language. Th…
+    [rank  5] §synopsis (chap.idx=86, p.95-95, input=195c)
+      id = tutorial_edit-synopsis-86-feffaf0026-naive
+      [Synopsis of §chapter (86)]  Chapter Eleven: Standard Library - Part II  Learn about advanced modules within the Standard Library, essential for professional programming tasks. Th…
+    [rank  9] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd-naive
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  1] §chapter (p.89-89)
+      id = tutorial_edit-chapter-186-3727ef8e40
+      CHAPTER TEN BRIEF TOUR OF THE STANDARD LIBRARY
+    [rank  3] §chapter (p.95-95)
+      id = tutorial_edit-chapter-198-e1dc17b425
+      CHAPTER ELEVEN BRIEF TOUR OF THE STANDARD LIBRARY — PART II This second tour covers more advanced modules that support professional programming needs. These modules rarely occur i…
+    [rank  4] §section (p.4-4)
+      id = tutorial_edit-section-11-8e18862366
+      10.8 Dates and Times . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85 10.9 Data Compression . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  6] §section (p.4-4)
+      id = tutorial_edit-section-9-f0d80f9fba
+      9.8 Iterators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79 9.9 Generators . . . . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  7] §index (p.7-7)
+      id = tutorial_edit-index-17-39e8996f7b
+      interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well. For a description of standard objects and modules, se…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q10  [summarisation]  target_chapter=11
+     What does Chapter 11 (Brief Tour of the Standard Library Part II) cover?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  3] §synopsis (chap.idx=86, p.95-155, input=13502c)
+      id = tutorial_edit-synopsis-86-cb10c02edb
+      [Synopsis of §chapter (86)]  Chapter Eleven: Advanced Modules of Standard Library (Part II)  This chapter provides a detailed exploration of more complex modules in Python's Stand…
+    [rank  5] §synopsis (chap.idx=76, p.89-155, input=9349c)
+      id = tutorial_edit-synopsis-76-a041572cac
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Overview  This chapter provides an introduction to essential Python libraries, focusing on the os, shutil, glob, sys, re…
+    [rank  7] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  1] §chapter (p.95-95)
+      id = tutorial_edit-chapter-287-e1dc17b425
+      CHAPTER ELEVEN BRIEF TOUR OF THE STANDARD LIBRARY — PART II This second tour covers more advanced modules that support professional programming needs. These modules rarely occur i…
+    [rank  2] §chapter (p.89-89)
+      id = tutorial_edit-chapter-268-3727ef8e40
+      CHAPTER TEN BRIEF TOUR OF THE STANDARD LIBRARY
+    [rank  4] §section (p.4-4)
+      id = tutorial_edit-section-13-7a42025e88
+      11.6 Weak References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93 11.7 Tools for Working with Lists . . . . . . . . . . . . . . . . . .…
+    [rank  6] §section (p.4-4)
+      id = tutorial_edit-section-11-8e18862366
+      10.8 Dates and Times . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85 10.9 Data Compression . . . . . . . . . . . . . . . . . . . . . . . .…
+    [rank  8] §chapter (p.11-11)
+      id = tutorial_edit-chapter-27-eac725afe3
+      CHAPTER TWO USING THE PYTHON INTERPRETER
+  N (python_tut_N):
+    [rank  3] §synopsis (chap.idx=86, p.95-95, input=195c)
+      id = tutorial_edit-synopsis-86-feffaf0026-naive
+      [Synopsis of §chapter (86)]  Chapter Eleven: Standard Library - Part II  Learn about advanced modules within the Standard Library, essential for professional programming tasks. Th…
+    [rank  4] §synopsis (chap.idx=76, p.89-89, input=46c)
+      id = tutorial_edit-synopsis-76-a2f0acf8f8-naive
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Tour  This chapter provides an overview of the Standard Library, a fundamental component in the programming language. Th…
+    [rank  6] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd-naive
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  1] §chapter (p.95-95)
+      id = tutorial_edit-chapter-198-e1dc17b425
+      CHAPTER ELEVEN BRIEF TOUR OF THE STANDARD LIBRARY — PART II This second tour covers more advanced modules that support professional programming needs. These modules rarely occur i…
+    [rank  2] §chapter (p.89-89)
+      id = tutorial_edit-chapter-186-3727ef8e40
+      CHAPTER TEN BRIEF TOUR OF THE STANDARD LIBRARY
+    [rank  5] §section (p.4-4)
+      id = tutorial_edit-section-13-7a42025e88
+      11.6 Weak References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93 11.7 Tools for Working with Lists . . . . . . . . . . . . . . . . . .…
+    [rank  7] §index (p.7-7)
+      id = tutorial_edit-index-17-39e8996f7b
+      interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well. For a description of standard objects and modules, se…
+    [rank  8] §section (p.4-4)
+      id = tutorial_edit-section-11-8e18862366
+      10.8 Dates and Times . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85 10.9 Data Compression . . . . . . . . . . . . . . . . . . . . . . . .…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q11  [summarisation]  target_chapter=12
+     Summarise the Virtual Environments and Packages chapter.
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  2] §synopsis (chap.idx=96, p.103-155, input=6537c)
+      id = tutorial_edit-synopsis-96-d2222ceda5
+      [Synopsis of §chapter (96)]  Chapter Twelve: Virtual Environments and Packages  This chapter introduces the use of virtual environments in Python development to manage conflicting…
+    [rank  1] §chapter (p.103-103)
+      id = tutorial_edit-chapter-311-419aed48df
+      CHAPTER TWELVE VIRTUAL ENVIRONMENTS AND PACKAGES
+    [rank  3] §section (p.4-4)
+      id = tutorial_edit-section-14-792ec450d5
+      12.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97 12.2 Creating Virtual Environments . . . . . . . . . . . . . . . . .…
+    [rank  4] §section (p.4-4)
+      id = tutorial_edit-section-13-7a42025e88
+      11.6 Weak References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93 11.7 Tools for Working with Lists . . . . . . . . . . . . . . . . . .…
+    [rank  5] §section (p.105-105)
+      id = tutorial_edit-section-320-6bdf6f1d77
+      es from the virtual environment. pip show will display information about a particular package: (tutorial-env) $ pip show requests --- Metadata-Version: 2.0 Name: requests Version:…
+    [rank  6] §section (p.103-103)
+      id = tutorial_edit-section-314-7a7e4d20bb
+      12.2 Creating Virtual Environments The module used to create and manage virtual environments is called venv. venv will usually install the most recent version of Python that you h…
+  N (python_tut_N):
+    [rank  2] §synopsis (chap.idx=96, p.103-103, input=48c)
+      id = tutorial_edit-synopsis-96-54649acb99-naive
+      [Synopsis of §chapter (96)]  Chapter Twelve: Virtual Environments and Packages  Learn to create, manage, and utilize virtual environments for isolating Python projects and their d…
+    [rank  9] §synopsis (chap.idx=52, p.59-59, input=225c)
+      id = tutorial_edit-synopsis-52-1d95241b8a-naive
+      [Synopsis of §chapter (52)]  Chapter Seven: Input and Output  Learn various methods to present a program's output, including displaying data in a user-friendly format and writing …
+    [rank  1] §chapter (p.103-103)
+      id = tutorial_edit-chapter-214-419aed48df
+      CHAPTER TWELVE VIRTUAL ENVIRONMENTS AND PACKAGES
+    [rank  3] §section (p.4-4)
+      id = tutorial_edit-section-14-792ec450d5
+      12.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97 12.2 Creating Virtual Environments . . . . . . . . . . . . . . . . .…
+    [rank  4] §section (p.4-4)
+      id = tutorial_edit-section-13-7a42025e88
+      11.6 Weak References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93 11.7 Tools for Working with Lists . . . . . . . . . . . . . . . . . .…
+    [rank  5] §section (p.105-105)
+      id = tutorial_edit-section-220-fb06421d2e
+      es from the virtual environment. pip show will display information about a particular package: (tutorial-env) $ pip show requests --- Metadata-Version: 2.0 Name: requests Version:…
+    [rank  6] §section (p.103-104)
+      id = tutorial_edit-section-216-c6a5a8947b
+      12.2 Creating Virtual Environments The module used to create and manage virtual environments is called venv. venv will usually install the most recent version of Python that you h…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q12  [summarisation]  target_chapter=15
+     What does Chapter 15 teach about floating-point arithmetic?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §synopsis (chap.idx=105, p.111-155, input=10540c)
+      id = tutorial_edit-synopsis-105-5339afff82
+      [Synopsis of §chapter (105)]  Chapter Fifteen: Floating Point Arithmetic: Issues and Limitations  This chapter delves into the intricacies of floating-point arithmetic, explaining…
+    [rank  6] §synopsis (chap.idx=23, p.15-155, input=14007c)
+      id = tutorial_edit-synopsis-23-3fac4f8c17
+      [Synopsis of §chapter (23)]  Chapter Three: An Informal Introduction to Python  This chapter provides an introduction to using Python as a calculator, teaching basic commands and …
+    [rank  2] §chapter (p.111-111)
+      id = tutorial_edit-chapter-332-737edcbeea
+      CHAPTER FIFTEEN FLOATING POINT ARITHMETIC: ISSUES AND LIMITATIONS Floating-point numbers are represented in computer hardware as base 2 (binary) fractions. For example, the decima…
+    [rank  3] §section (p.100-101)
+      id = tutorial_edit-section-309-dfbf43d8ad
+      0.73 94 Chapter 11. Brief Tour of the Standard Library — Part II The Decimal result keeps a trailing zero, automatically inferring four place significance from multiplicands with …
+    [rank  4] §section (p.15-16)
+      id = tutorial_edit-section-40-1911310dbb
+      1.6 The integer numbers (e.g. 2, 4, 20) have type int, the ones with a fractional part (e.g. 5.0, 1.6) have type float. We will see more about numeric types later in the tutorial.…
+    [rank  5] §section (p.100-100)
+      id = tutorial_edit-section-307-6f21ffddb8
+      11.8 Decimal Floating Point Arithmetic The decimal module offers a Decimal datatype for decimal floating point arithmetic. Compared to the built-in float implementation of binary …
+    [rank  7] §section (p.114-115)
+      id = tutorial_edit-section-348-ef7beb3d20
+      3602879701896397.0 If we multiply that fraction by 10**55, we can see the value out to 55 decimal digits: >>> 3602879701896397 * 10 ** 55 // 2 ** 55 100000000000000005551115123125…
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=105, p.111-111, input=189c)
+      id = tutorial_edit-synopsis-105-70f6d0927d-naive
+      [Synopsis of §chapter (105)]  Chapter Fifteen: Floating Point Arithmetic - Issues and Limitations  This chapter delves into the intricacies of floating point arithmetic, a crucial…
+    [rank  2] §chapter (p.111-111)
+      id = tutorial_edit-chapter-228-737edcbeea
+      CHAPTER FIFTEEN FLOATING POINT ARITHMETIC: ISSUES AND LIMITATIONS Floating-point numbers are represented in computer hardware as base 2 (binary) fractions. For example, the decima…
+    [rank  3] §section (p.100-102)
+      id = tutorial_edit-section-213-935ce2cf92
+      0.73 94 Chapter 11. Brief Tour of the Standard Library — Part II The Decimal result keeps a trailing zero, automatically inferring four place significance from multiplicands with …
+    [rank  4] §section (p.100-100)
+      id = tutorial_edit-section-212-66a77e3eb0
+      11.8 Decimal Floating Point Arithmetic The decimal module offers a Decimal datatype for decimal floating point arithmetic. Compared to the built-in float implementation of binary …
+    [rank  5] §section (p.114-116)
+      id = tutorial_edit-section-240-87a91dd9d3
+      3602879701896397.0 If we multiply that fraction by 10**55, we can see the value out to 55 decimal digits: >>> 3602879701896397 * 10 ** 55 // 2 ** 55 100000000000000005551115123125…
+    [rank  6] §section (p.15-16)
+      id = tutorial_edit-section-32-a6f5f94aa6
+      1.6 The integer numbers (e.g. 2, 4, 20) have type int, the ones with a fractional part (e.g. 5.0, 1.6) have type float. We will see more about numeric types later in the tutorial.…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q13  [summarisation]  target_chapter=16
+     What does the Appendix chapter cover?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  5] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank 10] §synopsis (chap.idx=76, p.89-155, input=9349c)
+      id = tutorial_edit-synopsis-76-a041572cac
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Overview  This chapter provides an introduction to essential Python libraries, focusing on the os, shutil, glob, sys, re…
+    [rank  1] §appendix (p.117-117)
+      id = tutorial_edit-appendix-351-6189464345
+      APPENDIX
+    [rank  2] §appendix (p.119-119)
+      id = tutorial_edit-appendix-358-48f0926c87
+      APPENDIX A
+    [rank  3] §chapter (p.37-37)
+      id = tutorial_edit-chapter-98-61558d5393
+      CHAPTER FIVE DATA STRUCTURES This chapter describes some things you’ve learned about already in more detail, and adds some new things as well.
+    [rank  4] §appendix (p.151-152)
+      id = tutorial_edit-appendix-485-1a90610306
+      APPENDIX D COPYRIGHT Python and this documentation is: Copyright © 2001-2018 Python Software Foundation. All rights reserved. Copyright © 2000 BeOpen.com. All rights reserved. Cop…
+    [rank  6] §glossary (p.7-8)
+      id = tutorial_edit-glossary-19-4bfdf3b0de
+      definition of the language. To write extensions in C or C++, read extending-index and c-api-index. There are also several books covering Python in depth. This tutorial does not at…
+  N (python_tut_N):
+    [rank  7] §synopsis (chap.idx=76, p.89-89, input=46c)
+      id = tutorial_edit-synopsis-76-a2f0acf8f8-naive
+      [Synopsis of §chapter (76)]  Chapter Ten: Standard Library Tour  This chapter provides an overview of the Standard Library, a fundamental component in the programming language. Th…
+    [rank  8] §synopsis (chap.idx=55, p.67-67, input=232c)
+      id = tutorial_edit-synopsis-55-d1c855a156-naive
+      [Synopsis of §chapter (55)]  Chapter Eight: Errors and Exceptions  This chapter focuses on understanding and handling errors in the system, providing detailed explanations about s…
+    [rank 10] §synopsis (chap.idx=23, p.15-15, input=1121c)
+      id = tutorial_edit-synopsis-23-1eaffa3613-naive
+      [Synopsis of §chapter (23)]  Chapter Three: Informal Introduction to Python  This chapter provides an introduction to the Python programming language, explaining its syntax and ba…
+    [rank  1] §appendix (p.117-117)
+      id = tutorial_edit-appendix-242-6189464345
+      APPENDIX
+    [rank  2] §appendix (p.119-119)
+      id = tutorial_edit-appendix-247-48f0926c87
+      APPENDIX A
+    [rank  3] §chapter (p.37-37)
+      id = tutorial_edit-chapter-72-61558d5393
+      CHAPTER FIVE DATA STRUCTURES This chapter describes some things you’ve learned about already in more detail, and adds some new things as well.
+    [rank  4] §appendix (p.151-152)
+      id = tutorial_edit-appendix-328-1a90610306
+      APPENDIX D COPYRIGHT Python and this documentation is: Copyright © 2001-2018 Python Software Foundation. All rights reserved. Copyright © 2000 BeOpen.com. All rights reserved. Cop…
+    [rank  5] §chapter (p.107-107)
+      id = tutorial_edit-chapter-222-bb1112d506
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q14  [summarisation]  target_chapter= 1
+     Summarise Chapter 1 (Whetting Your Appetite) of the Python Tutorial.
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  2] §synopsis (chap.idx=19, p.9-155, input=4424c)
+      id = tutorial_edit-synopsis-19-111b6e3a4e
+      [Synopsis of §chapter (19)]  Chapter One: Whetting Your Appetite introduces Python, a versatile programming language suitable for automating various tasks such as search-and-repla…
+    [rank  3] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank 10] §synopsis (chap.idx=23, p.15-155, input=14007c)
+      id = tutorial_edit-synopsis-23-3fac4f8c17
+      [Synopsis of §chapter (23)]  Chapter Three: An Informal Introduction to Python  This chapter provides an introduction to using Python as a calculator, teaching basic commands and …
+    [rank  1] §chapter (p.10-10)
+      id = tutorial_edit-chapter-26-ea7475e702
+      isisrathermundaneinformation, but essential for trying out the examples shown later. The rest of the tutorial introduces various features of the Python language and system through…
+    [rank  4] §section (p.3-3)
+      id = tutorial_edit-section-1-c24f1987f5
+      2.1 Invoking the Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 The Interpreter and Its Environment . . . . . . . . . . . . . . . …
+    [rank  5] §chapter (p.107-107)
+      id = tutorial_edit-chapter-323-ed0bbe2649
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+    [rank  6] §chapter (p.11-11)
+      id = tutorial_edit-chapter-27-eac725afe3
+      CHAPTER TWO USING THE PYTHON INTERPRETER
+    [rank  7] §card (p.1-1)
+      id = tutorial_edit-card-8a49cb24c0
+      Title: Python Tutorial Version: 3.7.0
+  N (python_tut_N):
+    [rank  1] §synopsis (chap.idx=19, p.9-155, input=4424c)
+      id = tutorial_edit-synopsis-19-111b6e3a4e-naive
+      [Synopsis of §chapter (19)]  Chapter One: Whetting Your Appetite introduces Python, a versatile programming language suitable for automating various tasks such as search-and-repla…
+    [rank  4] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd-naive
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  7] §synopsis (chap.idx=23, p.15-15, input=1121c)
+      id = tutorial_edit-synopsis-23-1eaffa3613-naive
+      [Synopsis of §chapter (23)]  Chapter Three: Informal Introduction to Python  This chapter provides an introduction to the Python programming language, explaining its syntax and ba…
+    [rank  2] §chapter (p.9-9)
+      id = tutorial_edit-chapter-19-5ebb4df36e
+      CHAPTER ONE WHETTING YOUR APPETITE If you do much work on computers, eventually you find that there’s some task you’d like to automate. For example, you may wish to perform a sear…
+    [rank  3] §chapter (p.9-10)
+      id = tutorial_edit-chapter-22-95124ae1cd
+      ink Python programs to libraries that may only be available in binary form (such as a vendor-specific graphics library). Once you 3 are really hooked, you can link the Python inte…
+    [rank  5] §chapter (p.107-107)
+      id = tutorial_edit-chapter-222-bb1112d506
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+    [rank  6] §section (p.3-3)
+      id = tutorial_edit-section-1-c24f1987f5
+      2.1 Invoking the Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 The Interpreter and Its Environment . . . . . . . . . . . . . . . …
+    [rank  8] §chapter (p.11-11)
+      id = tutorial_edit-chapter-23-eac725afe3
+      CHAPTER TWO USING THE PYTHON INTERPRETER
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q15  [summarisation]  target_chapter=13
+     What does Chapter 13 (What Now?) say about further learning resources?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  5] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  1] §section (p.139-140)
+      id = tutorial_edit-section-444-19dc7d021b
+      THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PA…
+    [rank  2] §section (p.140-141)
+      id = tutorial_edit-section-448-c7ad1a0e05
+      les contain the following notice: Copyright 1996 by Sam Rushing All Rights Reserved Permission to use, copy, modify, and distribute this software and its documentation for any pur…
+    [rank  3] §section (p.147-148)
+      id = tutorial_edit-section-475-57aa3a2ae5
+      , merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions…
+    [rank  4] §section (p.148-149)
+      id = tutorial_edit-section-478-e2e7c82370
+      OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. C.3.15 zlib Thezlibextensionisbuiltusinganincludedcopyofthezlibsou…
+    [rank  6] §section (p.144-145)
+      id = tutorial_edit-section-463-f25882b35f
+      ay, currently available from http: //www.netlib.org/fp/. The original file, as retrieved on March 16, 2009, contains the following copyright and licensing notice: 138 Appendix C. …
+  N (python_tut_N):
+    [rank  2] §synopsis (chap.idx=101, p.107-155, input=3058c)
+      id = tutorial_edit-synopsis-101-d9e0d77edd-naive
+      [Synopsis of §chapter (101)]  This chapter, "What Now?", serves as a guide for further exploration of Python after completing the tutorial. It introduces various resources to deep…
+    [rank  5] §synopsis (chap.idx=86, p.95-95, input=195c)
+      id = tutorial_edit-synopsis-86-feffaf0026-naive
+      [Synopsis of §chapter (86)]  Chapter Eleven: Standard Library - Part II  Learn about advanced modules within the Standard Library, essential for professional programming tasks. Th…
+    [rank  1] §section (p.139-140)
+      id = tutorial_edit-section-302-fe91996b29
+      the following disclaimer in the documentation and/or other materials provided with the distribution. 3. The names of its contributors may not be used to endorse or promote product…
+    [rank  3] §chapter (p.107-107)
+      id = tutorial_edit-chapter-222-bb1112d506
+      CHAPTER THIRTEEN WHAT NOW? Reading this tutorial has probably reinforced your interest in using Python — you should be eager to apply Python to solving your real-world problems. W…
+    [rank  4] §chapter (p.95-95)
+      id = tutorial_edit-chapter-198-e1dc17b425
+      CHAPTER ELEVEN BRIEF TOUR OF THE STANDARD LIBRARY — PART II This second tour covers more advanced modules that support professional programming needs. These modules rarely occur i…
+    [rank  6] §section (p.138-139)
+      id = tutorial_edit-section-300-02124fb148
+      , modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and t…
+    [rank  7] §section (p.143-144)
+      id = tutorial_edit-section-311-113fefd7dd
+      ftware, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be inclu…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q16  [control]  target_chapter=  
+     How do I define a function with default arguments?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §section (p.30-30)
+      id = tutorial_edit-section-79-598e099f11
+      4.7 More on Defining Functions It is also possible to define functions with a variable number of arguments. There are three forms, which can be combined. 4.7.1 Default Argument Va…
+    [rank  2] §section (p.30-31)
+      id = tutorial_edit-section-81-0314028b92
+      sses. For example, the following function accumulates the arguments passed to it on subsequent calls: 24 Chapter 4. More Control Flow Tools def f(a, L=[]): L.append(a) return L pr…
+    [rank  3] §section (p.30-30)
+      id = tutorial_edit-section-80-c2331261c3
+      n several ways: • giving only the mandatory argument: ask_ok('Do you really want to quit?') • giving one of the optional arguments: ask_ok('OK to overwrite the file?', 2) • or eve…
+    [rank  4] §index (p.127-128)
+      id = tutorial_edit-index-406-5cfa8881b0
+      eady accepted by other parameters). Such a parameter can be defined by prepending the parameter name with *, for example args in the following: def func(*args, **kwargs): ... • va…
+    [rank  5] §section (p.31-32)
+      id = tutorial_edit-section-84-3340ae1536
+      s restriction: 4.7. More on Defining Functions 25 >>> def function(a): ... pass ... >>> function(0, a=0) Traceback (most recent call last): File "<stdin>", line 1, in <module> Typ…
+  N (python_tut_N):
+    [rank  1] §section (p.30-31)
+      id = tutorial_edit-section-61-0ad7d0c838
+      d at the point of function definition in the defining scope, so that i = 5 def f(arg=i): print(arg) i = 6 f() will print 5. Important warning: Thedefaultvalueisevaluatedonlyonce. …
+    [rank  2] §section (p.30-30)
+      id = tutorial_edit-section-60-09ee11386e
+      4.7 More on Defining Functions It is also possible to define functions with a variable number of arguments. There are three forms, which can be combined. 4.7.1 Default Argument Va…
+    [rank  3] §section (p.31-32)
+      id = tutorial_edit-section-63-a987906f0c
+      also includes non-optional arguments (e.g. parrot(voltage=1000) is valid too). No argument may receive a value more than once. Here’s an example that fails due to this restriction…
+    [rank  4] §index (p.127-128)
+      id = tutorial_edit-index-277-cf9bfb1c90
+      _only2): ... • var-positional: specifies that an arbitrary sequence of positional arguments can be provided (in addition to any positional arguments already accepted by other para…
+    [rank  5] §section (p.33-33)
+      id = tutorial_edit-section-66-36d72822a0
+      cked from a list [3, 4, 5] In the same fashion, dictionaries can deliver keyword arguments with the **-operator: >>> def parrot(voltage, state='a stiff', action='voom'): ... print…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q17  [control]  target_chapter=  
+     What is the syntax for a list comprehension?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  7] §synopsis (chap.idx=38, p.37-155, input=14007c)
+      id = tutorial_edit-synopsis-38-79f993d4e7
+      [Synopsis of §chapter (38)]  Chapter Five: Data Structures  This chapter delves deeper into lists, a fundamental data structure in Python, and introduces new methods and technique…
+    [rank  1] §section (p.39-40)
+      id = tutorial_edit-section-106-c3c9ed82cc
+      rwrites) a variable named x that still exists after the loop completes. We can calculate the list of squares without any side effects using: squares = list(map(lambda x: x**2, ran…
+    [rank  2] §section (p.40-41)
+      id = tutorial_edit-section-109-35bc586fc5
+      [4,5,6], [7,8,9]] >>> [num for elem in vec for num in elem] [1, 2, 3, 4, 5, 6, 7, 8, 9] List comprehensions can contain complex expressions and nested functions: >>> from math imp…
+    [rank  3] §section (p.41-41)
+      id = tutorial_edit-section-110-4edc2ea781
+      1, 12], ... ] The following list comprehension will transpose rows and columns: >>> [[row[i] for row in matrix] for i in range(4)] [[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]] …
+    [rank  4] §section (p.40-40)
+      id = tutorial_edit-section-108-85a3f9c391
+      # apply a function to all the elements >>> [abs(x) for x in vec] [4, 2, 0, 2, 4] >>> # call a method on each element >>> freshfruit = [' banana', ' loganberry ', 'passion fruit ']…
+    [rank  5] §glossary (p.126-126)
+      id = tutorial_edit-glossary-396-c46e8251d3
+      th locks or by using the EAFP approach. list A built-in Python sequence. Despite its name it is more akin to an array in other languages than to a linked list since access to elem…
+  N (python_tut_N):
+    [rank  1] §section (p.40-41)
+      id = tutorial_edit-section-79-1eb65a56dc
+      the tuple must be parenthesized, otherwise an error is raised >>> [x, x**2 for x in range(6)] File "<stdin>", line 1, in <module> [x, x**2 for x in range(6)] ^ SyntaxError: invali…
+    [rank  2] §section (p.39-40)
+      id = tutorial_edit-section-77-9cce87ca0c
+      ere each element is the result of some operations applied to each member of another sequence or iterable, or to create a subsequence of those elements that satisfy a certain condi…
+    [rank  3] §section (p.20-21)
+      id = tutorial_edit-section-41-f3e32261ac
+      methods for basic transformations and searching. f-strings String literals that have embedded expressions. formatstrings Information about string formatting with str.format(). old…
+    [rank  4] §section (p.39-40)
+      id = tutorial_edit-section-78-b25cd75955
+      (1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)] and it’s equivalent to: 5.1. More on Lists 33 >>> combs = [] >>> for x in [1,2,3]: ... for y in [3,1,4]: ... if x != y: ...…
+    [rank  5] §section (p.41-41)
+      id = tutorial_edit-section-80-25fc10869e
+      ], [3, 7, 11], [4, 8, 12]] As we saw in the previous section, the nested listcomp is evaluated in the context of the for that follows it, so this example is equivalent to: >>> tra…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q18  [control]  target_chapter=  
+     How do you raise a custom exception?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §section (p.70-70)
+      id = tutorial_edit-section-204-85f6bd8161
+      8.4 Raising Exceptions The raise statement allows the programmer to force a specified exception to occur. For example: >>> raise NameError('HiThere') Traceback (most recent call l…
+    [rank  2] §section (p.70-71)
+      id = tutorial_edit-section-205-1fff0f15bc
+      ws you to re-raise the exception: >>> try: ... raise NameError('HiThere') ... except NameError: (continuesonnextpage) 64 Chapter 8. Errors and Exceptions (continuedfrompreviouspag…
+    [rank  3] §section (p.69-69)
+      id = tutorial_edit-section-200-fece6af0ce
+      trip()) except OSError as err: print("OS error: {0}".format(err)) except ValueError: print("Could not convert data to an integer.") except: print("Unexpected error:", sys.exc_info…
+    [rank  4] §section (p.71-71)
+      id = tutorial_edit-section-206-52bbef25c1
+      8.5 User-defined Exceptions Programs may name their own exceptions by creating a new exception class (see Classes for more about Python classes). Exceptions should typically be de…
+    [rank  5] §section (p.69-69)
+      id = tutorial_edit-section-199-5150f27c26
+      edfrompreviouspage) class C(B): pass class D(C): pass for cls in [B, C, D]: try: raise cls() except D: print("D") except C: print("C") except B: print("B") Note that if the except…
+  N (python_tut_N):
+    [rank  1] §section (p.70-71)
+      id = tutorial_edit-section-144-64dc7da696
+      8.4 Raising Exceptions The raise statement allows the programmer to force a specified exception to occur. For example: >>> raise NameError('HiThere') Traceback (most recent call l…
+    [rank  2] §section (p.69-70)
+      id = tutorial_edit-section-142-33829fa5a3
+      es()), 'lines') f.close() Theuseoftheelseclauseisbetterthanaddingadditionalcodetothetryclausebecauseitavoidsaccidentally catching an exception that wasn’t raised by the code being…
+    [rank  3] §section (p.71-71)
+      id = tutorial_edit-section-145-f18647ba9f
+      8.5 User-defined Exceptions Programs may name their own exceptions by creating a new exception class (see Classes for more about Python classes). Exceptions should typically be de…
+    [rank  4] §section (p.69-69)
+      id = tutorial_edit-section-141-94469ca47e
+      pt C: print("C") except B: print("B") Note that if the except clauses were reversed (with except B first), it would have printed B, B, B — the first matching except clause is trig…
+    [rank  5] §section (p.70-70)
+      id = tutorial_edit-section-143-29779f2e8d
+      overridden in exception subclasses ... x, y = inst.args # unpack args ... print('x =', x) ... print('y =', y) ... <class 'Exception'> ('spam', 'eggs') ('spam', 'eggs') x = spam y …
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q19  [control]  target_chapter=  
+     What is the difference between 'is' and '==' in Python?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank 10] §synopsis (chap.idx=28, p.25-155, input=14007c)
+      id = tutorial_edit-synopsis-28-858d562b51
+      [Synopsis of §chapter (28)]  Chapter Four: More Control Flow Tools  This chapter covers additional control flow tools in Python, including if statements, for statements, the range…
+    [rank  1] §section (p.22-22)
+      id = tutorial_edit-section-58-3c4656e5d6
+      ke place. The right-hand side expressions are evaluated from the left to the right. • The while loop executes as long as the condition (here: a < 10) remains true. In Python, like…
+    [rank  2] §section (p.39-40)
+      id = tutorial_edit-section-107-0f5c808c38
+      != y] [(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)] and it’s equivalent to: 5.1. More on Lists 33 >>> combs = [] >>> for x in [1,2,3]: ... for y in [3,1,4]: ... if x !=…
+    [rank  3] §section (p.46-46)
+      id = tutorial_edit-section-126-bc409df9ab
+      5.7 More on Conditions The conditions used in while and if statements can contain any operators, not just comparisons. The comparison operators in and not in check whether a value…
+    [rank  4] §section (p.25-25)
+      id = tutorial_edit-section-62-428da458c2
+      4.1 if Statements Perhaps the most well-known statement type is the if statement. For example: >>> x = int(input("Please enter an integer: ")) Please enter an integer: 42 >>> if x…
+    [rank  5] §section (p.46-46)
+      id = tutorial_edit-section-128-9b0c4a8838
+      It is possible to assign the result of a comparison or other Boolean expression to a variable. For example, >>> string1, string2, string3 = '', 'Trondheim', 'Hammer Dance' >>> non…
+  N (python_tut_N):
+    [rank  1] §section (p.25-25)
+      id = tutorial_edit-section-48-428da458c2
+      4.1 if Statements Perhaps the most well-known statement type is the if statement. For example: >>> x = int(input("Please enter an integer: ")) Please enter an integer: 42 >>> if x…
+    [rank  2] §section (p.46-46)
+      id = tutorial_edit-section-92-a6efab8b14
+      5.7 More on Conditions The conditions used in while and if statements can contain any operators, not just comparisons. The comparison operators in and not in check whether a value…
+    [rank  3] §section (p.22-22)
+      id = tutorial_edit-section-44-98610683bb
+      3.2 First Steps Towards Programming Of course, we can use Python for more complicated tasks than adding two and two together. For instance, we can write an initial sub-sequence of…
+    [rank  4] §section (p.39-40)
+      id = tutorial_edit-section-78-b25cd75955
+      (1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)] and it’s equivalent to: 5.1. More on Lists 33 >>> combs = [] >>> for x in [1,2,3]: ... for y in [3,1,4]: ... if x != y: ...…
+    [rank  5] §section (p.22-22)
+      id = tutorial_edit-section-45-7ca5f718ec
+      xample is a simple comparison. The standard comparison operators are written the same as in C: < (less than), > (greater than), == (equal to), <= (less than or equal to), >= (grea…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q20  [control]  target_chapter=  
+     How do you import a specific function from a module?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  5] §synopsis (chap.idx=47, p.49-155, input=14007c)
+      id = tutorial_edit-synopsis-47-6b7f374523
+      [Synopsis of §chapter (47)]  Chapter Six: Modules  This chapter teaches how to create and use Python scripts (scripts) and modules, as well as importing them for reuse in other pr…
+    [rank  1] §section (p.50-50)
+      id = tutorial_edit-section-137-92a429f750
+      iant to import all names that a module defines: >>> from fibo import * >>> fib(500) 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 This imports all names except those beginning with an …
+    [rank  2] §section (p.55-55)
+      id = tutorial_edit-section-156-de0fc1feb4
+      also execute initialization code for the package or set the __all__ variable, described later. Users of the package can import individual modules from the package, for example: im…
+    [rank  3] §section (p.50-50)
+      id = tutorial_edit-section-136-343a69fd91
+      to refer to its functions, modname.itemname. Modules can import other modules. It is customary but not required to place all import statements at the beginning of a module (or scr…
+    [rank  4] §chapter (p.49-49)
+      id = tutorial_edit-chapter-132-e4fcfe463f
+      in an interactive instance of the interpreter. Such a file is called a module; definitions from a module can be imported into othermodulesorintothemainmodule(thecollectionofvariab…
+    [rank  6] §section (p.55-56)
+      id = tutorial_edit-section-157-160936ae3c
+      le directly: from sound.effects.echo import echofilter Again, this loads the submodule echo, but this makes its function echofilter() directly available: echofilter(input, output,…
+  N (python_tut_N):
+    [rank  4] §synopsis (chap.idx=47, p.49-50, input=2215c)
+      id = tutorial_edit-synopsis-47-dd96efeb87-naive
+      [Synopsis of §chapter (47)]  Chapter Six: Modules  This chapter teaches the creation and utilization of Python scripts (scripts) and modules for organizing longer programs, facili…
+    [rank  1] §section (p.50-51)
+      id = tutorial_edit-section-100-bfa9a44774
+      ‘executed’; the execution of a module-level function definition entersthefunctionnameinthemodule’sglobalsymboltable. 44 Chapter 6. Modules This is effectively importing the module…
+    [rank  2] §section (p.55-55)
+      id = tutorial_edit-section-113-6359ec9f6e
+      package, for example: import sound.effects.echo This loads the submodule sound.effects.echo. It must be referenced with its full name. sound.effects.echo.echofilter(input, output,…
+    [rank  3] §section (p.50-50)
+      id = tutorial_edit-section-99-7cf4ba1583
+      ymbol table. For example: >>> from fibo import fib, fib2 >>> fib(500) 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 This does not introduce the module name from which the imports are t…
+    [rank  5] §section (p.50-50)
+      id = tutorial_edit-section-98-ef83760944
+      6.1 More on Modules A module can contain executable statements as well as function definitions. These statements are intended toinitializethemodule. Theyareexecutedonlythefirst ti…
+    [rank  6] §section (p.56-58)
+      id = tutorial_edit-section-117-fe3c27d8cc
+      module for example, you might use: 50 Chapter 6. Modules from . import echo from .. import formats from ..filters import equalizer Notethatrelativeimportsarebasedonthenameofthecur…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q21  [control]  target_chapter=  
+     What does the print function's 'end' parameter do?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §section (p.17-17)
+      id = tutorial_edit-section-45-23cc549b18
+      ," they said.' '"Isn\'t," they said.' >>> print('"Isn\'t," they said.') "Isn't," they said. >>> s = 'First line.\nSecond line.' # \n means newline >>> s # without print(), \n is i…
+    [rank  2] §section (p.17-18)
+      id = tutorial_edit-section-46-b4e6a2a0f0
+      ..'''. End of lines are automatically included in the string, but it’s possible to prevent this by adding a \ at the end of the line. The following example: 2 Unlikeotherlanguages…
+    [rank  3] §section (p.64-64)
+      id = tutorial_edit-section-183-7d3bba9387
+      y omitted on the last line of the file if the file doesn’t end in a newline. This makes the return value unambiguous; if f.readline() returns an empty string, the end of the file …
+    [rank  4] §section (p.22-24)
+      id = tutorial_edit-section-60-192b00ad39
+      s) in the way it handles multiple arguments, floating point quantities, and strings. Strings are printed without quotes, and a space is inserted between items, so you can format t…
+    [rank  5] §section (p.31-31)
+      id = tutorial_edit-section-82-5d46fb026a
+      ction, end=' ') print("if you put", voltage, "volts through it.") print("-- Lovely plumage, the", type) print("-- It's", state, "!") accepts one required argument (voltage) and th…
+  N (python_tut_N):
+    [rank  1] §section (p.22-24)
+      id = tutorial_edit-section-46-2c56810672
+      nd a space is inserted between items, so you can format things nicely, like this: 16 Chapter 3. An Informal Introduction to Python >>> i = 256*256 >>> print('The value of i is', i…
+    [rank  2] §section (p.17-18)
+      id = tutorial_edit-section-36-b8fee48748
+      # \n means newline >>> s # without print(), \n is included in the output 'First line.\nSecond line.' >>> print(s) # with print(), \n produces a new line First line. Second line. I…
+    [rank  3] §section (p.64-64)
+      id = tutorial_edit-section-130-8d17d222ca
+      ' f.readline() reads a single line from the file; a newline character (\n) is left at the end of the string, and is only omitted on the last line of the file if the file doesn’t e…
+    [rank  4] §section (p.27-28)
+      id = tutorial_edit-section-53-b7bd8f9b3b
+      ionoccurs,andaloop’selse clauserunswhennobreakoccurs. Formoreonthetrystatementandexceptions, seeHandling Exceptions. The continue statement, also borrowed from C, continues with t…
+    [rank  5] §references (p.29-30)
+      id = tutorial_edit-references-59-fa34a2eef1
+      eturns None. Falling off the end of a function also returns None. • The statement result.append(a) calls a method of the list object result. A method is a function that ‘belongs’ …
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q22  [control]  target_chapter=  
+     How do you read a file line by line in Python?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §section (p.64-64)
+      id = tutorial_edit-section-183-7d3bba9387
+      y omitted on the last line of the file if the file doesn’t end in a newline. This makes the return value unambiguous; if f.readline() returns an empty string, the end of the file …
+    [rank  2] §chapter (p.11-11)
+      id = tutorial_edit-chapter-27-eac725afe3
+      CHAPTER TWO USING THE PYTHON INTERPRETER
+    [rank  3] §section (p.64-64)
+      id = tutorial_edit-section-184-2b1c74a3d0
+      f a file in a list you can also use list(f) or f.readlines(). f.write(string) writes the contents of string to the file, returning the number of characters written. >>> f.write('T…
+    [rank  4] §section (p.63-64)
+      id = tutorial_edit-section-182-292e0050c4
+      ng and Writing Files 57 Toreadafile’scontents,callf.read(size),whichreadssomequantityofdataandreturnsitasastring(in text mode) or bytes object (in binary mode). size is an optiona…
+    [rank  5] §section (p.63-64)
+      id = tutorial_edit-section-181-ffe48efe4f
+      you don’t explicitly close a file, Python’s garbage collector will eventuallydestroytheobjectandclosetheopenfileforyou, butthefilemaystayopenforawhile. Another risk is that differ…
+  N (python_tut_N):
+    [rank  9] §synopsis (chap.idx=19, p.9-155, input=4424c)
+      id = tutorial_edit-synopsis-19-111b6e3a4e-naive
+      [Synopsis of §chapter (19)]  Chapter One: Whetting Your Appetite introduces Python, a versatile programming language suitable for automating various tasks such as search-and-repla…
+    [rank  1] §section (p.64-64)
+      id = tutorial_edit-section-130-8d17d222ca
+      ' f.readline() reads a single line from the file; a newline character (\n) is left at the end of the string, and is only omitted on the last line of the file if the file doesn’t e…
+    [rank  2] §chapter (p.11-11)
+      id = tutorial_edit-chapter-23-eac725afe3
+      CHAPTER TWO USING THE PYTHON INTERPRETER
+    [rank  3] §section (p.63-64)
+      id = tutorial_edit-section-129-8daa10b1ed
+      r risk is that different Python implementations will do this clean-up at different times. After a file object is closed, either by a with statement or by calling f.close(), attemp…
+    [rank  4] §section (p.63-63)
+      id = tutorial_edit-section-128-054d858bbb
+      default when reading is to convert platform-specific line endings (\n on Unix, \r\n on Windows) to just \n. When writing in text mode, the default is to convert occurrences of \n …
+    [rank  5] §section (p.63-63)
+      id = tutorial_edit-section-127-b72f995768
+      7.2 Reading and Writing Files open() returns a file object, and is most commonly used with two arguments: open(filename, mode). >>> f = open('workfile', 'w') The first argument is…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q23  [control]  target_chapter=  
+     How do you define a method in a Python class?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  8] §synopsis (chap.idx=63, p.75-155, input=14007c)
+      id = tutorial_edit-synopsis-63-d3eafcadcb
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter delves into Python's class system, explaining how to create and utilize classes for bundling data and functionalit…
+    [rank  1] §section (p.82-82)
+      id = tutorial_edit-section-245-3c6194b6fa
+      ncing data attributes (or other methods!) from within methods. I find that thisactuallyincreasesthereadabilityofmethods: thereisnochanceofconfusinglocalvariablesandinstance variab…
+    [rank  2] §section (p.82-82)
+      id = tutorial_edit-section-246-ec63254e34
+      ssary thatthefunctiondefinitionistextuallyenclosedintheclassdefinition: assigningafunctionobjecttoalocal variable in the class is also ok. For example: # Function defined outside …
+    [rank  3] §glossary (p.126-126)
+      id = tutorial_edit-glossary-398-9ec291d2ab
+      onary, and a list of base classes. The metaclass is responsible for taking those three arguments and creating the class. Most objectorientedprogramminglanguagesprovideadefaultimpl…
+    [rank  4] §references (p.80-80)
+      id = tutorial_edit-references-240-e7ea28f1b5
+      enced, the instance’s class is searched. If the name denotes a valid class attribute that is a function object, a method object is created by packing (pointers to) the instance ob…
+    [rank  5] §section (p.85-85)
+      id = tutorial_edit-section-260-672458afb6
+      ad, and pass it as an argument. Instance method objects have attributes, too: m.__self__ is the instance object with the method m(), and m.__func__ is the function object correspo…
+  N (python_tut_N):
+    [rank  5] §synopsis (chap.idx=63, p.75-75, input=1954c)
+      id = tutorial_edit-synopsis-63-f1e11ab608-naive
+      [Synopsis of §chapter (63)]  Chapter Nine: Classes  This chapter introduces the concept of classes in Python, a method for bundling data and functionality together. Readers will l…
+    [rank  1] §section (p.81-82)
+      id = tutorial_edit-section-171-d289ec6574
+      .4. Random Remarks 75 by stamping on their data attributes. Note that clients may add data attributes of their own to an instance objectwithoutaffectingthevalidityofthemethods,asl…
+    [rank  2] §section (p.82-82)
+      id = tutorial_edit-section-172-29953003f0
+      ttoalocal variable in the class is also ok. For example: # Function defined outside the class def f1(self, x, y): return min(x, x+y) class C: f = f1 def g(self): return 'hello wor…
+    [rank  3] §section (p.84-85)
+      id = tutorial_edit-section-179-e5b8b060aa
+      method calls. For example: class Mapping: def __init__(self, iterable): self.items_list = [] self.__update(iterable) def update(self, iterable): for item in iterable: self.items_l…
+    [rank  4] §references (p.79-80)
+      id = tutorial_edit-references-166-ff59709ac7
+      y definition, all attributes of a class that arefunctionobjectsdefinecorrespondingmethodsofitsinstances. Soinourexample, x.fisavalidmethod reference, since MyClass.f is a function…
+    [rank  6] §section (p.78-78)
+      id = tutorial_edit-section-161-4d0de725b0
+      9.3 A First Look at Classes Classes introduce a little bit of new syntax, three new object types, and some new semantics. 9.3.1 Class Definition Syntax The simplest form of class …
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q24  [control]  target_chapter=  
+     What is the syntax for a try/except/finally block?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  1] §section (p.72-72)
+      id = tutorial_edit-section-209-d2b4c9c9b4
+      8.6 Defining Clean-up Actions The try statement has another optional clause which is intended to define clean-up actions that must be executed under all circumstances. For example…
+    [rank  2] §section (p.68-68)
+      id = tutorial_edit-section-197-2a673ee8d8
+      executed. • If no exception occurs, the except clause is skipped and execution of the try statement is finished. • If an exception occurs during execution of the try clause, the r…
+    [rank  3] §section (p.72-72)
+      id = tutorial_edit-section-211-c1984c92e2
+      (s) for /: 'str' and 'str' As you can see, the finally clause is executed in any event. The TypeError raised by dividing two strings is not handled by the except clause and theref…
+    [rank  4] §section (p.68-68)
+      id = tutorial_edit-section-196-0c671bba5c
+      8.3 Handling Exceptions It is possible to write programs that handle selected exceptions. Look at the following example, which asks the user for input until a valid integer has be…
+    [rank  5] §section (p.69-70)
+      id = tutorial_edit-section-201-b6b402b3cd
+      ed by the code being protected by the try … except statement. When an exception occurs, it may have an associated value, also known as the exception’s argument. The presence and t…
+  N (python_tut_N):
+    [rank  1] §section (p.72-72)
+      id = tutorial_edit-section-147-7fb41b3220
+      8.6 Defining Clean-up Actions The try statement has another optional clause which is intended to define clean-up actions that must be executed under all circumstances. For example…
+    [rank  2] §section (p.68-68)
+      id = tutorial_edit-section-139-7d90f0c1fd
+      8.3 Handling Exceptions It is possible to write programs that handle selected exceptions. Look at the following example, which asks the user for input until a valid integer has be…
+    [rank  3] §section (p.69-69)
+      id = tutorial_edit-section-141-94469ca47e
+      pt C: print("C") except B: print("B") Note that if the except clauses were reversed (with except B first), it would have printed B, B, B — the first matching except clause is trig…
+    [rank  4] §section (p.68-69)
+      id = tutorial_edit-section-140-9a0d21c154
+      not match the exception named in the except clause, it is passed on to outer try statements; if no handler is found, it is an unhandled exception and execution stops with a messag…
+    [rank  5] §section (p.72-72)
+      id = tutorial_edit-section-148-8175dab1b5
+      2.0 executing finally clause >>> divide(2, 0) division by zero! executing finally clause >>> divide("2", "1") executing finally clause Traceback (most recent call last): File "<st…
+
+
+────────────────────────────────────────────────────────────────────────────────────────
+Q25  [control]  target_chapter=  
+     How do you create a virtual environment with venv?
+────────────────────────────────────────────────────────────────────────────────────────
+  H (python_tutorial):
+    [rank  2] §synopsis (chap.idx=96, p.103-155, input=6537c)
+      id = tutorial_edit-synopsis-96-d2222ceda5
+      [Synopsis of §chapter (96)]  Chapter Twelve: Virtual Environments and Packages  This chapter introduces the use of virtual environments in Python development to manage conflicting…
+    [rank  1] §section (p.103-103)
+      id = tutorial_edit-section-314-7a7e4d20bb
+      12.2 Creating Virtual Environments The module used to create and manage virtual environments is called venv. venv will usually install the most recent version of Python that you h…
+    [rank  3] §section (p.103-104)
+      id = tutorial_edit-section-315-a9ea5a9810
+      ndard library, and various supporting files. Once you’ve created a virtual environment, you may activate it. On Windows, run: tutorial-env\Scripts\activate.bat On Unix or MacOS, r…
+    [rank  4] §chapter (p.103-103)
+      id = tutorial_edit-chapter-311-419aed48df
+      CHAPTER TWELVE VIRTUAL ENVIRONMENTS AND PACKAGES
+    [rank  5] §index (p.131-132)
+      id = tutorial_edit-index-421-2fbfda5530
+      PEP 484 and PEP 526, which describe this functionality. virtual environment A cooperatively isolated runtime environment that allows Python users and applications to install and u…
+    [rank  6] §section (p.4-4)
+      id = tutorial_edit-section-14-792ec450d5
+      12.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97 12.2 Creating Virtual Environments . . . . . . . . . . . . . . . . .…
+  N (python_tut_N):
+    [rank  2] §synopsis (chap.idx=96, p.103-103, input=48c)
+      id = tutorial_edit-synopsis-96-54649acb99-naive
+      [Synopsis of §chapter (96)]  Chapter Twelve: Virtual Environments and Packages  Learn to create, manage, and utilize virtual environments for isolating Python projects and their d…
+    [rank  1] §section (p.103-104)
+      id = tutorial_edit-section-216-c6a5a8947b
+      12.2 Creating Virtual Environments The module used to create and manage virtual environments is called venv. venv will usually install the most recent version of Python that you h…
+    [rank  3] §chapter (p.103-103)
+      id = tutorial_edit-chapter-214-419aed48df
+      CHAPTER TWELVE VIRTUAL ENVIRONMENTS AND PACKAGES
+    [rank  4] §section (p.4-4)
+      id = tutorial_edit-section-14-792ec450d5
+      12.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97 12.2 Creating Virtual Environments . . . . . . . . . . . . . . . . .…
+    [rank  5] §section (p.105-105)
+      id = tutorial_edit-section-220-fb06421d2e
+      es from the virtual environment. pip show will display information about a particular package: (tutorial-env) $ pip show requests --- Metadata-Version: 2.0 Name: requests Version:…
+    [rank  6] §section (p.104-104)
+      id = tutorial_edit-section-217-111a211679
+      toshowwhatvirtualenvironmentyou’re using, and modify the environment so that running python will get you that particular version and installation of Python. For example: $ source …

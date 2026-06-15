@@ -1,0 +1,1688 @@
+{
+  "started": "2026-05-29T05:53:20.191260+00:00",
+  "results": [
+    {
+      "paper_id": "02f1b8d0",
+      "filename": "10341-Volume22_Issue_1-01_paper.pdf",
+      "status": "ok",
+      "chunks": 73,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "3ae59dad",
+      "filename": "10341-Volume22_Issue_1-02_paper.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "43ec6dcc",
+      "filename": "10341-Volume22_Issue_1-03_paper.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "bf641c8b",
+      "filename": "10341-Volume22_Issue_1-04_paper.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "e95a0ce7",
+      "filename": "10341-Volume22_Issue_1-05_paper.pdf",
+      "status": "ok",
+      "chunks": 85,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "ce2d018e",
+      "filename": "10341-Volume22_Issue_1-06_paper.pdf",
+      "status": "ok",
+      "chunks": 42,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "32942ca1",
+      "filename": "10341-Volume22_Issue_1-07_paper.pdf",
+      "status": "ok",
+      "chunks": 53,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "9684d28d",
+      "filename": "10341-Volume22_Issue_1-08_paper.pdf",
+      "status": "ok",
+      "chunks": 75,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "0615cc77",
+      "filename": "10341-Volume22_Issue_1-09_paper.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "6c04eb02",
+      "filename": "10341-Volume22_Issue_1-10_paper.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "41e07602",
+      "filename": "10341-Volume22_Issue_1-11_paper.pdf",
+      "status": "ok",
+      "chunks": 76,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "7dd836e5",
+      "filename": "10341-Volume22_Issue_1-12_paper.pdf",
+      "status": "ok",
+      "chunks": 44,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "4e78bf9b",
+      "filename": "10341-Volume22_Issue_2-01_paper.pdf",
+      "status": "ok",
+      "chunks": 99,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "eaf99e77",
+      "filename": "10341-Volume22_Issue_2-02_paper.pdf",
+      "status": "ok",
+      "chunks": 37,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "7e56f1f7",
+      "filename": "10341-Volume22_Issue_2-03_paper.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "052c409c",
+      "filename": "10341-Volume22_Issue_2-04_paper.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "0a9b8db9",
+      "filename": "10341-Volume22_Issue_2-05_paper.pdf",
+      "status": "ok",
+      "chunks": 98,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "a3d52d42",
+      "filename": "10341-Volume22_Issue_2-06_paper.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "00724c0e",
+      "filename": "10341-Volume22_Issue_2-07_paper.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "86f71d20",
+      "filename": "10341-Volume22_Issue_2-08_paper.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "62a784e1",
+      "filename": "10341-Volume22_Issue_2-09_paper.pdf",
+      "status": "ok",
+      "chunks": 90,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "e1d046db",
+      "filename": "10341-Volume22_Issue_2-10_paper.pdf",
+      "status": "ok",
+      "chunks": 58,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "0eb5acb2",
+      "filename": "10341-Volume22_Issue_2-11_paper.pdf",
+      "status": "ok",
+      "chunks": 86,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "effba906",
+      "filename": "10341-Volume22_Issue_3-01_paper.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "34974dff",
+      "filename": "10341-Volume22_Issue_3-02_paper.pdf",
+      "status": "ok",
+      "chunks": 39,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "30d63d48",
+      "filename": "10341-Volume22_Issue_3-03_paper.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "0ecae402",
+      "filename": "10341-Volume22_Issue_3-04_paper.pdf",
+      "status": "ok",
+      "chunks": 71,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "a2cda152",
+      "filename": "10341-Volume22_Issue_3-05_paper.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "932583ee",
+      "filename": "10341-Volume22_Issue_3-06_paper.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "2bd74fe0",
+      "filename": "10341-Volume22_Issue_3-07_paper.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "8b28c7aa",
+      "filename": "10341-Volume22_Issue_3-08_paper.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "d4f202df",
+      "filename": "10341-Volume22_Issue_3-09_paper.pdf",
+      "status": "ok",
+      "chunks": 73,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "bc22c995",
+      "filename": "10341-Volume22_Issue_3-10_paper.pdf",
+      "status": "ok",
+      "chunks": 64,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "f97ce32b",
+      "filename": "10341-Volume22_Issue_3-11_paper.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "d32b1965",
+      "filename": "10341-Volume22_Issue_3-12_paper.pdf",
+      "status": "ok",
+      "chunks": 78,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "bb6c1ae3",
+      "filename": "10341-Volume22_Issue_4-01_paper.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "eef748db",
+      "filename": "10341-Volume22_Issue_4-02_paper.pdf",
+      "status": "ok",
+      "chunks": 49,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "9e79e64f",
+      "filename": "10341-Volume22_Issue_4-03_paper.pdf",
+      "status": "ok",
+      "chunks": 86,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "4c48cf54",
+      "filename": "10341-Volume22_Issue_4-04_paper.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "13a6e97b",
+      "filename": "10341-Volume22_Issue_4-05_paper.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "a4566f98",
+      "filename": "10341-Volume22_Issue_4-06_paper.pdf",
+      "status": "ok",
+      "chunks": 81,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "a6526f59",
+      "filename": "10341-Volume22_Issue_4-07_paper.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "2ba5a807",
+      "filename": "10341-Volume22_Issue_4-08_paper.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "fbf0a6be",
+      "filename": "10341-Volume22_Issue_4-09_paper.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "d20c8d87",
+      "filename": "10341-Volume22_Issue_4-10_paper.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "ab387644",
+      "filename": "10341-Volume22_Issue_4-11_paper.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 22, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "936c628b",
+      "filename": "10341-Volume23_Issue_1-01_paper.pdf",
+      "status": "ok",
+      "chunks": 180,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "cd5d149a",
+      "filename": "10341-Volume23_Issue_1-02_paper.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "646f130d",
+      "filename": "10341-Volume23_Issue_1-03_paper.pdf",
+      "status": "ok",
+      "chunks": 73,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "7b0170dd",
+      "filename": "10341-Volume23_Issue_1-04_paper.pdf",
+      "status": "ok",
+      "chunks": 78,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "312b6345",
+      "filename": "10341-Volume23_Issue_1-05_paper.pdf",
+      "status": "ok",
+      "chunks": 58,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "98a9d993",
+      "filename": "10341-Volume23_Issue_1-06_paper.pdf",
+      "status": "ok",
+      "chunks": 58,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "1975f7d3",
+      "filename": "10341-Volume23_Issue_1-07_paper.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "96d54a7c",
+      "filename": "10341-Volume23_Issue_1-08_paper.pdf",
+      "status": "ok",
+      "chunks": 84,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "bab05a6a",
+      "filename": "10341-Volume23_Issue_1-09_paper.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "e09bb4b3",
+      "filename": "10341-Volume23_Issue_2-01_paper.pdf",
+      "status": "ok",
+      "chunks": 63,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "5228c34d",
+      "filename": "10341-Volume23_Issue_2-02_paper.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "9ab7803b",
+      "filename": "10341-Volume23_Issue_2-03_paper.pdf",
+      "status": "ok",
+      "chunks": 96,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "eb9c3caf",
+      "filename": "10341-Volume23_Issue_2-04_paper.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "8444477e",
+      "filename": "10341-Volume23_Issue_2-05_paper.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "731a359a",
+      "filename": "10341-Volume23_Issue_2-06_paper.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "4c58584a",
+      "filename": "10341-Volume23_Issue_2-07_paper.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "4e5622e1",
+      "filename": "10341-Volume23_Issue_2-08_paper.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "9073e77d",
+      "filename": "10341-Volume23_Issue_2-09_paper.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "c0fcf175",
+      "filename": "10341-Volume23_Issue_2-10_paper.pdf",
+      "status": "ok",
+      "chunks": 81,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "32246f9b",
+      "filename": "10341-Volume23_Issue_2-11_paper.pdf",
+      "status": "ok",
+      "chunks": 76,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "6cc86670",
+      "filename": "10341-Volume23_Issue_3-01_paper.pdf",
+      "status": "ok",
+      "chunks": 79,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "386adf27",
+      "filename": "10341-Volume23_Issue_3-02_paper.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "edfdad18",
+      "filename": "10341-Volume23_Issue_3-03_paper.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "8e8168ca",
+      "filename": "10341-Volume23_Issue_3-04_paper.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "1a253bcb",
+      "filename": "10341-Volume23_Issue_3-05_paper.pdf",
+      "status": "ok",
+      "chunks": 73,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "2bb455a6",
+      "filename": "10341-Volume23_Issue_3-06_paper.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "31bb2145",
+      "filename": "10341-Volume23_Issue_3-07_paper.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "45a81b7c",
+      "filename": "10341-Volume23_Issue_3-08_paper.pdf",
+      "status": "ok",
+      "chunks": 47,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "f31004f6",
+      "filename": "10341-Volume23_Issue_3-09_paper.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "dbc2fb32",
+      "filename": "10341-Volume23_Issue_3-10_paper.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "3b7e5531",
+      "filename": "10341-Volume23_Issue_3-11_paper.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "24f37c76",
+      "filename": "10341-Volume23_Issue_3-12_paper.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 23, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "2d583fa6",
+      "filename": "10341-Volume23_Issue_4-01_paper.pdf",
+      "status": "ok",
+      "chunks": 118,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "4b4d683f",
+      "filename": "10341-Volume23_Issue_4-02_paper.pdf",
+      "status": "ok",
+      "chunks": 104,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "ceab8d6d",
+      "filename": "10341-Volume23_Issue_4-03_paper.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "a0a1ddd1",
+      "filename": "10341-Volume23_Issue_4-04_paper.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "480f4d1d",
+      "filename": "10341-Volume23_Issue_4-05_paper.pdf",
+      "status": "ok",
+      "chunks": 50,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "2307a549",
+      "filename": "10341-Volume23_Issue_4-06_paper.pdf",
+      "status": "ok",
+      "chunks": 80,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "b2d16bc5",
+      "filename": "10341-Volume23_Issue_4-07_paper.pdf",
+      "status": "ok",
+      "chunks": 76,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "0eb023a0",
+      "filename": "10341-Volume23_Issue_4-08_paper.pdf",
+      "status": "ok",
+      "chunks": 78,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "58a69303",
+      "filename": "10341-Volume23_Issue_4-09_paper.pdf",
+      "status": "ok",
+      "chunks": 78,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "2698a8da",
+      "filename": "10341-Volume23_Issue_4-10_paper.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "84a165e3",
+      "filename": "10341-Volume23_Issue_4-11_paper.pdf",
+      "status": "ok",
+      "chunks": 84,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "07d835be",
+      "filename": "10341-Volume23_Issue_4-12_paper.pdf",
+      "status": "ok",
+      "chunks": 63,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "971dc36e",
+      "filename": "10341-Volume23_Issue_4-13_paper.pdf",
+      "status": "ok",
+      "chunks": 72,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "856f7198",
+      "filename": "10341-Volume23_Issue_4-14_paper.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 23, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "0a6e145d",
+      "filename": "10341-Volume24_Issue_1-01_paper.pdf",
+      "status": "ok",
+      "chunks": 97,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "08e1f090",
+      "filename": "10341-Volume24_Issue_1-02_paper.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "12b43224",
+      "filename": "10341-Volume24_Issue_1-03_paper.pdf",
+      "status": "ok",
+      "chunks": 137,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "2d0d8340",
+      "filename": "10341-Volume24_Issue_1-04_paper.pdf",
+      "status": "ok",
+      "chunks": 94,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "46b46597",
+      "filename": "10341-Volume24_Issue_1-05_paper.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "397cfdfd",
+      "filename": "10341-Volume24_Issue_1-06_paper.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "b4ef5f8f",
+      "filename": "10341-Volume24_Issue_1-07_paper.pdf",
+      "status": "ok",
+      "chunks": 95,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "c5c45f34",
+      "filename": "10341-Volume24_Issue_1-08_paper.pdf",
+      "status": "ok",
+      "chunks": 75,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "8864621b",
+      "filename": "10341-Volume24_Issue_1-09_paper.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "ec361e2a",
+      "filename": "10341-Volume24_Issue_1-10_paper.pdf",
+      "status": "ok",
+      "chunks": 75,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "a3bea681",
+      "filename": "10341-Volume24_Issue_1-11_paper.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "c408a226",
+      "filename": "10341-Volume24_Issue_2-01_paper.pdf",
+      "status": "ok",
+      "chunks": 45,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "d5ede059",
+      "filename": "10341-Volume24_Issue_2-02_paper.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "5d91bcf4",
+      "filename": "10341-Volume24_Issue_2-03_paper.pdf",
+      "status": "ok",
+      "chunks": 59,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "232d3225",
+      "filename": "10341-Volume24_Issue_2-04_paper.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "7e835ada",
+      "filename": "10341-Volume24_Issue_2-05_paper.pdf",
+      "status": "ok",
+      "chunks": 71,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "09768797",
+      "filename": "10341-Volume24_Issue_2-06_paper.pdf",
+      "status": "ok",
+      "chunks": 86,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "afddb8b0",
+      "filename": "10341-Volume24_Issue_2-07_paper.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "5f34b769",
+      "filename": "10341-Volume24_Issue_2-08_paper.pdf",
+      "status": "ok",
+      "chunks": 82,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "a7899837",
+      "filename": "10341-Volume24_Issue_2-09_paper.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "b2c07e13",
+      "filename": "10341-Volume24_Issue_2-10_paper.pdf",
+      "status": "ok",
+      "chunks": 73,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 24, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "bb2e60cf",
+      "filename": "10341-Volume24_Issue_3-01_paper.pdf",
+      "status": "ok",
+      "chunks": 65,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "e19d6d5b",
+      "filename": "10341-Volume24_Issue_3-02_paper.pdf",
+      "status": "ok",
+      "chunks": 71,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "c8127712",
+      "filename": "10341-Volume24_Issue_3-03_paper.pdf",
+      "status": "ok",
+      "chunks": 79,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "722184e3",
+      "filename": "10341-Volume24_Issue_3-04_paper.pdf",
+      "status": "ok",
+      "chunks": 73,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "bde28576",
+      "filename": "10341-Volume24_Issue_3-05_paper.pdf",
+      "status": "ok",
+      "chunks": 123,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "87beded3",
+      "filename": "10341-Volume24_Issue_3-06_paper.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "c190be6e",
+      "filename": "10341-Volume24_Issue_3-07_paper.pdf",
+      "status": "ok",
+      "chunks": 87,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "d5513dc7",
+      "filename": "10341-Volume24_Issue_3-08_paper.pdf",
+      "status": "ok",
+      "chunks": 78,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "84b0c4cf",
+      "filename": "10341-Volume24_Issue_3-09_paper.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "959ce671",
+      "filename": "10341-Volume24_Issue_3-10_paper.pdf",
+      "status": "ok",
+      "chunks": 91,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "d8397513",
+      "filename": "10341-Volume24_Issue_3-11_paper.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "57d75c86",
+      "filename": "10341-Volume24_Issue_4-01_paper.pdf",
+      "status": "ok",
+      "chunks": 86,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "6e5d402f",
+      "filename": "10341-Volume24_Issue_4-02_paper.pdf",
+      "status": "ok",
+      "chunks": 94,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "be6339e3",
+      "filename": "10341-Volume24_Issue_4-03_paper.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "38bbc584",
+      "filename": "10341-Volume24_Issue_4-04_paper.pdf",
+      "status": "ok",
+      "chunks": 90,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "e7cdd979",
+      "filename": "10341-Volume24_Issue_4-05_paper.pdf",
+      "status": "ok",
+      "chunks": 137,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "049b08ca",
+      "filename": "10341-Volume24_Issue_4-06_paper.pdf",
+      "status": "ok",
+      "chunks": 66,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "6274b096",
+      "filename": "10341-Volume24_Issue_4-07_paper.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "99db8189",
+      "filename": "10341-Volume24_Issue_4-08_paper.pdf",
+      "status": "ok",
+      "chunks": 88,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "d3c15c5c",
+      "filename": "10341-Volume24_Issue_4-09_paper.pdf",
+      "status": "ok",
+      "chunks": 50,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "862a6391",
+      "filename": "10341-Volume24_Issue_4-10_paper.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "0f9d5854",
+      "filename": "10341-Volume24_Issue_4-11_paper.pdf",
+      "status": "ok",
+      "chunks": 93,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 24, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "a08a90f3",
+      "filename": "10341-Volume25_Issue_1-01_paper.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "442ce270",
+      "filename": "10341-Volume25_Issue_1-02_paper.pdf",
+      "status": "ok",
+      "chunks": 58,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 25, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "aa673f0e",
+      "filename": "10341-Volume25_Issue_1-03_paper.pdf",
+      "status": "ok",
+      "chunks": 85,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "5df93dce",
+      "filename": "10341-Volume25_Issue_1-04_paper.pdf",
+      "status": "ok",
+      "chunks": 101,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "ef03fde6",
+      "filename": "10341-Volume25_Issue_1-05_paper.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "a58d77fc",
+      "filename": "10341-Volume25_Issue_1-06_paper.pdf",
+      "status": "ok",
+      "chunks": 50,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "bb9663be",
+      "filename": "10341-Volume25_Issue_1-07_paper.pdf",
+      "status": "ok",
+      "chunks": 63,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 25, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "e5133125",
+      "filename": "10341-Volume25_Issue_1-08_paper.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "e6f2269e",
+      "filename": "10341-Volume25_Issue_2-01_paper.pdf",
+      "status": "ok",
+      "chunks": 149,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "3856023c",
+      "filename": "10341-Volume25_Issue_2-02_paper.pdf",
+      "status": "ok",
+      "chunks": 84,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "508c2636",
+      "filename": "10341-Volume25_Issue_2-03_paper.pdf",
+      "status": "ok",
+      "chunks": 63,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "38dc9a8f",
+      "filename": "10341-Volume25_Issue_2-04_paper.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "b2ee003e",
+      "filename": "10341-Volume25_Issue_2-05_paper.pdf",
+      "status": "ok",
+      "chunks": 55,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "25b21501",
+      "filename": "10341-Volume25_Issue_2-06_paper.pdf",
+      "status": "ok",
+      "chunks": 76,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "52534281",
+      "filename": "10341-Volume25_Issue_2-07_paper.pdf",
+      "status": "ok",
+      "chunks": 46,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "be374eed",
+      "filename": "10341-Volume25_Issue_2-08_paper.pdf",
+      "status": "ok",
+      "chunks": 84,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "20d039ce",
+      "filename": "10341-Volume25_Issue_2-09_paper.pdf",
+      "status": "ok",
+      "chunks": 85,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "a52d59f4",
+      "filename": "10341-Volume25_Issue_2-10_paper.pdf",
+      "status": "ok",
+      "chunks": 95,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 2",
+      "error": ""
+    },
+    {
+      "paper_id": "e627e8cf",
+      "filename": "10341-Volume25_Issue_3-01_paper.pdf",
+      "status": "ok",
+      "chunks": 93,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "1303ffe8",
+      "filename": "10341-Volume25_Issue_3-02_paper.pdf",
+      "status": "ok",
+      "chunks": 71,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "42bee7e0",
+      "filename": "10341-Volume25_Issue_3-03_paper.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "fab51991",
+      "filename": "10341-Volume25_Issue_3-04_paper.pdf",
+      "status": "ok",
+      "chunks": 54,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "4fa376fe",
+      "filename": "10341-Volume25_Issue_3-05_paper.pdf",
+      "status": "ok",
+      "chunks": 77,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "95ccbddd",
+      "filename": "10341-Volume25_Issue_3-06_paper.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "0cfefe74",
+      "filename": "10341-Volume25_Issue_3-07_paper.pdf",
+      "status": "ok",
+      "chunks": 72,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "a694891e",
+      "filename": "10341-Volume25_Issue_3-08_paper.pdf",
+      "status": "ok",
+      "chunks": 79,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "889dd82d",
+      "filename": "10341-Volume25_Issue_3-09_paper.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "e8205877",
+      "filename": "10341-Volume25_Issue_3-10_paper.pdf",
+      "status": "ok",
+      "chunks": 124,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "ae5ecd3c",
+      "filename": "10341-Volume25_Issue_3-11_paper.pdf",
+      "status": "ok",
+      "chunks": 95,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 3",
+      "error": ""
+    },
+    {
+      "paper_id": "3e032975",
+      "filename": "10341-Volume25_Issue_4-01_paper.pdf",
+      "status": "ok",
+      "chunks": 58,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "507cafb9",
+      "filename": "10341-Volume25_Issue_4-02_paper.pdf",
+      "status": "ok",
+      "chunks": 148,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "06dd0922",
+      "filename": "10341-Volume25_Issue_4-03_paper.pdf",
+      "status": "ok",
+      "chunks": 40,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "9663ab25",
+      "filename": "10341-Volume25_Issue_4-04_paper.pdf",
+      "status": "ok",
+      "chunks": 70,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "8210b8a0",
+      "filename": "10341-Volume25_Issue_4-05_paper.pdf",
+      "status": "ok",
+      "chunks": 83,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "0698e0f0",
+      "filename": "10341-Volume25_Issue_4-06_paper.pdf",
+      "status": "ok",
+      "chunks": 88,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "661dadc5",
+      "filename": "10341-Volume25_Issue_4-07_paper.pdf",
+      "status": "ok",
+      "chunks": 51,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "e279c013",
+      "filename": "10341-Volume25_Issue_4-08_paper.pdf",
+      "status": "ok",
+      "chunks": 62,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "ef9afc27",
+      "filename": "10341-Volume25_Issue_4-09_paper.pdf",
+      "status": "ok",
+      "chunks": 94,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "6025acef",
+      "filename": "10341-Volume25_Issue_4-10_paper.pdf",
+      "status": "ok",
+      "chunks": 138,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "bdee90c4",
+      "filename": "10341-Volume25_Issue_4-11_paper.pdf",
+      "status": "ok",
+      "chunks": 84,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "cb9174e7",
+      "filename": "10341-Volume25_Issue_4-12_paper.pdf",
+      "status": "ok",
+      "chunks": 87,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "ef430872",
+      "filename": "10341-Volume25_Issue_4-13_paper.pdf",
+      "status": "ok",
+      "chunks": 85,
+      "failed_chunks": 0,
+      "title": "C YBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 25, No 4",
+      "error": ""
+    },
+    {
+      "paper_id": "c7737ea6",
+      "filename": "10341-Volume26_Issue_1-01_paper.pdf",
+      "status": "ok",
+      "chunks": 56,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "a4e071f7",
+      "filename": "10341-Volume26_Issue_1-02_paper.pdf",
+      "status": "ok",
+      "chunks": 82,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "b0f9ea6b",
+      "filename": "10341-Volume26_Issue_1-03_paper.pdf",
+      "status": "ok",
+      "chunks": 80,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "99aff409",
+      "filename": "10341-Volume26_Issue_1-04_paper.pdf",
+      "status": "ok",
+      "chunks": 67,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "e4d73366",
+      "filename": "10341-Volume26_Issue_1-05_paper.pdf",
+      "status": "ok",
+      "chunks": 89,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "46fd95b4",
+      "filename": "10341-Volume26_Issue_1-06_paper.pdf",
+      "status": "ok",
+      "chunks": 138,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "72541cf1",
+      "filename": "10341-Volume26_Issue_1-07_paper.pdf",
+      "status": "ok",
+      "chunks": 71,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \u2022 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "eae4d783",
+      "filename": "10341-Volume26_Issue_1-08_paper.pdf",
+      "status": "ok",
+      "chunks": 82,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "4fbc56ef",
+      "filename": "10341-Volume26_Issue_1-09_paper.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 26, No 1",
+      "error": ""
+    },
+    {
+      "paper_id": "9d97b528",
+      "filename": "10341-Volume26_Issue_1-10_paper.pdf",
+      "status": "ok",
+      "chunks": 41,
+      "failed_chunks": 0,
+      "title": "CYBERNETICS AND INFORMATION TECHNOLOGIES \uf0b7 Volume 26, No 1",
+      "error": ""
+    }
+  ]
+}

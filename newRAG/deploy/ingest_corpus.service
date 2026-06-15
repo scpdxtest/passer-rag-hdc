@@ -1,0 +1,69 @@
+[Unit]
+# PaSSER-RAG ingestion API — Flask backend for newRAG/ingest_corpus.py.
+# Mirrors the local-dev process so the FE's local/remote switch yields
+# byte-equivalent behaviour on both sides of the wire.
+Description=PaSSER-RAG ingestion API
+Documentation=https://github.com/passer-rag (internal)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+
+# ─── identity ─────────────────────────────────────────────────────────
+# Same unprivileged account as the other passer APIs on this host
+# (ScreeningAPI :9901, MultiAgent :8284, PythonNames :8402, etc.).
+User=boni
+Group=boni
+
+# ─── filesystem ───────────────────────────────────────────────────────
+# WorkingDirectory must contain ingest_corpus.py + chain_bridge.py +
+# corpus_profiles.py (copy them via FileZilla into this folder before
+# `systemctl start`).
+WorkingDirectory=/home/zemelabc/Users/llmBackEnd
+
+# Project-local venv. Create it once on the server with:
+#   cd /home/zemelabc/Users/llmBackEnd
+#   python3 -m venv .venv
+#   .venv/bin/pip install flask flask-cors requests chromadb pyntelope \
+#       pypdf2 pdfplumber spacy beautifulsoup4 lxml base58 pymongo
+#   .venv/bin/python -m spacy download en_core_web_sm
+ExecStart=/home/zemelabc/Users/llmBackEnd/.venv/bin/python ingest_corpus.py --port 8010
+
+# ─── environment ──────────────────────────────────────────────────────
+Environment=PYTHONUNBUFFERED=1
+Environment=INGEST_PORT=8010
+# SSCORE_SIGNING_KEY is intentionally NOT set here — chain_bridge.py
+# hard-codes both sscore@active and sraudit@active WIFs at module load
+# (see chain_bridge.py:160 and :167). Do not surface them via systemd
+# env vars; that would be a regression of the project's "hard-coded
+# keys" decision.
+
+# ─── lifecycle ────────────────────────────────────────────────────────
+Restart=on-failure
+RestartSec=5
+# Don't restart-storm on a permanent crash (e.g. a typo in a .py file).
+StartLimitIntervalSec=120
+StartLimitBurst=5
+
+# ─── logging ──────────────────────────────────────────────────────────
+# stdout/stderr → journal (read via `journalctl -u ingest_corpus`).
+# If you prefer file logging, swap to:
+#   StandardOutput=append:/var/log/ingest_corpus.log
+#   StandardError=append:/var/log/ingest_corpus.log
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=ingest_corpus
+
+# ─── sandboxing (modest defaults) ─────────────────────────────────────
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=full
+ProtectHome=read-only
+# WorkingDirectory is allowed to write the manifest_*.json + log files.
+# ReadWritePaths overrides ProtectHome=read-only for this exact path,
+# so the service can still write inside its working dir.
+ReadWritePaths=/home/zemelabc/Users/llmBackEnd
+
+[Install]
+WantedBy=multi-user.target

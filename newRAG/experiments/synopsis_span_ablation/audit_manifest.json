@@ -1,0 +1,1017 @@
+{
+  "experiment": "PaSSER-RAG/BdKCSE-ext/V.B",
+  "file_hash": "87da35411e29872b8ef5dfdcf7751fa2fec7179f554cb1ec7e6585eaa21ac7fa",
+  "git_sha": "71f0e41eff8e",
+  "judges": [
+    {
+      "csv_path": "metrics_mistral.csv",
+      "csv_sha256": "518a7d29145d539bb6cc72971a765e2d81c792f9de3f8a923f1f3df0d1d0417b",
+      "label": "Mistral 7B",
+      "row_count": 50
+    },
+    {
+      "csv_path": "metrics_llama.csv",
+      "csv_sha256": "1b58c81dcaa7abf5e844ea409ee1655c99ed6cc11c3acaef79582e823b8cfa3d",
+      "label": "Llama 3.1 70B",
+      "row_count": 50
+    },
+    {
+      "csv_path": "metrics_gemma.csv",
+      "csv_sha256": "3299b7894d0914139cd6ac41ddde6b39c4d74b12a8acb17158f9d7d272f69f0a",
+      "label": "Gemma 4 31B",
+      "row_count": 50
+    }
+  ],
+  "leaf_count": 150,
+  "leaf_index": [
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "285e2c291b097596c0bf0e4c787b014a67f9153660076dd1af23df0672c403b1",
+      "q_id": "1"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "710b29ae32532bd2de9b39a88ad618be8480c46b792d2d055bf156d794339ae1",
+      "q_id": "1"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "f85f3d32e610ac8367cbbf70d0c41f0eb4282e409710cad7f41cac44f5814c34",
+      "q_id": "2"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "c1859f0bb3d86e4cfcb3b72df86581b1c67f13f82b030d6935a5a648b196b3f3",
+      "q_id": "2"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "6688f5a18c9ec2902a198e6dc863a3f5ad11ffeb566d45f14d263affef878d89",
+      "q_id": "3"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "b0bb995559bd5040ad5871dad8f217d348d16e00d22cc7f3fd1814440c8900e0",
+      "q_id": "3"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "9daa771dfbeb52529c65f800b044ef785681d9f66acc16f19619f556f25f35bd",
+      "q_id": "4"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "d486058863d4f20cbb91a39ee998d25d972756183500a1426a2a8916fd8af219",
+      "q_id": "4"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "f6087f616ef47829f379b885cd1d7e8d47f14b2749d5ed8ef10484ae3bce360f",
+      "q_id": "5"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "ecfcab49dbcf055e0cff16a39214b44a718356780d558e8e5bd4ae393b745d4a",
+      "q_id": "5"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "92460e91049b5621e8609cd96e953bdcab9bbbaebf12eb7d2d9904fb5f459049",
+      "q_id": "6"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "d0d1ecc07a25b1ece2732b2f17532d1d39191b3b546d5fcf0d30e591e4aa7f0a",
+      "q_id": "6"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "a8fb542649bc69f55b5f39eb5459963a3479ce18d12d7f6e97ea0f2c952eca58",
+      "q_id": "7"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "5731f7d991fc8badafb918607fb5e8f869792b509bf762868fd3e183b9fab0ff",
+      "q_id": "7"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "afa6399455023bebec55c09ecb29fdf066f029e8dbbbaeeea51148e9574f7efd",
+      "q_id": "8"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "2b15344c231e7e41111260b32f36ec01b4d176ec7394b7147eafeb3e9d41b871",
+      "q_id": "8"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "36baf1c62202f395bce5dbd5b1cbe52818e47fe6621be1bae1e61382bce37fba",
+      "q_id": "9"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "193295654f919d1d0dbcd4f4c5219cf9784ca79af7d93f9be52e201e802e1a27",
+      "q_id": "9"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "516955b70586bf9999f5289c1567a74d4df2529e5f2638b3d0b055633d0dfefe",
+      "q_id": "10"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "2e42db0061671d5a4d7509fcbc29fe68e39986fcdcc241e1f61851ac69ccb278",
+      "q_id": "10"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "3198a54492ca7a62c7d2fa8a6f69d157a1504d7e2bc1b89b000c6f2c49dd43fd",
+      "q_id": "11"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "bec2eeaa7828cd2c20ae5e6300d43a21706357bd73476c2e7b84e56b2aed25e9",
+      "q_id": "11"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "45a9819157cbc2f59e08d4c74d8f44b834eb51474c3331ee4aae5bbc813aeacd",
+      "q_id": "12"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "f9a055a0980a2d84ca82facf1f7ea6fe3274859e2d15b2f3858a1c283ad06e4b",
+      "q_id": "12"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "4b4f46fa444839ee2d8f086e7c13147f355de66962b12854a6175e7656b3981b",
+      "q_id": "13"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "bcd6e5dfdb8f569fdd35de6d05e0b343f19e05ecf10a631f2f9074afb45a9046",
+      "q_id": "13"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "18be5b2f974a78a07b3d39cff21c450185fc82665b535977cef37722f6a24f3a",
+      "q_id": "14"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "fdae0e4db71397fca0d393d5a397ac1664b66449e65bf1dea23617f2e82bef0b",
+      "q_id": "14"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "8cce8b6897179c03a53bf724332922e6da8f3a3fc6171b9272bf7a48a49404ae",
+      "q_id": "15"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "f1204ea8142cbfb6e9282c505d1e9858ed513055dd3b8979f36320505f710999",
+      "q_id": "15"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "35e0a4bea36a210bee93dc189562801c4c1d1618a2725e7661fab60cebd66f29",
+      "q_id": "16"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "8e2e2e7d56c99af331ddf6279264f36937d7e200db4db17265e7288c51b25feb",
+      "q_id": "16"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "ee18624cad66eeed3a37981def8143a6a034d21c4ab7d3d6101a585740254adc",
+      "q_id": "17"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "9b27238c1affe9e763dd7d34a86e78c8883b04a88efbf0a208e06748b6474267",
+      "q_id": "17"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "b729ac832d0bf37348266b80df8ff99dd24c2e070040d2162cfefa2700f50710",
+      "q_id": "18"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "3d68ac3ec14577e3391c0694dfa20515daf5baa559627ac7c8e8c2494c4cb1e9",
+      "q_id": "18"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "5b34499b6902f9bef17cb10469cbf5f368da7dda4420df4b64666f6c73916558",
+      "q_id": "19"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "e07094f0affcc189715ca8cc2be97411d9a20f1a90232f991961f457938526d3",
+      "q_id": "19"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "1dabb247a30deb400bdf0172582a96620f334ddf1a821dec44e7db07ea7dab5a",
+      "q_id": "20"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "a5c1d7d36588f85ee7763b2db6d0ce6653c803f86c2f99ea9161d2b27a053857",
+      "q_id": "20"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "d5dc7d139ce874697923b98bc5e3d5f337f23bc596c4cb74224e32ad61958592",
+      "q_id": "21"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "012846f6ccce356a3e9fa78481e5ae00d6aaf0e03356b2077b39eda37cbb9057",
+      "q_id": "21"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "dd10555a1fdbc3fc576ca74037ed4c1386afb81b2d661e703a5a7a7249635e45",
+      "q_id": "22"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "ee917394586da6849d4e58f2051623f5950e904ff61680c7dd8dbb924ff995ef",
+      "q_id": "22"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "13b65e525c4d5e3ac4f2b61da6d6e3e17207939acd29f03e0614bd70f4fd0f35",
+      "q_id": "23"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "cad220c9939a03497743fb818726eb443b47ef9756cbb97321391d8fc661a92d",
+      "q_id": "23"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "38607d207c197ed8a4279fbe57bb253386cdd5af2fed5fd97de7bee92a565323",
+      "q_id": "24"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "6c7e320afb93b466a54587168f7052a352c64de56d2bfe61b57f7013936c9efb",
+      "q_id": "24"
+    },
+    {
+      "config": "H",
+      "judge": "Mistral 7B",
+      "leaf": "b93532ab2331479dcc7fd841a080027c13b6d1dc4f28a46828713aa6df7f27a6",
+      "q_id": "25"
+    },
+    {
+      "config": "N",
+      "judge": "Mistral 7B",
+      "leaf": "f3c429374c1e69da1e67eb7fb0d1ea63185ce46544c53c6010f33b6ffe8038ef",
+      "q_id": "25"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "eecd9d787098ac99a824c4b11b588ba3700156b214b64057c303fc1e2a093d20",
+      "q_id": "1"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "8102aaab4403a07e569eacab2e2664a5cffffab19a829acf9e523a2361d529f2",
+      "q_id": "1"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "f6a47f2fda932a54e654097fbc0aef0e64e993b35cf2c2384291d908986d62c5",
+      "q_id": "2"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "5cce8dde7d13a66204da4ccd32d9c900be986e974d06ec85859979f7be53e0ad",
+      "q_id": "2"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "de3399db6314f22d2462f6857656b0a8c49a1ff85c0bc1b571e4934a861b1727",
+      "q_id": "3"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "d841e7230e0a03492f282cd03d0485b2d5517281194f96e745f9c59d854da43f",
+      "q_id": "3"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "302fda88da2470016f0393e97aaf773d273c4f2bc158292c5bf7b0420ed14e29",
+      "q_id": "4"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "5e9e56e202c019ecac69f996377bf6a51d76602f20fa52b50cefc0b75afc0b28",
+      "q_id": "4"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "d705802cebc3f0f0b51e9b4a68470a09362c3b8c790d9675a4b3b3448ea71806",
+      "q_id": "5"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "6db62cc6a8617d7c42bc2703182a3118c981d66fdf1dbce1dc2c53f0c8eaa346",
+      "q_id": "5"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "daf4cb901b335c82ca05cda2725dc068df8c1febd53f7ab3730ca53e7d6ece91",
+      "q_id": "6"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "bbd0ad2b4951e7a4113af10947790664811ae91d2bb59095c7b97d0a25851af5",
+      "q_id": "6"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "fbd7527dac473d2b29782c908c487ac26811c0259f7eebcd7beab79f05d3ea47",
+      "q_id": "7"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "8d1486f70f7c36218d24ca66584710f6c6395facba599640047c5df3588d4aea",
+      "q_id": "7"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "c6b3053801014d1d4aa9babdef0db7193dfd13c22cd26609475fe364a257a480",
+      "q_id": "8"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "668b3435b7e0e7ef82538025d8d4e16f1af758e553791e8d379405c4694bd198",
+      "q_id": "8"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "487df08c99b512d4334476ce6fa0663f5d417c1ec40daf811ae1803baa61906d",
+      "q_id": "9"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "bbe81eb548ef2a15dd464bf899366f91d89747d540f4c38187660bda3bd602ab",
+      "q_id": "9"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "fd77bed64b0d1e098f155a5c61996194e0f47fe4545b17995f9fe11e02be9b7c",
+      "q_id": "10"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "41917a921c3446775f4031bfb1333a691543348210595aeadb3a78f49f0e4ae7",
+      "q_id": "10"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "697d7406b04de720524ff6717949a40eefe9a978fa6aa6899b8c27fdb94f2323",
+      "q_id": "11"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "79e9db2c82f85a32748f48c67615be13681ed831b924001b76cb76d03e3ea3b8",
+      "q_id": "11"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "acbb58565a0331ca4d33da0c74bad9228066b7a286ccb91659a9dbdd89334580",
+      "q_id": "12"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "966c5024cd670c2773b7ec187fadf11d000153f19647eefa9f1b7e52ca1f4328",
+      "q_id": "12"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "b016b85ce6bf138100e440b69a790ee4d75b306c444d44e0793ec1b0b037396d",
+      "q_id": "13"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "e484e1e44a5188bbc8e0d7907bf5554ae96f86eaa2053740bf4d6d0b071cf85c",
+      "q_id": "13"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "157b7da7c97b3a5150f8bd8e7baaeeaa96c9878cad0fe6691e039432e041d033",
+      "q_id": "14"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "38aee064a16c8b0bc6879c60239cccceae26367fa66895af212a49d6ddf6cd98",
+      "q_id": "14"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "31853e8a702891284127874efaad3594bb7dbe7174e2a22a377cf7e045a931f2",
+      "q_id": "15"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "a4072bc3e549fab11e2954a5be6ecd2889bcf3158a52d8ccae967b3f1596630b",
+      "q_id": "15"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "9839b21cf860eb277515e187fd1caf6856803f94612fff291128aa46b97aed45",
+      "q_id": "16"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "e8fc671799f21e1fa22ff9b2d2f1ad1eab0f9e9c255926cdc45c4a9c6ae680da",
+      "q_id": "16"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "c6eb59a28354fb496908819b6821237ed2a8997c819f3251701b6b146bcfa183",
+      "q_id": "17"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "e00bae6332778aff866fdc667efafb7f8cc34543adf3ffae02737a16ec9dfa35",
+      "q_id": "17"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "1f9106db55cff8c29ad1612fa700586055a325c7f9afc2e6e086aa3a918712e4",
+      "q_id": "18"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "c379bef490ad238a2fcda2acb4c1825af27f02124f77fcdcd97cd745f97deba6",
+      "q_id": "18"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "2873005e5f2b5099eb9ed975148878d01d21f0a6fa394dd75e2eb27958fd9823",
+      "q_id": "19"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "56939d0034ef0e72b173922419a7ac4e33bfc1c19f411ad33a5e452865e74260",
+      "q_id": "19"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "305cd9b28bf9243081c40d23ed30876d613d4b7b6bd9b35981cbb75de0f04581",
+      "q_id": "20"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "f6ff405cf3fbd5d249272d9d4389441351503f9ef87029e2c412cf9d552371b2",
+      "q_id": "20"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "1a15abfeafc6a32f70433a22310677d48e18860a8a73d25ee9c2acc939a9fa79",
+      "q_id": "21"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "03faeca4a5573c03c63ab6c5c8f852c6b1c8f0bd0fb1f03c37b7f803b4ec5e0f",
+      "q_id": "21"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "a0e4d6a194974b5cdff9d0553be38c4f5c340e97f10c92b125c6c5be86740ef1",
+      "q_id": "22"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "082c7f4d13115628759139712da7794636c41c26445cabec85417a1c0d0f329f",
+      "q_id": "22"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "610d6f78599321355d745136c420c7d011cac2cf9763d2bb3467e51915eb0710",
+      "q_id": "23"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "9a79ca8a11504d3729ce234f101d85e17b3037e96d3c8c30f86c9ae6d8f4ea1d",
+      "q_id": "23"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "68d837d1c49a7a64e2dd27cf60ccf2191b2a759e6ccc5587d7d627bfc5f1d186",
+      "q_id": "24"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "76252baddeeaf3438151e368cda0c2ca9dcf9b4fd59fca45817b3f19c6857498",
+      "q_id": "24"
+    },
+    {
+      "config": "H",
+      "judge": "Llama 3.1 70B",
+      "leaf": "efd78ea0654e7ebd6ffa22510b9c522d2aa1756ce3f4aa6515fab6ca9e1fd238",
+      "q_id": "25"
+    },
+    {
+      "config": "N",
+      "judge": "Llama 3.1 70B",
+      "leaf": "5194942ea07a9c5ba0eeea5438b8e312f87922145c46e13fe6fd54abdd0dae79",
+      "q_id": "25"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "e83c896b995a5d9065c8a90a1d357c61938983df9f4f7e1ed450ad72f96bc639",
+      "q_id": "1"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "3ae429eb9dfef9e42aa8408c241a41772fb360ceff162609d111bef1aabdcbab",
+      "q_id": "1"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "6c26d55a9881563be518a0185b0446d487c9490cef38de95dd8f3d3878bb0df2",
+      "q_id": "2"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "630ede9a45a2fbdf014f8885d0bbcb9df0e276e0c92529383a6f65d4e309b041",
+      "q_id": "2"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "fa392c38232e923b4badab172c8563d5895f5b531d1a6ace0fe477dac16d3f1a",
+      "q_id": "3"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "021d7fa24bb4a08ab0825d3608094cf86c0c80fe636f6230af6aa5129a01ec19",
+      "q_id": "3"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "633121ae416c64137739675e4f8769d7ffc8fb1f254553b185265ef84af18d1d",
+      "q_id": "4"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "955eff524280a15d82dc9ef047ca340e6d9d37a6b2381afa8b5ec520571f91b8",
+      "q_id": "4"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "86998321b1f096c6e9620c5f93ccf0da8f5333258eff90c90f5a3db145edf72d",
+      "q_id": "5"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "986f9a2fd9674dcac1446d46914d47956bf80ba05b53398838ec50a5d4523182",
+      "q_id": "5"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "00979378cc76f7cc1b6c53e002df1015dc4e34f63f919041dd42285035bf6bc2",
+      "q_id": "6"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "ce0ceaba9560788d0b1a41189654e51d548000c13affbffbcb0c1d44a77424a0",
+      "q_id": "6"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "587dbc7a9cf145a3ccaa07cae8e207a41d4385f16561b6b0721c8a01bdac2e21",
+      "q_id": "7"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "3ffdbdae496cf66b7843079234706bf7a2e2d330a22f6229efa3ba7fd45dc7b1",
+      "q_id": "7"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "237884d70a9884d11d9c4a424487c9e76336187ba2b122840531fcc0ea951746",
+      "q_id": "8"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "1792512f5a4b26bb0cbd5b80b422674edc1d8d11204724c4c7074d8e96af89b7",
+      "q_id": "8"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "408ee291c29d14c659a806384bf245e8d214026823bab56c396a9e911f8f2801",
+      "q_id": "9"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "c53e658d6acd804b3958a304beaef483adb9723354fae5f491d777cc48a5be72",
+      "q_id": "9"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "a1bd2cf56e95472002c864753064287918d80a19ffd3185950d10d3245a54a4a",
+      "q_id": "10"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "40ae87e0cea0e3f7aac079481aa706c9a8a98359a94ac1c6dd88af902252690f",
+      "q_id": "10"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "5983f57ecb83d4089332855c655a267c7f856e6f1629ac5ffeff40bb914e3fbd",
+      "q_id": "11"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "7b628eea6dbbe5202c89726f2e088b6abd864054576fbdd8f1e46bf36c8b6638",
+      "q_id": "11"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "5f8cdd25a82b12afb18f9fe5251b508b1ce2c0a8163c9f8b2043f4c8622db4a9",
+      "q_id": "12"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "0b94e963ee14b66492b228a0844996a04f7cddacda2527701a2d5fe5b854303b",
+      "q_id": "12"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "ea8b92bb15ea3e33fb4f859a98011c8395c38ee95b0147cecd3e211ca5fa92eb",
+      "q_id": "13"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "866e9c5ebf252cb1ca8dff11ade4e94b76acce3acf1c6670b3c6405fa393a90a",
+      "q_id": "13"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "a620d492d44a317d94acb3298a4a14102ee5a24b8f8f3e6c95b29edb1791fc1b",
+      "q_id": "14"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "dbf7d73c01b680cee346bc5f0e89ca1d94a1401b67ec162993bc881783649aee",
+      "q_id": "14"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "30f4e0d31b3d6eb047e45fee6cbc03cfa7874f8bcf3966087b91bb37e6de84d1",
+      "q_id": "15"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "bdf28de56c02fe073d6ba6583649369198fe333bd66d1a72545fa0787450a1fa",
+      "q_id": "15"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "ece93ce55d915890100b4734b382693f4da8d6f56a6f35efc58906ecbe802bae",
+      "q_id": "16"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "b8eab1f681063b1d75413598b0f1780f594090cc194a8d9c37124bab6471521b",
+      "q_id": "16"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "6041b28548848543895206e830730ec427ea8666e4f87be46d8075db0f956983",
+      "q_id": "17"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "12130c92ec5cc73ffeb880c747fa48382e33895c1d17b4dafbe344dc8aa83f92",
+      "q_id": "17"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "c715d173d123da527eb3e1e73002bbb2c7ebcbf54cc310ded80ed8ba4df95bb6",
+      "q_id": "18"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "42a21e0585ddd88136c4f5d0045696ad1a6bd9575202f02e24015dfc116bc122",
+      "q_id": "18"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "8376c8beaecdee96761aab18268e98b87587890d9b7730eca555d060b248d34a",
+      "q_id": "19"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "3d523f299840f5e3860dfc4ec07dbd9c0969dd33eb9151d2fab31c80f00c38cd",
+      "q_id": "19"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "9cc2632af65b60cc7fb3141c37151d216f14384b0cb71d8c13390e973853a624",
+      "q_id": "20"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "b1bfae85fb649481d10fb29d1b7603358917d897bfa594e3b0d0606802a87ecd",
+      "q_id": "20"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "31525b5b72f1ccf1d3e81cbbfed3b052ed0eae4cedb02bdd7e63479ec8e6b7d3",
+      "q_id": "21"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "9431dfbdc1ebe12d6f3c5b2ee154b2b67f282593ad12a3c515b453f51747d10d",
+      "q_id": "21"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "26cc79be368cdbd394c18845c39a466fa799aec7956778658c5659adaf15bf51",
+      "q_id": "22"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "1354071ad798f0e14db2d74f9f8b71c4080ddd7df06939e8c4d45cfb7486b3af",
+      "q_id": "22"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "b1fb1469e3cf66abbda3dbffadbd1447da0d057702ae05c1b2e3eebf044417a4",
+      "q_id": "23"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "49cdc2c9d84ef9999a1d244c85d02a706ad68d41fe3982d447e7fdb9c21b98a7",
+      "q_id": "23"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "817c4d2b0486ca3e3cef25ad5520284719e357342425adbc12cb609f9df28352",
+      "q_id": "24"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "b0b4fab2f65beec9f1329266582ace20a6ecdd517b217f05cbacd36a7d6f7d08",
+      "q_id": "24"
+    },
+    {
+      "config": "H",
+      "judge": "Gemma 4 31B",
+      "leaf": "8deb85a24e7284c0e22da7fd361f650d921b24ad669464dbebae0cf5d8562423",
+      "q_id": "25"
+    },
+    {
+      "config": "N",
+      "judge": "Gemma 4 31B",
+      "leaf": "1aba0f55b94059937512d098f53c02f2d2bbaa3a6fb049441a3c6a866cd3f8da",
+      "q_id": "25"
+    }
+  ],
+  "merkle_root": "c54ce09d32f265c9e66611efecf45195b5095777ae22002165cd08f13c56930c",
+  "milestone": "synopsis_span_v1",
+  "project_id": "passer-rag",
+  "submission": {
+    "admin": "sscore",
+    "bc_url": "http://blockchain2.uni-plovdiv.net:8033",
+    "contract": "sraudit",
+    "ok": true,
+    "raw": {
+      "processed": {
+        "account_ram_delta": null,
+        "action_traces": [
+          {
+            "account_ram_deltas": [
+              {
+                "account": "sraudit",
+                "delta": 422
+              }
+            ],
+            "act": {
+              "account": "sraudit",
+              "authorization": [
+                {
+                  "actor": "sraudit",
+                  "permission": "active"
+                }
+              ],
+              "data": {
+                "admin": "sscore",
+                "filehash": "87da35411e29872b8ef5dfdcf7751fa2fec7179f554cb1ec7e6585eaa21ac7fa",
+                "leafcount": 150,
+                "merkleroot": "c54ce09d32f265c9e66611efecf45195b5095777ae22002165cd08f13c56930c",
+                "milestone": "synopsis_span_v1",
+                "projectid": "passer-rag"
+              },
+              "hex_data": "00000000a84b11c60a7061737365722d7261671073796e6f707369735f7370616e5f76314063353463653039643332663236356339653636363131656665636634353139356235303935373737616532323030323136356364303866313363353639333063403837646133353431316532393837326238656635646664636637373531666132666563373137396635353463623165633765363538356561613231616337666196000000",
+              "name": "logaudit"
+            },
+            "action_ordinal": 1,
+            "block_num": 186965271,
+            "block_time": "2026-06-07T11:49:57.500",
+            "closest_unnotified_ancestor_action_ordinal": 0,
+            "console": "Audit logged: sscore [passer-rag] synopsis_span_v1 merkle:c54ce09d32f265c9... file:87da35411e29872b... leaves:150",
+            "context_free": false,
+            "creator_action_ordinal": 0,
+            "elapsed": 230,
+            "error_code": null,
+            "except": null,
+            "inline_traces": [],
+            "producer_block_id": null,
+            "receipt": {
+              "abi_sequence": 5,
+              "act_digest": "f92314bbd1433c40e703405fc3507aca5175baf66f9a0a8ba15086b647f3dd6d",
+              "auth_sequence": [
+                [
+                  "sraudit",
+                  17487
+                ]
+              ],
+              "code_sequence": 5,
+              "global_sequence": 187142420,
+              "receiver": "sraudit",
+              "recv_sequence": 17477
+            },
+            "receiver": "sraudit",
+            "return_value_hex_data": "",
+            "trx_id": "7f0d368b7599c021f4e6f05c5e4fd77c880a182f2f84857f83a794d7d3b2e950"
+          }
+        ],
+        "block_num": 186965271,
+        "block_time": "2026-06-07T11:49:57.500",
+        "elapsed": 452,
+        "error_code": null,
+        "except": null,
+        "id": "7f0d368b7599c021f4e6f05c5e4fd77c880a182f2f84857f83a794d7d3b2e950",
+        "net_usage": 264,
+        "producer_block_id": null,
+        "receipt": {
+          "cpu_usage_us": 452,
+          "net_usage_words": 33,
+          "status": "executed"
+        },
+        "scheduled": false
+      },
+      "transaction_id": "7f0d368b7599c021f4e6f05c5e4fd77c880a182f2f84857f83a794d7d3b2e950"
+    },
+    "tx_id": "7f0d368b7599c021f4e6f05c5e4fd77c880a182f2f84857f83a794d7d3b2e950"
+  },
+  "submission_time": "2026-06-07T11:49:56.817799Z"
+}

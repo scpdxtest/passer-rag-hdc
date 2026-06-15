@@ -1,0 +1,95 @@
+{
+  "started": "2026-05-21T07:41:21.546679+00:00",
+  "results": [
+    {
+      "paper_id": "1",
+      "filename": "001 - 2509.22965v2.pdf",
+      "status": "ok",
+      "chunks": 61,
+      "failed_chunks": 0,
+      "title": "Blockchain-Based Secure Online Voting Platform",
+      "error": ""
+    },
+    {
+      "paper_id": "2",
+      "filename": "002 - Enhancing_Democratic_Processes_A_Survey_of_DRE_Int.pdf",
+      "status": "ok",
+      "chunks": 283,
+      "failed_chunks": 0,
+      "title": "This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and",
+      "error": ""
+    },
+    {
+      "paper_id": "3",
+      "filename": "003 - 2501.05626v4.pdf",
+      "status": "ok",
+      "chunks": 134,
+      "failed_chunks": 0,
+      "title": "Kite: How to Delegate Voting Power Privately",
+      "error": ""
+    },
+    {
+      "paper_id": "4",
+      "filename": "004 - 297442fc-9401-4ab5-aa39-1ab2a1c6b279_f1000res160087.pdf",
+      "status": "ok",
+      "chunks": 227,
+      "failed_chunks": 0,
+      "title": "Blockchain-enhanced electoral integrity: a robust",
+      "error": ""
+    },
+    {
+      "paper_id": "5",
+      "filename": "005 - Blockchain_Based_Cryptographic_Algorithm_for_Data_.pdf",
+      "status": "ok",
+      "chunks": 57,
+      "failed_chunks": 0,
+      "title": "EAI Endorsed Transactions",
+      "error": ""
+    },
+    {
+      "paper_id": "6",
+      "filename": "006 - 1-s2.0-S2772918425000037-main.pdf",
+      "status": "ok",
+      "chunks": 74,
+      "failed_chunks": 0,
+      "title": "Cyber Security and Applications 3 (2025) 100086",
+      "error": ""
+    },
+    {
+      "paper_id": "9",
+      "filename": "009 - MBCSD-IoT_A_Multi-Level_Blockchain-Assisted_SDN-Based_IoT_Architecture_for_Secured_E-Voting_System.pdf",
+      "status": "ok",
+      "chunks": 69,
+      "failed_chunks": 0,
+      "title": "MBCSD-IoT: A Multi-Level Blockchain-Assisted",
+      "error": ""
+    },
+    {
+      "paper_id": "10",
+      "filename": "010 - 2025109210.pdf",
+      "status": "ok",
+      "chunks": 52,
+      "failed_chunks": 0,
+      "title": "Securing Blockchain-based E-Voting through",
+      "error": ""
+    },
+    {
+      "paper_id": "11",
+      "filename": "011 - SecureandScalableBlockchainVoting.pdf",
+      "status": "ok",
+      "chunks": 68,
+      "failed_chunks": 0,
+      "title": "International Journal of Research Publication and Reviews, Vol 6, Issue 8, pp 1172-1185 August, 2025",
+      "error": ""
+    },
+    {
+      "paper_id": "12",
+      "filename": "012 - 1746873897wpdm_ELECTORAL-VOTING-SYSTEM-USING-BLOCKCHAIN.pdf",
+      "status": "ok",
+      "chunks": 64,
+      "failed_chunks": 0,
+      "title": "Electoral Voting System Using Blockchain",
+      "error": ""
+    }
+  ]
+}

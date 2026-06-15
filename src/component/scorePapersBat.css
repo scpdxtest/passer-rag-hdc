@@ -1,0 +1,20 @@
+.scorePapersBat { padding: 16px 24px; text-align: left; }
+.scorePapersBat h2 { margin: 0 0 12px 0; }
+.scorePapersBat h3 { margin: 0 0 10px 0; font-size: 16px; }
+.scorePapersBat label { display: block; font-size: 12px; color: #555; margin-top: 8px; }
+.scorePapersBat .card {
+    background: #fafbfc; border: 1px solid #e1e4e8; border-radius: 8px;
+    padding: 14px; margin-bottom: 14px;
+}
+.scorePapersBat .row { display: flex; gap: 8px; align-items: center; }
+.scorePapersBat .grid-2col { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
+.scorePapersBat .grid-3col { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; }
+.scorePapersBat .grid-2col > .card { margin-bottom: 0; }
+.scorePapersBat .p-inputtext { width: 100%; }
+.scorePapersBat .hint { font-size: 12px; color: #666; margin-top: 6px; }
+.scorePapersBat .embedGuard.match { border-left: 4px solid #22863a; }
+.scorePapersBat .embedGuard.mismatch { border-left: 4px solid #d73a49; background: #fff8f8; }
+.scorePapersBat .err {
+    background: #fff5f5; color: #b00020; border: 1px solid #ffd1d1;
+    border-radius: 6px; padding: 8px; margin-top: 8px; font-size: 13px;
+}

@@ -1,0 +1,46 @@
+================================================================================
+§V.B — Multi-judge re-analysis (3 judges)
+  · Mistral 7B
+  · Llama 3.1 70B
+  · Gemma 4 31B
+================================================================================
+
+SMOKING-GUN ROW (mean synopsis_input_chars per config)
+--------------------------------------------------------------------------------
+  H: n= 16  mean=  10398.2  median=13333.5  range=[2013..14007]
+  N: n= 16  mean=    905.4  median=  210.0  range=[15..4424]
+
+================================================================================
+SUBSET: summarisation  (n=15 questions)
+================================================================================
+  Faithfulness [Mistral 7B        ]: H = 0.873 [0.739, 0.975]  N = 0.859 [0.753, 0.945]  Wilcoxon p=0.4414
+  Faithfulness [Llama 3.1 70B     ]: H = 0.483 [0.358, 0.609]  N = 0.461 [0.355, 0.562]  Wilcoxon p=1.0000
+  Faithfulness [Gemma 4 31B       ]: H = 0.411 [0.285, 0.541]  N = 0.391 [0.289, 0.490]  Wilcoxon p=0.9854
+
+  inter-judge correlation matrix (Pearson r, n=30 per-(q,cfg) matches):
+                                        Mistral 7B           Llama 3.1 70B             Gemma 4 31B
+    Mistral 7B                                —                      0.710                   0.603
+    Llama 3.1 70B                            0.710                    —                      0.896
+    Gemma 4 31B                              0.603                   0.896                    —   
+
+================================================================================
+SUBSET: control  (n=10 questions)
+================================================================================
+  Faithfulness [Mistral 7B        ]: H = 0.984 [0.960, 1.000]  N = 0.992 [0.976, 1.000]  Wilcoxon p=1.0000
+  Faithfulness [Llama 3.1 70B     ]: H = 0.617 [0.367, 0.834]  N = 0.617 [0.367, 0.834]  Wilcoxon p=1.0000
+  Faithfulness [Gemma 4 31B       ]: H = 0.206 [0.093, 0.313]  N = 0.163 [0.040, 0.293]  Wilcoxon p=0.5000
+
+  inter-judge correlation matrix (Pearson r, n=20 per-(q,cfg) matches):
+                                        Mistral 7B           Llama 3.1 70B             Gemma 4 31B
+    Mistral 7B                                —                     -0.056                   0.112
+    Llama 3.1 70B                           -0.056                    —                      0.634
+    Gemma 4 31B                              0.112                   0.634                    —   
+
+================================================================================
+Non-judge metrics (identical across judges)
+================================================================================
+  Recall@10              [summarisation]: H = 15/15 (100.0%) [ 79.6, 100.0]  N = 15/15 (100.0%) [ 79.6, 100.0]  McNemar p=1.0000
+  Recall@10              [control      ]: H = 10/10 (100.0%) [ 72.2, 100.0]  N = 3/10 ( 30.0%) [ 10.8,  60.3]  McNemar p=0.0156
+  Synopsis-Recall@10     [summarisation]: H = 15/15 (100.0%) [ 79.6, 100.0]  N = 13/15 ( 86.7%) [ 62.1,  96.3]  McNemar p=0.5000
+  Hedging Rate           [summarisation]: H = 4/15 ( 26.7%) [ 10.9,  52.0]  N = 1/15 (  6.7%) [  1.2,  29.8]  McNemar p=0.3750
+  Hedging Rate           [control      ]: H = 0/10 (  0.0%) [  0.0,  27.8]  N = 0/10 (  0.0%) [  0.0,  27.8]  McNemar p=1.0000

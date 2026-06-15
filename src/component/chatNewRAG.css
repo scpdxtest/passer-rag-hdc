@@ -1,0 +1,95 @@
+.chatNewRAG { padding: 16px 24px; text-align: left; }
+.chatNewRAG h2 { margin: 0 0 12px 0; }
+.chatNewRAG h3 { margin: 0 0 10px 0; font-size: 16px; }
+.chatNewRAG label {
+    display: block; font-size: 12px; color: #555; margin-top: 8px;
+}
+.chatNewRAG .card {
+    background: #fafbfc; border: 1px solid #e1e4e8; border-radius: 8px;
+    padding: 14px; margin-bottom: 14px;
+}
+.chatNewRAG .row { display: flex; gap: 8px; align-items: center; }
+.chatNewRAG .grid-2col {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px;
+}
+.chatNewRAG .grid-2col > .card { margin-bottom: 0; }
+.chatNewRAG .p-inputtext, .chatNewRAG .p-dropdown {
+    width: 100%;
+}
+.chatNewRAG .err {
+    background: #fff5f5; color: #b00020;
+    border: 1px solid #ffd1d1; border-radius: 6px;
+    padding: 8px; font-size: 13px;
+}
+
+/* ---- Chat panel ---- */
+.chatNewRAG .chatPanel { display: flex; flex-direction: column; gap: 10px; }
+.chatNewRAG .messages {
+    background: #ffffff;
+    border: 1px solid #e1e4e8;
+    border-radius: 8px;
+    padding: 12px;
+    height: 500px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.chatNewRAG .emptyHint {
+    color: #999; text-align: center; padding: 60px 20px; font-size: 14px;
+}
+.chatNewRAG .msg { display: flex; flex-direction: column; }
+.chatNewRAG .msg-header {
+    font-size: 12px; color: #444; margin-bottom: 4px; display: flex; align-items: center;
+}
+.chatNewRAG .msg-body {
+    margin: 0;
+    padding: 10px 12px;
+    border-radius: 8px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: inherit;
+    font-size: 14px;
+    line-height: 1.45;
+}
+.chatNewRAG .msg-user .msg-body {
+    background: #e8f4ff; color: #0a3b66; align-self: flex-end;
+    max-width: 80%;
+}
+.chatNewRAG .msg-assistant .msg-body {
+    background: #f3f4f6; color: #1f2937; align-self: flex-start;
+    max-width: 90%;
+}
+.chatNewRAG .msg-user .msg-header { justify-content: flex-end; }
+
+/* ---- Retrieved-chunks panel ---- */
+.chatNewRAG .chunkPanel { margin-top: 8px; font-size: 12px; }
+.chatNewRAG .chunk {
+    border-left: 3px solid #cfd5db;
+    padding: 6px 10px;
+    margin: 6px 0;
+    background: #fbfcfd;
+}
+.chatNewRAG .chunk-head {
+    display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
+    margin-bottom: 4px; font-size: 11px;
+}
+.chatNewRAG .chunk-title {
+    color: #555; font-style: italic;
+    margin-left: 6px; font-size: 11px;
+}
+.chatNewRAG .chunk-body {
+    margin: 0; padding: 6px 8px;
+    background: #f6f8fa;
+    border-radius: 4px;
+    font-size: 11px;
+    line-height: 1.4;
+    max-height: 180px; overflow: auto;
+    white-space: pre-wrap;
+}
+
+/* ---- Composer ---- */
+.chatNewRAG .composer {
+    display: flex; gap: 8px; align-items: flex-end;
+}
+.chatNewRAG .composer .p-inputtextarea { flex: 1; }
